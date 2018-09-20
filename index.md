@@ -28,13 +28,32 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.16.3 (2018-9-7)
+## 3.17.0 (2018-9-20)
+### Minor Changes 
+
+- add User Call Report component for groups
+- Add answerIndicator and relatedCallIdReason to csv download of call records
+- Add user privacy component
+- Minor update on service packs UI
+- Added group level feature access codes
+- Update user privacy api
+- Group schedule updated to accept a slash in name
+- Update Group Event to use new API format to allow slashes
+- Convert autoActivateNumber to string to make it editable in edit-in-place csv editor within the bulk create section
+- Added feature access code reset at group level:
+- Added feature access code refresh on reload of page
+- Add alias of Client License -&gt; Alias Name for User Services assignment.  eg:  Client License 17 = BroadTouch Business Communicator Mobile - Video
+- Added group speed dial 100 prefix to feature access codes
+- Fixed verbage on speed dial 100 modal
+- Added min and max length for speed dial 100
+- Update Call Park service to allow slash in Group name
+- Allow slashes in Call Pickup Group Name
+- Support slashes in Department Names
+
 ### Patches 
 
-- Fixed speed dial 100 speed dial code
-- Add Group Night Forwarding to Virtual Users configuration menu
-- Update uc one bulk to recognize all Business Communicator device types
-- Fix type in group collaborate router
-- Add navigation back in collaborate instance
+- Bug in schedules filter.  closes parkbenchsolutions/support-exponential-e/issues/109
+- Fix user call report firstname/lastname
+
 
   
