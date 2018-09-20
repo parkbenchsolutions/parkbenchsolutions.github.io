@@ -1,23 +1,34 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.16.3 (9/6/2018)
+## 3.17.0 (2018-9-20)
+### Minor Changes 
+
+- Added rollback to bulk user create to remove created devices upon user failure
+- Add user.login.failure and user.login.expired
+- Add user privacy api
+- Add userPrivacy to API
+- Added group feature access code endpoints
+- Added group feature access code database migration
+- Update User Privacy API
+- Added feature access code reset
+- Added restore default codes to all versions of feature access codes
+- Added group speed dial 100 api request
+- Added Client License Mappings for 3,4,17,18,19
+- Return alias on Group Services and Service Pack Services Update Group Call Park API to accept a slash in the Group Name
+- Allow Slashes in Group Call Pickup Group Names
+- Support Slashes in Department Names
+
 ### Patches 
 
-- Remove orderBy clause on Group and User Call Records
-- Added group routing profile check for clone
-- Check for invalid tokens
-- Add functionality to webhooks, if a 404 or 410 error is returned, immediately fail
-- Added user call summary report
-- Fix debug logs on soap error
-- Update device tags to match all Business Communicator types.  add related services to devices for convenience
-- Update soap client to work with broadworks new payload and response in recent updated soap server
-- AA daily Error
-- A few fixes in UserCallRecords Summary
-
+- Postman notes
+- Fixed fac update
+- Update Group Schedule API to work with slashes in schedule name
+- Update Group Event API to accept names with slash
+- Accept string FALSE on autoActivate phone number setting
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.16.3 (9/6/2018)
+## 3.16.3 (2018-9-7)
 ### Patches 
 
 - Fixed speed dial 100 speed dial code
