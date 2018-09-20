@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.1 (2018-9-20)
+no changes, sync version with web
+
+<br><br>
 ## 3.17.0 (2018-9-20)
 ### Minor Changes 
 
