@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 3.17.2 (2018-9-25)
+### Patches 
+
+- Update to department routing
+- Update routing on callpark, callpickup, departments, schedules
+- Update routes on announcements
+- Allow slash in auto attendant
+- Migrate some services to v2 routes
+
+<br><br>
 ## 3.17.1 (2018-9-20)
 ### Patches 
 
