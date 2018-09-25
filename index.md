@@ -1,13 +1,21 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.1 (2018-9-20)
-no changes, sync version with web
+## 3.17.2 (2018-9-25)
+### Patches 
+
+- Allow slash in auto attendant
+- Add v2 routes
+- Fix error showing user service packs
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.1 (2018-9-20)
+## 3.17.2 (2018-9-25)
 ### Patches 
 
-- Fix compilation error
+- Update to department routing
+- Update routing on callpark, callpickup, departments, schedules
+- Update routes on announcements
+- Allow slash in auto attendant
+- Migrate some services to v2 routes
 
   
