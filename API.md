@@ -1,4 +1,12 @@
 # API Latest Releases
+## 3.17.2 (2018-9-25)
+### Patches 
+
+- Allow slash in auto attendant
+- Add v2 routes
+- Fix error showing user service packs
+
+<br><br>
 ## 3.17.1 (2018-9-20)
 no changes, sync version with web
 
