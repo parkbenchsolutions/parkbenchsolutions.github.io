@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.3 (2018-9-26)
+## 3.17.4 (2018-9-26)
 ### Patches 
 
-- Fix but in Group Service Pack assignment that was introduced in 3.17.1
+- Fixed auto attendant status change (disabled-enabled) bug introduced in 3.17.1
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
