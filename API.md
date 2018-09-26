@@ -1,4 +1,10 @@
 # API Latest Releases
+## 3.17.4 (2018-9-26)
+### Patches 
+
+- Fixed auto attendant status change (disabled-enabled) bug introduced in 3.17.1
+
+<br><br>
 ## 3.17.3 (2018-9-26)
 ### Patches 
 
