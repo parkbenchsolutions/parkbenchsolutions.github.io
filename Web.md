@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 3.17.4 (2018-9-26)
+### Patches 
+
+- Added {{ phoneNumberDigits }} which is the user phone number with non-numbers stripped (eg: +1-5133334444 =&gt; 15133334444).  added {{ phoneNumberShort }} which is the user phone number with the country code stripped (eg: +1-5133334444 =&gt; 5133334444).
+- Fix autoattendant status update
+
+<br><br>
 ## 3.17.3 (2018-9-26)
 no changes sync with API release
 
