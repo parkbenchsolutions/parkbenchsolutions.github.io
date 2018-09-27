@@ -1,16 +1,16 @@
 # Web Latest Releases
-## 3.17.4 (2018-9-26)
+## 3.17.4 (9/26/2018)
 ### Patches 
 
 - Added {{ phoneNumberDigits }} which is the user phone number with non-numbers stripped (eg: +1-5133334444 =&gt; 15133334444).  added {{ phoneNumberShort }} which is the user phone number with the country code stripped (eg: +1-5133334444 =&gt; 5133334444).
 - Fix autoattendant status update
 
 <br><br>
-## 3.17.3 (2018-9-26)
+## 3.17.3 (9/25/2018)
 no changes sync with API release
 
 <br><br>
-## 3.17.2 (2018-9-25)
+## 3.17.2 (9/25/2018)
 ### Patches 
 
 - Update to department routing
@@ -20,13 +20,13 @@ no changes sync with API release
 - Migrate some services to v2 routes
 
 <br><br>
-## 3.17.1 (2018-9-20)
+## 3.17.1 (9/20/2018)
 ### Patches 
 
 - Fix compilation error
 
 <br><br>
-## 3.17.0 (2018-9-20)
+## 3.17.0 (9/20/2018)
 ### Minor Changes 
 
 - add User Call Report component for groups
@@ -55,7 +55,7 @@ no changes sync with API release
 
 
 <br><br>
-## 3.16.3 (2018-9-7)
+## 3.16.3 (9/6/2018)
 ### Patches 
 
 - Fixed speed dial 100 speed dial code
@@ -65,11 +65,11 @@ no changes sync with API release
 - Add navigation back in collaborate instance
 
 <br><br>
-## 3.16.2 (2018-8-17)
+## 3.16.2 (8/17/2018)
 sync with api
 
 <br><br>
-## 3.16.0 (2018-8-15)
+## 3.16.0 (8/15/2018)
 ### Minor Changes 
 
 - Datetime parse re-implemented with fix on future date issues as well as a help section.
@@ -102,15 +102,15 @@ sync with api
 - Simplify favicons
 
 <br><br>
-## 3.15.2 (2018-7-10)
+## 3.15.2 (7/10/2018)
 sync with api
 
 <br><br>
-## 3.15.1 (2018-7-10)
+## 3.15.1 (7/10/2018)
 Initial release
 
 <br><br>
-## 3.15.0 (2018-7-10)
+## 3.15.0 (7/10/2018)
 ### Minor Changes 
 
 - Squashed commit of the following:
@@ -127,27 +127,27 @@ Initial release
 - Remove hover in group directory listing
 
 <br><br>
-## 3.14.4 (2018-7-6)
+## 3.14.4 (7/6/2018)
 ### Patches 
 
 - Add some min/max checks on call center forms
 - Hide supervisors tab from basic call center apply branding to auto attendant report enforce branding permissions to enterprise trunk
 
 <br><br>
-## 3.14.3 (2018-7-5)
+## 3.14.3 (7/5/2018)
 ### Patches 
 
 - upgrade angular 1.7 
 - Update switch css
 
 <br><br>
-## 3.14.2 (2018-7-4)
+## 3.14.2 (7/4/2018)
 ### Patches 
 
 - Revert &quot;add session requirement to pbsRouteProvider&quot;
 
 <br><br>
-## 3.14.1 (2018-7-4)
+## 3.14.1 (7/4/2018)
 ### Patches 
 
 - Add session requirement to pbsRouteProvider
@@ -157,7 +157,7 @@ Initial release
 - Fix notfound page with back button
 
 <br><br>
-## 3.14.0 (2018-7-3)
+## 3.14.0 (7/3/2018)
 ### Minor Changes 
 
 - Upgrade deps
@@ -171,7 +171,7 @@ Initial release
 - Added required field for collaborate room
 
 <br><br>
-## 3.13.1 (2018-6-29)
+## 3.13.1 (6/29/2018)
 ### Patches 
 
 - Fix routing on call center to show overflow on basic
@@ -181,7 +181,7 @@ Initial release
 - Fix delete alert notification on meetme conf
 
 <br><br>
-## 3.13.0 (2018-6-28)
+## 3.13.0 (6/28/2018)
 ### Minor Changes 
 
 - New checkbox, select, radio, switch directives
@@ -195,7 +195,7 @@ Initial release
 - Fix announcements - allow selecting Group Level announcements and attaching to Call Center instance
 
 <br><br>
-## 3.12.0 (2018-6-21)
+## 3.12.0 (6/21/2018)
 ### Minor Changes 
 
 - Added virtual on net
@@ -215,14 +215,14 @@ Initial release
 - IE11 Modal CSS hacks
 
 <br><br>
-## 3.11.0 (2018-6-12)
+## 3.11.0 (6/12/2018)
 - Added Group Night Forwarding
 - Added User Night Forwarding
 - Added Group Intercept
 - fix user.create in bulk to not ask for selected users
 
 <br><br>
-## 3.10.0 (2018-6-11)
+## 3.10.0 (6/11/2018)
 ### Minor Changes 
 
 - Update AA to use new callTime field
@@ -230,7 +230,7 @@ Initial release
 - Added number selection modal to use in group number assignment/activation
 
 <br><br>
-## 3.9.0 (2018-6-7)
+## 3.9.0 (6/7/2018)
 ### Minor Changes 
 
 - Make group AA report search use new date format
@@ -254,24 +254,24 @@ Initial release
 - Fix bug in phone search.  119903d4b58b7339c006b04b5b39d1a2cceb4c4e
 
 <br><br>
-## 3.8.3 (2018-5-30)
+## 3.8.3 (5/30/2018)
 ### Patches 
 
 - Fix service provider service licensing
 
 <br><br>
-## 3.8.2 (2018-5-30)
+## 3.8.2 (5/30/2018)
 sync with api
 
 <br><br>
-## 3.8.1 (2018-5-30)
+## 3.8.1 (5/30/2018)
 ### Patches 
 
 - Added x-xss-protection x-content-type-options x-frame-options referrer-policy strict-transport-security content-security-policy to proxy
 - Fixed auto attendant permissions when only has - Standard assigned.  closes parkbenchsolutions/docs/issues/417
 
 <br><br>
-## 3.8.0 (2018-5-24)
+## 3.8.0 (5/24/2018)
 ### Minor Changes 
 
 - Make all searches default to contains.  autofocus on search modal input
@@ -279,19 +279,19 @@ sync with api
 - Added autofocus directive to allow autofocus to work on subsequent modal openings
 
 <br><br>
-## 3.7.11 (2018-5-21)
+## 3.7.11 (5/21/2018)
 ### Patches 
 
 - Remove old password match code that is no longer needed.
 
 <br><br>
-## 3.7.10 (2018-5-19)
+## 3.7.10 (5/18/2018)
 ### Patches 
 
 - Passwords should not be required for editing group admins
 
 <br><br>
-## 3.7.9 (2018-5-18)
+## 3.7.9 (5/18/2018)
 ### Patches 
 
 - Added generate password compoennt
@@ -299,7 +299,7 @@ sync with api
 - Add passcode component.  finish password replacement
 
 <br><br>
-## 3.7.8 (2018-5-16)
+## 3.7.8 (5/16/2018)
 ### Patches 
 
 - Moved account code and auth code to end of table columns
@@ -307,18 +307,18 @@ sync with api
 - Fix table for system licensing.  closes parkbenchsolutions/docs/issues/422
 
 <br><br>
-## 3.7.7 (2018-5-15)
+## 3.7.7 (5/15/2018)
 Initial release
 
 <br><br>
-## 3.7.6 (2018-5-15)
+## 3.7.6 (5/15/2018)
 ### Patches 
 
 - Added answer indicator related call id reason call time and total time
 - Hide Redirect Out of Primary Zone to Voicemail
 
 <br><br>
-## 3.7.5 (2018-5-15)
+## 3.7.5 (5/15/2018)
 ### Patches 
 
 - Add options to selectPhoneNumber component (show-all and allow-manual).  Set show-all to Group CLID and User CLID.  Set allow-manual to User CLID.
@@ -327,31 +327,31 @@ Initial release
 - Global dn search for provisioning and above
 
 <br><br>
-## 3.7.4 (2018-5-14)
+## 3.7.4 (5/14/2018)
 Initial release
 
 <br><br>
-## 3.7.3 (2018-5-14)
+## 3.7.3 (5/14/2018)
 ### Patches 
 
 - Fixed custom contact directories path
 - Add filter to select service provider so we can restrict clone group to same type of enterprise/serviceprovider
 
 <br><br>
-## 3.7.2 (2018-5-10)
+## 3.7.2 (5/10/2018)
 ### Patches 
 
 - Make last name the default field for user search
 - Normalize search forms
 
 <br><br>
-## 3.7.1 (2018-5-10)
+## 3.7.1 (5/9/2018)
 ### Patches 
 
 - Fix alternate entries edit modal not opening
 
 <br><br>
-## 3.7.0 (2018-5-10)
+## 3.7.0 (5/9/2018)
 ### Minor Changes 
 
 - Allow service search across all types
@@ -364,7 +364,7 @@ Initial release
 - Fix user services bulk removing service
 
 <br><br>
-## 3.6.1 (2018-5-8)
+## 3.6.1 (5/7/2018)
 ### Minor Changes 
 
 - Initial sso emu integration
@@ -377,13 +377,13 @@ Initial release
 - Hide sso integration in applications
 
 <br><br>
-## 3.5.1 (2018-5-4)
+## 3.5.1 (5/4/2018)
 ### Patches 
 
 - Fix device type search on group devices page
 
 <br><br>
-## 3.5.0 (2018-5-2)
+## 3.5.0 (5/2/2018)
 ### Minor Changes 
 
 - Expand numbers for adding/removing from group
@@ -402,7 +402,7 @@ Initial release
 - Enabled to is active
 
 <br><br>
-## 3.4.0 (2018-5-1)
+## 3.4.0 (4/30/2018)
 ### Minor Changes 
 
 - Added random generate for password and passcode
@@ -417,14 +417,14 @@ Initial release
 - Document drobdown button
 
 <br><br>
-## 3.3.2 (2018-4-28)
+## 3.3.2 (4/27/2018)
 ### Patches 
 
 - Bulk UI updates
 - Some additional ui updates
 
 <br><br>
-## 3.3.0 (2018-4-24)
+## 3.3.0 (4/24/2018)
 ### Minor Changes 
 
 - Finish vir user
@@ -436,25 +436,25 @@ Initial release
 - Fix group call record search
 
 <br><br>
-## 3.2.5 (2018-4-20)
+## 3.2.5 (4/19/2018)
 ### Patches 
 
 - Fix css style on table
 
 <br><br>
-## 3.2.4 (2018-4-20)
+## 3.2.4 (4/19/2018)
 ### Patches 
 
 - Fix users routing error
 
 <br><br>
-## 3.2.3 (2018-4-19)
+## 3.2.3 (4/19/2018)
 ### Patches 
 
 - Remove auto attendant report from UI, as its not complete yet
 
 <br><br>
-## 3.2.2 (2018-4-19)
+## 3.2.2 (4/19/2018)
 ### Patches 
 
 - Change UI route
@@ -500,7 +500,7 @@ Initial release
 
 
 <br><br>
-## 3.2.1 (2018-4-3)
+## 3.2.1 (4/3/2018)
 ### Patches 
 
 - Add rebuild and reset button to user devices
@@ -508,7 +508,7 @@ Initial release
 - Update on call records open - fixed bug
 
 <br><br>
-## 3.2.0 (2018-3-30)
+## 3.2.0 (3/30/2018)
 ### Minor Changes 
 
 - Group network class of service
@@ -537,19 +537,19 @@ Initial release
 - Revert
 
 <br><br>
-## 3.1.2 (2018-3-14)
+## 3.1.2 (3/14/2018)
 ### Patches 
 
 - Add trunk name changes to trunk group - authentication permissions.  availabe in 3.1.2. 
 
 <br><br>
-## 3.1.1 (2018-3-14)
+## 3.1.1 (3/14/2018)
 ### Patches 
 
 - Fix addresses permissions tied to provisioning in branding
 
 <br><br>
-## 3.1.0 (2018-3-13)
+## 3.1.0 (3/13/2018)
 ### Minor Changes 
 
 - Slightly widen modals.  move custom css to end of loading to override anything before it
@@ -582,15 +582,15 @@ Initial release
 - Remove fontawesome svg because its not updating on class changes - move to web fonts
 
 <br><br>
-## 3.0.18 (2018-2-20)
+## 3.0.18 (2/20/2018)
 In sync w/ api
 
 <br><br>
-## 3.0.17 (2018-2-20)
+## 3.0.17 (2/20/2018)
 
 
 <br><br>
-## 3.0.16 (2018-2-20)
+## 3.0.16 (2/19/2018)
 ### Patches 
 
 - Autotag?
@@ -598,7 +598,7 @@ In sync w/ api
 
 
 <br><br>
-## 3.0.15 (2018-2-19)
+## 3.0.15 (2/19/2018)
 ### Patches 
 
 - Add static assets such as favicon and robots.txt
