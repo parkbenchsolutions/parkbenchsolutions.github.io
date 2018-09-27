@@ -1,29 +1,17 @@
 # API Latest Releases
-## 3.17.4 (2018-9-26)
+## 3.17.4 (9/26/2018)
 ### Patches 
 
-- Fixed auto attendant status change (disabled-enabled) bug introduced in 3.17.1
-
-<br><br>
-## 3.17.3 (2018-9-26)
-### Patches 
-
-- Fix but in Group Service Pack assignment that was introduced in 3.17.1
-
-<br><br>
-## 3.17.2 (2018-9-25)
-### Patches 
-
-- Allow slash in auto attendant
-- Add v2 routes
+- Allow slash in auto attendant name
+- Add v2 api routes
 - Fix error showing user service packs
 
 <br><br>
-## 3.17.1 (2018-9-20)
+## 3.17.1 (9/20/2018)
 no changes, sync version with web
 
 <br><br>
-## 3.17.0 (2018-9-20)
+## 3.17.0 (9/20/2018)
 ### Minor Changes 
 
 - Added rollback to bulk user create to remove created devices upon user failure
@@ -50,7 +38,7 @@ no changes, sync version with web
 - Accept string FALSE on autoActivate phone number setting
 
 <br><br>
-## 3.16.3 (2018-9-7)
+## 3.16.3 (9/6/2018)
 ### Patches 
 
 - Remove orderBy clause on Group and User Call Records
@@ -66,11 +54,11 @@ no changes, sync version with web
 
 
 <br><br>
-## 3.16.2 (2018-8-17)
+## 3.16.2 (8/17/2018)
 - edit initial import migration script
 
 <br><br>
-## 3.16.0 (2018-8-15)
+## 3.16.0 (8/15/2018)
 ### Minor Changes 
 
 - Added use index on CdrCallRecords
@@ -97,19 +85,19 @@ no changes, sync version with web
 - Fix common phone list
 
 <br><br>
-## 3.15.2 (2018-7-10)
+## 3.15.2 (7/10/2018)
 ### Patches 
 
 - Fix branding hostname settings
 
 <br><br>
-## 3.15.1 (2018-7-10)
+## 3.15.1 (7/10/2018)
 ### Patches 
 
 - Remove old migrations that break updates
 
 <br><br>
-## 3.15.0 (2018-7-10)
+## 3.15.0 (7/10/2018)
 ### Minor Changes 
 
 - Add sessionTimeout to branding templates
@@ -130,23 +118,23 @@ no changes, sync version with web
 - Minor rename of function to keep consistency
 
 <br><br>
-## 3.14.4 (2018-7-6)
+## 3.14.4 (7/6/2018)
 ### Patches 
 
 - Fixes 72
 
 <br><br>
-## 3.14.3 (2018-7-5)
+## 3.14.3 (7/5/2018)
 ### Patches 
 
 - Initial implementation of webhook template and settings with openapi definition
 
 <br><br>
-## 3.14.1 (2018-7-4)
+## 3.14.1 (7/4/2018)
 no changes - syncing with web release
 
 <br><br>
-## 3.14.0 (2018-7-3)
+## 3.14.0 (7/3/2018)
 ### Minor Changes 
 
 - Add enterprise users report - add ala-cart user services to users report
@@ -156,13 +144,13 @@ no changes - syncing with web release
 - Fixed callingLineIdLastName and callingLineIdFirstname defaulting to 1
 
 <br><br>
-## 3.13.1 (2018-6-29)
+## 3.13.1 (6/29/2018)
 ### Patches 
 
 - Fix permissions bug when user requesting GroupMeetMeConferenceBridge
 
 <br><br>
-## 3.13.0 (2018-6-28)
+## 3.13.0 (6/28/2018)
 ### Minor Changes 
 
 - Add userId, serviceProviderId, groupId to all responses for webhooks
@@ -175,7 +163,7 @@ no changes - syncing with web release
 - Remove failed product master insert
 
 <br><br>
-## 3.12.0 (2018-6-21)
+## 3.12.0 (6/21/2018)
 ### Minor Changes 
 
 - Add Group Intercept to branding
@@ -193,14 +181,14 @@ no changes - syncing with web release
 - Update to dockerfile
 
 <br><br>
-## 3.11.0 (2018-6-12)
+## 3.11.0 (6/12/2018)
 - Added Group Night Forwarding
 - Added User Night Forwarding
 - Added Group Intercept
 - fix user.create in bulk to not ask for selected users
 
 <br><br>
-## 3.10.0 (2018-6-11)
+## 3.10.0 (6/11/2018)
 ### Minor Changes 
 
 - Update for callRecrods to startTime
@@ -212,7 +200,7 @@ no changes - syncing with web release
 - Remove healthcheck from dockerfile - add to compose
 
 <br><br>
-## 3.9.0 (2018-6-7)
+## 3.9.0 (6/7/2018)
 ### Minor Changes 
 
 - Webhook logs to database
@@ -229,78 +217,78 @@ no changes - syncing with web release
 - Updated token
 
 <br><br>
-## 3.8.3 (2018-5-30)
+## 3.8.3 (5/30/2018)
 Initial release
 
 <br><br>
-## 3.8.2 (2018-5-30)
+## 3.8.2 (5/30/2018)
 ### Patches 
 
 - Added migration to clean auto attendant product master
 
 <br><br>
-## 3.8.1 (2018-5-30)
+## 3.8.1 (5/30/2018)
 Initial release
 
 <br><br>
-## 3.8.0 (2018-5-24)
+## 3.8.0 (5/24/2018)
 ### Minor Changes 
 
 - Bulk virtualpack
 
 <br><br>
-## 3.7.11 (2018-5-21)
+## 3.7.11 (5/21/2018)
 Initial release
 
 <br><br>
-## 3.7.10 (2018-5-19)
+## 3.7.10 (5/18/2018)
 Initial release
 
 <br><br>
-## 3.7.9 (2018-5-18)
+## 3.7.9 (5/18/2018)
 sync with web
 
 <br><br>
-## 3.7.8 (2018-5-16)
+## 3.7.8 (5/16/2018)
 Initial release
 
 <br><br>
-## 3.7.7 (2018-5-15)
+## 3.7.7 (5/15/2018)
 ### Patches 
 
 - Added answerIndicator and relatedCallIdReason to Group and User Call Records
 
 <br><br>
-## 3.7.5 (2018-5-15)
+## 3.7.5 (5/15/2018)
 ### Patches 
 
 - Full system dn search
 - Remove debug statement
 
 <br><br>
-## 3.7.4 (2018-5-14)
+## 3.7.4 (5/14/2018)
 ### Patches 
 
 - Added isEnterprise lookup for enterprise Calls CLID Policy
 
 <br><br>
-## 3.7.3 (2018-5-14)
+## 3.7.3 (5/14/2018)
 ### Patches 
 
 - Return isEnterprise for all service providers
 
 <br><br>
-## 3.7.2 (2018-5-10)
+## 3.7.2 (5/10/2018)
 ### Patches 
 
 - Add service provider id and group id to group devices
 
 <br><br>
-## 3.7.1 (2018-5-10)
+## 3.7.1 (5/9/2018)
 Initial release
 
 <br><br>
-## 3.7.0 (2018-5-10)
+## 3.7.0 (5/9/2018)
 ### Minor Changes 
 
 - Added documentation
@@ -308,11 +296,11 @@ Initial release
 - Phone number search
 
 <br><br>
-## 3.6.1 (2018-5-8)
+## 3.6.1 (5/7/2018)
 sync with web
 
 <br><br>
-## 3.6.0 (2018-5-8)
+## 3.6.0 (5/7/2018)
 ### Minor Changes 
 
 - Initial integration configuration for emu sso
@@ -321,14 +309,14 @@ sync with web
 - VDM Group Device List
 
 <br><br>
-## 3.5.1 (2018-5-4)
+## 3.5.1 (5/4/2018)
 ### Patches 
 
 - Fixed nill for email address and other fields in user modify request
 - Fix userModifyRequest
 
 <br><br>
-## 3.5.0 (2018-5-2)
+## 3.5.0 (5/2/2018)
 ### Minor Changes 
 
 - Added bulk for call recording, hoteling guest and hoteling host
@@ -341,7 +329,7 @@ sync with web
 - Fixed routes on new bulk voice messaging and hoteling hosts
 
 <br><br>
-## 3.4.0 (2018-5-1)
+## 3.4.0 (4/30/2018)
 ### Minor Changes 
 
 - Added cfa bulk endpoint
@@ -355,11 +343,11 @@ sync with web
 - UserIdShort should be a string
 
 <br><br>
-## 3.3.2 (2018-4-28)
+## 3.3.2 (4/27/2018)
 Initial release
 
 <br><br>
-## 3.3.0 (2018-4-24)
+## 3.3.0 (4/24/2018)
 ### Patches 
 
 - Added check for isEnterprise for enterprise voice vpn
@@ -369,21 +357,21 @@ Initial release
 - Fix user call records search for virtual users
 
 <br><br>
-## 3.2.5 (2018-4-20)
+## 3.2.5 (4/19/2018)
 Initial release
 
 <br><br>
-## 3.2.4 (2018-4-20)
+## 3.2.4 (4/19/2018)
 ### Patches 
 
 - Fix branding application routing bug
 
 <br><br>
-## 3.2.3 (2018-4-19)
+## 3.2.3 (4/19/2018)
 Sync
 
 <br><br>
-## 3.2.2 (2018-4-19)
+## 3.2.2 (4/19/2018)
 ### Patches 
 
 - Change UI routes
@@ -402,14 +390,14 @@ Sync
 - Added check for call processing and commented out enterprise calls
 
 <br><br>
-## 3.2.1 (2018-4-3)
+## 3.2.1 (4/3/2018)
 ### Patches 
 
 - Call records to releaseTime instead of utc
 - Change releasetTime for user call records too
 
 <br><br>
-## 3.2.0 (2018-3-30)
+## 3.2.0 (3/30/2018)
 ### Minor Changes 
 
 - Migration fix for timezone
@@ -436,15 +424,15 @@ Sync
 - Outgoing calling plan error
 
 <br><br>
-## 3.1.2 (2018-3-14)
+## 3.1.2 (3/14/2018)
 sync with odinweb
 
 <br><br>
-## 3.1.1 (2018-3-14)
+## 3.1.1 (3/14/2018)
 No changes, released to sync with web release.
 
 <br><br>
-## 3.1.0 (2018-3-13)
+## 3.1.0 (3/13/2018)
 ### Database Migration
 This release requires a DB migration to be run.
 ```
@@ -485,7 +473,7 @@ docker-compose exec api php artisan migrate
 - Fix bug in UserSearch
 
 <br><br>
-## 3.0.21 (2018-2-23)
+## 3.0.21 (2/23/2018)
 ### Patches 
 
 - Auto activate phone number on assignment to user
@@ -495,7 +483,7 @@ docker-compose exec api php artisan migrate
 
 
 <br><br>
-## 3.0.20 (2018-2-22)
+## 3.0.20 (2/22/2018)
 ### Patches 
 
 - Added instant room endpoint and bridge
@@ -505,31 +493,31 @@ docker-compose exec api php artisan migrate
 - Added regenerate api fix
 
 <br><br>
-## 3.0.19 (2018-2-20)
+## 3.0.19 (2/20/2018)
 ### Patches 
 
 - Bug in ACL check.  8216204018daf95d7a73b51cc5013938a7f25775
 
 <br><br>
-## 3.0.18 (2018-2-20)
+## 3.0.18 (2/20/2018)
 ### Patches 
 
 - Dont send user.login webhook events unless specified in custom events
 
 <br><br>
-## 3.0.17 (2018-2-20)
+## 3.0.17 (2/20/2018)
 ### Patches 
 
 - Added better debug logging for webhook
 
 <br><br>
-## 3.0.16 (2018-2-20)
+## 3.0.16 (2/19/2018)
 ### Patches 
 
 - Alternate numbers user bug fix
 
 <br><br>
-## 3.0.15 (2018-2-19)
+## 3.0.15 (2/19/2018)
 ### Patches 
 
 - Release must be outside path
@@ -538,7 +526,7 @@ docker-compose exec api php artisan migrate
 - Broadworks.request
 
 <br><br>
-## 3.0.13 (2018-2-12)
+## 3.0.13 (2/11/2018)
 ### Patches 
 
 - Change migrations to copy tables instead of renaming - for incremental upgrades
@@ -552,7 +540,7 @@ docker-compose exec api php artisan migrate
 - Fix issue with adding trunk groups to enterprise trunks as a groupEnterpriseTrunk.  
 
 <br><br>
-## 3.0.10 (2018-2-6)
+## 3.0.10 (2/5/2018)
 ### Patches 
 
 - Added calling line id delivery blocking bulk
@@ -575,7 +563,7 @@ docker-compose exec api php artisan migrate
 - Auto attendant submenu
 
 <br><br>
-## 3.0.9 (2018-1-29)
+## 3.0.9 (1/29/2018)
 ### Patches 
 
 - Fixed collab oci get request
@@ -601,7 +589,7 @@ docker-compose exec api php artisan migrate
 
 
 <br><br>
-## 3.0.8 (2018-1-24)
+## 3.0.8 (1/23/2018)
 ### Patches 
 
 - List huntgroups updated to components + no-parent-click directive
@@ -609,11 +597,11 @@ docker-compose exec api php artisan migrate
 - Finish huntgroup.  add assign services component for virtual users.  modify tabs to allow a tab to be removed and added.
 
 <br><br>
-## 3.0.7 (2018-1-23)
+## 3.0.7 (1/22/2018)
 IGNORE - testing deploy automated builds.
 
 <br><br>
-## 3.0.4 (2018-1-23)
+## 3.0.4 (1/22/2018)
 ### Patches 
 
 - Added oci calls for sp access devices
@@ -642,25 +630,25 @@ IGNORE - testing deploy automated builds.
 
 
 <br><br>
-## 3.0.3 (2018-1-8)
+## 3.0.3 (1/8/2018)
 ### Patches 
 
 - Add support for System level user device for User Reports
 
 <br><br>
-## 3.0.2 (2018-1-7)
+## 3.0.2 (1/7/2018)
 ### Patches 
 
 - Fix typo
 
 <br><br>
-## 3.0.1 (2018-1-7)
+## 3.0.1 (1/7/2018)
 ### Patches 
 
 - Calling Plans and Viewable Service Packs permissions for Group View
 
 <br><br>
-## 3.0.0 (2018-1-4)
+## 3.0.0 (1/4/2018)
 ### Major Changes 
 
 - 3.0 Initial Launch.  Backwards incompatible with 2.x series.
