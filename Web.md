@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.6 (2018-10-9)
+sync with api
+
+<br><br>
 ## 3.17.4 (2018-9-26)
 ### Patches 
 
