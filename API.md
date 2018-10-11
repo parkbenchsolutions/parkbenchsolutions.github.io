@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.10 (2018-10-11)
+Fixed a bug introduced in 3.17.5 that effected Schedules 
+
+<br><br>
 ## 3.17.6 (2018-10-11)
 - Fix missing class in Enterprise Admins
 
