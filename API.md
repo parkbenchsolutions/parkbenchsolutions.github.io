@@ -1,6 +1,6 @@
 # API Latest Releases
-## 3.17.11 (2018-10-11)
-- sync with web
+## 3.17.12 (2018-10-11)
+sync with web
 
 <br><br>
 ## 3.17.10 (2018-10-11)
