@@ -5,7 +5,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.12 (2018-10-16)
-- move webfonts local
+## 3.17.13 (2018-10-16)
+- fixed bug in changing passwords on new users
 
   
