@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.13 (2018-10-16)
+- fixed bug in changing passwords on new users
+
+<br><br>
 ## 3.17.12 (2018-10-16)
 - move webfonts local
 
