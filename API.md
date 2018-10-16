@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.11 (2018-10-11)
+- sync with web
+
+<br><br>
 ## 3.17.10 (2018-10-11)
 Fixed a bug introduced in 3.17.5 that effected Schedules 
 
