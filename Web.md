@@ -1,6 +1,6 @@
 # Web Latest Releases
-## 3.17.11 (2018-10-16)
-- Include web fonts locally 
+## 3.17.12 (2018-10-16)
+- move webfonts local
 
 <br><br>
 ## 3.17.10 (2018-10-11)
