@@ -1,4 +1,9 @@
 # API Latest Releases
+## 3.17.25 (2018-11-2)
+- no changes, sync with odinweb
+
+
+<br><br>
 ## 3.17.24 (2018-11-2)
 - don't re-activate phone number on user update if not changed
 
