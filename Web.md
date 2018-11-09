@@ -1,5 +1,5 @@
 # Web Latest Releases
-## 3.17.23 (2018-11-8)
+## 3.17.24 (2018-11-9)
 - fix auto attendant submenu personal announcement selection error
 
 <br><br>
