@@ -12,7 +12,7 @@ QUEUE_SLEEP=3
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.25 (2018-11-9)
-- fix error on AA submenu key announcement selection
+## 3.17.26 (2018-11-9)
+- no changes, sync with API
 
   
