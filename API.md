@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.28 (2018-12-5)
+no changes, sync with web
+
+<br><br>
 ## 3.17.26 (2018-11-27)
 add configurable timeouts and more sane defaults for queue workers
 
