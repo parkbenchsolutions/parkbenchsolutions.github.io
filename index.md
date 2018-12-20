@@ -5,7 +5,8 @@ no changes, sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.26 (2018-11-9)
-- no changes, sync with API
+## 3.17.28 (2018-12-20)
+- Call Center Agent Report link should not show on Group Admin dashboard unless Premium Call Records is enabled.
+
 
   
