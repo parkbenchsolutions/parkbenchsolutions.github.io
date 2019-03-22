@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.32 (2019-2-4)
-No changes.  Syncing with API release #.
+## 3.17.34 (2019-3-14)
+- Attach branding Provisioning to Group Delete UI
 
   
