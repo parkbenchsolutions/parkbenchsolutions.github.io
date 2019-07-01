@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.1.10 (2019-5-15)
+  - Fix user search by MAC address
+
+<br><br>
 ## 4.1.9 (2019-5-14)
   - Fix for user meet me obtaining group meet me information
 
@@ -773,34 +777,5 @@ docker-compose exec api php artisan migrate
 <br><br>
 ## 3.0.7 (2018-1-23)
 IGNORE - testing deploy automated builds.
-
-<br><br>
-## 3.0.4 (2018-1-23)
-### Patches 
-
-- Added oci calls for sp access devices
-- Added CPE rebuild/reset
-- Added device endpoint for service provider
-- Import csv strip non-unicode chars
-- Added system  collab
-- System collaborate oci
-- Added group collab
-- Added end point for collab
-- Added collaborate
-- Added group collaborate modify request
-- Added collaborate add instance request
-- Check for servicepack authorization before assigned user services to group dashboard
-- Added system level device crud.  also created single componenets to use within app
-- Add service provider devices to UI
-- Enable updated sp and system devices within app
-- Css customization
-- Added collaborate at group level
-- Added bulk user report for group outgoing calling plan
-- Added routes for user bulk get
-- Return device level for index calls on devices.  Closes #353
-- Fix MOH if moving from external source to custom source.  Closes parkbenchsolutions/docs #352
-- Added group outgoing calling plan
-- Finish group schedules (update/destroy).  Add full CSV example for bulk user.create
-
 
 <br><br>
