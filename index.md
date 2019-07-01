@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.1 (2019-4-29)
-- No changes
+## 4.1.2 (2019-5-3)
+  - Fix Service Provider Admin login with default domain
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
