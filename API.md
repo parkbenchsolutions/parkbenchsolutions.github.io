@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.37 (2019-4-5)
+No changes, sync version with Web
+
+<br><br>
 ## 3.17.36 (2019-4-5)
 No changes, sync version with Web
 
