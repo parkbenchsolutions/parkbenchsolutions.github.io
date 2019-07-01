@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.4.3 (2019-6-6)
+  - Update Group Speed Dial 8 payload
+
+<br><br>
 ## 4.4.2 (2019-6-4)
   - No changes
 
@@ -714,14 +718,5 @@ docker-compose exec api php artisan migrate
 ### Patches 
 
 - Alternate numbers user bug fix
-
-<br><br>
-## 3.0.15 (2018-2-19)
-### Patches 
-
-- Release must be outside path
-- Robot
-- Keep original www.conf for reference
-- Broadworks.request
 
 <br><br>
