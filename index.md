@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.35 (2019-3-14)
-Add Branding Permissions to Delete/Create Groups
+## 3.17.36 (2019-3-14)
+No changes, sync version with API
 
   
