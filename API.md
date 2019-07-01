@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.2.0 (2019-5-16)
+  - Add system service pack Utilization
+
+<br><br>
 ## 4.1.10 (2019-5-15)
   - Fix user search by MAC address
 
@@ -773,9 +777,5 @@ docker-compose exec api php artisan migrate
 - List huntgroups updated to components + no-parent-click directive
 - Huntgroup pull in v20 calls - update ui
 - Finish huntgroup.  add assign services component for virtual users.  modify tabs to allow a tab to be removed and added.
-
-<br><br>
-## 3.0.7 (2018-1-23)
-IGNORE - testing deploy automated builds.
 
 <br><br>
