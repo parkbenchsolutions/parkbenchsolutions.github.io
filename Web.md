@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.40 (2019-5-9)
+Disable auto-fill on device passwords
+
+<br><br>
 ## 3.17.39 (2019-5-8)
 Fix bug on device updates where other components didn't reflect the changes
 
