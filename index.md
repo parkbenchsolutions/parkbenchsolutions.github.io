@@ -1,7 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.0.2 (2019-4-29)
-No Changes
+## 4.1.0 (2019-4-29)
+  - Add ability for group admins to search recent tasks in group
+  - Add Token refresh endpoint
+  - Fix new password logi
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
