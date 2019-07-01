@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.4.0 (2019-5-28)
-  - Add user line ports to Registration
+## 4.4.1 (2019-6-3)
+  - Fix group admin permissions
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
