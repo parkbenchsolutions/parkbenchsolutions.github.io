@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.41 (2019-5-14)
-update System Licensing to handle empty hostId fields
+## 3.17.42 (2019-5-23)
+Fix fax messaging alias error with one alias
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
