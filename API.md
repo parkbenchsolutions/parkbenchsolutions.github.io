@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.42 (2019-5-23)
+Fix fax messaging alias error with one alias
+
+<br><br>
 ## 3.17.41 (2019-5-14)
 update System Licensing to handle empty hostId fields
 
