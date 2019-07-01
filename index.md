@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.1.6 (2019-5-9)
-Small changes on error UI
+## 4.1.7 (2019-5-9)
+Fix bulk provisioning now showing loading indicator in certain situations
 
   
