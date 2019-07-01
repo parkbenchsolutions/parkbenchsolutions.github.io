@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.4.3 (2019-6-6)
-- Fix group speed dial 8 when no users are assigned
+## 4.5.0 (2019-6-10)
+- Update Trunk Group Unreachable Destination
 
   
