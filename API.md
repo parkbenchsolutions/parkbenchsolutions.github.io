@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.0.1 (2019-4-29)
+  - Fix user password change with IM&P
+
+<br><br>
 ## 4.0.0 (2019-4-29)
   - Release of API V2
   - Fully documented and available as a Postman Collection
