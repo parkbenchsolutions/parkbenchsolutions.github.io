@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.4.1 (2019-6-3)
+  - Fix group admin permissions
+
+<br><br>
 ## 4.4.0 (2019-5-28)
   - Add user line ports to Registration
 
@@ -729,28 +733,5 @@ docker-compose exec api php artisan migrate
 - UI error in Event creation.  XML Error in Event Add for non-repeating events.  closes 
 - Fix permissions issue in Enterprise trunk as a Service Provider.  
 - Fix issue with adding trunk groups to enterprise trunks as a groupEnterpriseTrunk.  
-
-<br><br>
-## 3.0.10 (2018-2-6)
-### Patches 
-
-- Added calling line id delivery blocking bulk
-- Initial calling plan for users
-- add user services to group dashboard
-- Added anonymous call rejection bulk
-- Added automatic callback bulk
-- Added oci/api for automatic hold and retrieve for group and user
-- Added automatic hold retrieve user
-- Finish up user outgoing calling plan group view
-- Added automatic hold retrieve
-- Fixed up outgoing calling plan for group
-- Fix up incoming calling plans for group
-- Clean up group outgoing digit plan
-- Update outgoing pinhole digit plan for group
-- Touch up group transfer numbers
-- Clean up extra calling plan calls - meetme
-- Fix group default on user views for calling plans
-- Update routes and redirects
-- Auto attendant submenu
 
 <br><br>
