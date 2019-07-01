@@ -1,7 +1,8 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.2 (2019-5-3)
-  - Fix Service Provider Admin login with default domain
+## 4.1.3 (2019-5-7)
+  - Fix single alias on Fax Messaging
+  - Fix system domain list on R22
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
