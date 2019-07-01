@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.4.0 (2019-5-28)
+  - Add user line ports to Registration
+
+<br><br>
 ## 4.3.0 (2019-5-23)
   - Add system level user service Reports
   - Speed Dial 8 Bul
@@ -748,31 +752,5 @@ docker-compose exec api php artisan migrate
 - Fix group default on user views for calling plans
 - Update routes and redirects
 - Auto attendant submenu
-
-<br><br>
-## 3.0.9 (2018-1-29)
-### Patches 
-
-- Fixed collab oci get request
-- Added collaborate angular code needs user assignment
-- Outgoigcallingplan for user
-- User authorization codes
-- Added end point Group Call Forward and Call Forwarding Busy
-- Added cfna bulk
-- Added forwarding not reachable callingLineIDDelivery
-- Added service and component
-- Added call fowarding no answer bulk user view
-- Fix service pack services in user view.  Closes parkbench/odinapi#365
-- Remove loadServices call to avoid multiple service calls overriding the isLoading
-- Remove loadServices call to avoid overriding the isLoading
-- Bulk cleanup and call forward always add
-- Cleanup calling plans for user, finish incoming
-- Added call forwding busy bulk
-- User outgoing digit plan
-- Added call forwarding not reachable bulk
-- Pinhole digit plan for user
-- Transfer-number for user calling plans
-- Added ability to center switch inside parent pbs-input-switch="centered"
-
 
 <br><br>
