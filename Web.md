@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.5.0 (2019-6-10)
+- Update Trunk Group Unreachable Destination
+
+<br><br>
 ## 4.4.3 (2019-6-6)
 - Fix group speed dial 8 when no users are assigned
 
@@ -788,11 +792,5 @@ In sync w/ api
 - Autotag?
 - Rewrite/fix alternate entries.  
 
-
-<br><br>
-## 3.0.15 (2018-2-19)
-### Patches 
-
-- Add static assets such as favicon and robots.txt
 
 <br><br>
