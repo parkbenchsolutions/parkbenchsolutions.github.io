@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.1.5 (2019-5-9)
-Fix bug on Hunt Group view which caused an invalid error
+## 4.1.6 (2019-5-9)
+Small changes on error UI
 
   
