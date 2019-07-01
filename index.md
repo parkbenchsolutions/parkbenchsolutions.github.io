@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.42 (2019-5-9)
+## 3.17.43 (2019-5-9)
 No changes, sync version with API
 
   
