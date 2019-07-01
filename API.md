@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.5.0 (2019-6-10)
+  - Add Service Provider Device Files endpoint
+
+<br><br>
 ## 4.4.3 (2019-6-6)
   - Update Group Speed Dial 8 payload
 
@@ -712,11 +716,5 @@ docker-compose exec api php artisan migrate
 ### Patches 
 
 - Added better debug logging for webhook
-
-<br><br>
-## 3.0.16 (2018-2-20)
-### Patches 
-
-- Alternate numbers user bug fix
 
 <br><br>
