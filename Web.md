@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.4.1 (2019-5-31)
+- Update dependencies
+
+<br><br>
 ## 4.4.0 (2019-5-30)
   - Add User Line Port Registrations to Group Report
   - Add Speed Dial 8 Bulk
