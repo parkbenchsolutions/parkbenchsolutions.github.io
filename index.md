@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.1.9 (2019-5-14)
-Fix bug in rebuild and reset device
+## 4.1.10 (2019-5-15)
+Release process update
 
   
