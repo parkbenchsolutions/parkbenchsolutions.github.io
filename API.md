@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.43 (2019-5-23)
+Internal release build changes
+
+<br><br>
 ## 3.17.42 (2019-5-23)
 Fix fax messaging alias error with one alias
 
