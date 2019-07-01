@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.1.4 (2019-5-7)
+Handle invalid logins with a more user friendly error message
+
+<br><br>
 ## 4.1.3 (2019-5-7)
 Fix device update page to disable browser password auto-fill which caused the modal to be unable to save
 
