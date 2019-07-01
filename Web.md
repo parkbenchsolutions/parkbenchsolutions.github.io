@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.4.0 (2019-5-30)
+  - Add User Line Port Registrations to Group Report
+  - Add Speed Dial 8 Bulk
+  - Update alert animation
+
+<br><br>
 ## 4.3.0 (2019-5-23)
   - Add Summary Report to Service Utilization
   - Fix Summary File Download
