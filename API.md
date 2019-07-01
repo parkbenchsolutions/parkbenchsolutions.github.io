@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.1.6 (2019-5-7)
+- No changes, sync release version
+
+<br><br>
 ## 4.1.5 (2019-5-7)
 - No changes, sync release version
 
@@ -804,11 +808,5 @@ IGNORE - testing deploy automated builds.
 ### Patches 
 
 - Calling Plans and Viewable Service Packs permissions for Group View
-
-<br><br>
-## 3.0.0 (2018-1-4)
-### Major Changes 
-
-- 3.0 Initial Launch.  Backwards incompatible with 2.x series.
 
 <br><br>
