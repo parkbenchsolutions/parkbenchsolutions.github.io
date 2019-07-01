@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.0.1 (2019-4-29)
-  - Fix user password change with IM&P
+## 4.0.2 (2019-4-29)
+No Changes
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
