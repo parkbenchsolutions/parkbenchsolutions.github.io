@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.1.1 (2019-4-29)
+- No changes
+
+<br><br>
 ## 4.1.0 (2019-4-29)
   - Add ability for group admins to search recent tasks in group
   - Add Token refresh endpoint
