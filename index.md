@@ -6,9 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.4.0 (2019-5-30)
-  - Add User Line Port Registrations to Group Report
-  - Add Speed Dial 8 Bulk
-  - Update alert animation
+## 4.4.1 (2019-5-31)
+- Update dependencies
 
   
