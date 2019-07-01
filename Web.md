@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 4.3.0 (2019-5-23)
+  - Add Summary Report to Service Utilization
+  - Fix Summary File Download
+  - Add User Registration
+  - Few UI enhancements for checkboxes
+
+<br><br>
 ## 4.2.0 (2019-5-17)
   - Add Alternate User ID
   - Add User Speed Dial 8
