@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.1.7 (2019-5-9)
+Fix bulk provisioning now showing loading indicator in certain situations
+
+<br><br>
 ## 4.1.6 (2019-5-9)
 Small changes on error UI
 
