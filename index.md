@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.4.1 (2019-5-31)
-- Update dependencies
+## 4.4.2 (2019-6-4)
+- Internal build updates
 
   
