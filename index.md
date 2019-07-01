@@ -7,6 +7,6 @@
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
 ## 4.1.2 (2019-5-3)
-Internal build updates
+Update user dashboard to load faster
 
   
