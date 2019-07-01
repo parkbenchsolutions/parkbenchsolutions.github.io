@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.1.9 (2019-5-14)
+Fix bug in rebuild and reset device
+
+<br><br>
 ## 4.1.8 (2019-5-9)
 Fix typo in Breadcrumb
 
