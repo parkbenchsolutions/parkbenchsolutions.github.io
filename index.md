@@ -6,7 +6,17 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.45 (2019-5-9)
-No changes, sync version with API
+## 4.0.0 (2019-4-25)
+  https://www.parkbenchsolutions.com/announcement-odin4
+  - Online docs now available for Odin Web at https://webdocs.parkbenchsolutions.com
+  - Multi-tenant support
+  - User dashboard upgrades
+  - Automatic Audio Conversion
+  - User Services Reports Upgrade
+  - Call Center Queue Live Reports
+  - New User Call Reports
+  - Project Rooms
+  - Download large CSV files of Call Report Raw Data
+  - Group Admin Policy support
 
   
