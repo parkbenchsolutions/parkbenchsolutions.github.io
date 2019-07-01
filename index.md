@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.9 (2019-5-14)
-  - Fix for user meet me obtaining group meet me information
+## 4.1.10 (2019-5-15)
+  - Fix user search by MAC address
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
