@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.39 (2019-4-23)
+No changes, sync version with Web
+
+<br><br>
 ## 3.17.38 (2019-4-23)
 Fix parsing error on BW Events
 
