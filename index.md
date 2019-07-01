@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.38 (2019-4-23)
-No changes, sync version with API
+## 3.17.39 (2019-5-8)
+Fix bug on device updates where other components didn't reflect the changes
 
   
