@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.4.1 (2019-6-3)
-  - Fix group admin permissions
+## 4.4.2 (2019-6-4)
+  - No changes
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
