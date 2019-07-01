@@ -6,9 +6,10 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.2.0 (2019-5-17)
-  - Add Alternate User ID
-  - Add User Speed Dial 8
-  - Add System Service Pack Utilization Repor
+## 4.3.0 (2019-5-23)
+  - Add Summary Report to Service Utilization
+  - Fix Summary File Download
+  - Add User Registration
+  - Few UI enhancements for checkboxes
 
   
