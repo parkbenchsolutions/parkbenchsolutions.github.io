@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.42 (2019-5-23)
-Fix fax messaging alias error with one alias
+## 3.17.43 (2019-5-23)
+Internal release build changes
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
