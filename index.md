@@ -1,8 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.3 (2019-5-7)
-  - Fix single alias on Fax Messaging
-  - Fix system domain list on R22
+## 4.1.4 (2019-5-7)
+  - Add Bulk Group Registration
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
