@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.36 (2019-3-14)
-No changes, sync version with API
+## 3.17.37 (2019-4-23)
+Don't log out users on lost connections
 
   
