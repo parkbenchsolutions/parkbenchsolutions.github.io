@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.1.0 (2019-4-29)
+  - Add ability for group admins to search recent tasks in group
+  - Add Token refresh endpoint
+  - Fix new password logi
+
+<br><br>
 ## 4.0.2 (2019-4-29)
 No Changes
 
