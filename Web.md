@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.4.3 (2019-6-6)
+- Fix group speed dial 8 when no users are assigned
+
+<br><br>
 ## 4.4.2 (2019-6-4)
 - Internal build updates
 
