@@ -1,4 +1,9 @@
 # API Latest Releases
+## 4.3.0 (2019-5-23)
+  - Add system level user service Reports
+  - Speed Dial 8 Bul
+
+<br><br>
 ## 4.2.0 (2019-5-16)
   - Add system service pack Utilization
 
@@ -769,13 +774,5 @@ docker-compose exec api php artisan migrate
 - Transfer-number for user calling plans
 - Added ability to center switch inside parent pbs-input-switch="centered"
 
-
-<br><br>
-## 3.0.8 (2018-1-24)
-### Patches 
-
-- List huntgroups updated to components + no-parent-click directive
-- Huntgroup pull in v20 calls - update ui
-- Finish huntgroup.  add assign services component for virtual users.  modify tabs to allow a tab to be removed and added.
 
 <br><br>
