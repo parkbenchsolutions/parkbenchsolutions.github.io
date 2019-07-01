@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.1.9 (2019-5-14)
+  - Fix for user meet me obtaining group meet me information
+
+<br><br>
 ## 4.1.8 (2019-5-7)
 - No changes, sync release version
 
@@ -798,11 +802,5 @@ IGNORE - testing deploy automated builds.
 - Added group outgoing calling plan
 - Finish group schedules (update/destroy).  Add full CSV example for bulk user.create
 
-
-<br><br>
-## 3.0.3 (2018-1-8)
-### Patches 
-
-- Add support for System level user device for User Reports
 
 <br><br>
