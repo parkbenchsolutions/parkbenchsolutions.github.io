@@ -4,7 +4,7 @@
 
 <br><br>
 ## 4.4.1 (2019-6-3)
-  - Fix group admin permissions
+  - Fix group admin permissions, where admins were receiving permission denied when they should have access
 
 <br><br>
 ## 4.4.0 (2019-5-28)
