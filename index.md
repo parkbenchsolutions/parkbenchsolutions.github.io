@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.10 (2019-5-15)
-  - Fix user search by MAC address
+## 4.2.0 (2019-5-16)
+  - Add system service pack Utilization
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
