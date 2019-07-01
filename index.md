@@ -1,7 +1,18 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.45 (2019-5-23)
-Internal release build changes
+## 4.0.0 (2019-4-29)
+  - Release of API V2
+  - Fully documented and available as a Postman Collection
+  - Multi-tenant support
+  - Added many User Service Cloning endpoints
+  - Add ability to limit API to certain levels (eg: Provisioning, Ent Admin, Group Admin...)
+  - Automatic Audio Conversion
+  - User Services Reports Upgrade
+  - Call Center Queue Live Reports
+  - New User Call Reports
+  - Project Rooms
+  - Download large CSV files of Call Report Raw Data
+  - Group Admin Policy support
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
