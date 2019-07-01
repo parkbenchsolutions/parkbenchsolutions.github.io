@@ -1,4 +1,8 @@
 # API Latest Releases
+## 3.17.41 (2019-5-14)
+update System Licensing to handle empty hostId fields
+
+<br><br>
 ## 3.17.40 (2019-4-23)
 No changes, sync version with Web
 
