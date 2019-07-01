@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.4.2 (2019-6-4)
+  - No changes
+
+<br><br>
 ## 4.4.1 (2019-6-3)
   - Fix group admin permissions
 
@@ -719,19 +723,5 @@ docker-compose exec api php artisan migrate
 - Robot
 - Keep original www.conf for reference
 - Broadworks.request
-
-<br><br>
-## 3.0.13 (2018-2-12)
-### Patches 
-
-- Change migrations to copy tables instead of renaming - for incremental upgrades
-- Updated migration for v2 upgrade path
-- Fix select number bug on virtual users.  closes parkbenchsolutions/docs#383
-- Fix call center - whisper message only for premium
-- Missing endif in overflow xml. 41fb1d442ab24b002f37457ca0846cbc0f0ff218
-- Moh virtual user does not have access to upload individual announcements - moved to group upload.  
-- UI error in Event creation.  XML Error in Event Add for non-repeating events.  closes 
-- Fix permissions issue in Enterprise trunk as a Service Provider.  
-- Fix issue with adding trunk groups to enterprise trunks as a groupEnterpriseTrunk.  
 
 <br><br>
