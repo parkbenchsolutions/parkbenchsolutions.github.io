@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.1.2 (2019-5-3)
+  - Fix Service Provider Admin login with default domain
+
+<br><br>
 ## 4.1.1 (2019-4-29)
 - No changes
 
