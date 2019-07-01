@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.4 (2019-5-7)
-  - Add Bulk Group Registration
+## 4.1.5 (2019-5-7)
+- No changes, sync release version
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
