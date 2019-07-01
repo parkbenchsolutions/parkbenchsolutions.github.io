@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.1.3 (2019-5-7)
+Fix device update page to disable browser password auto-fill which caused the modal to be unable to save
+
+<br><br>
 ## 4.1.2 (2019-5-3)
 Update user dashboard to load faster
 
