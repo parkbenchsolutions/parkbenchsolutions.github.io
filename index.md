@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 3.17.37 (2019-4-5)
-No changes, sync version with Web
+## 3.17.38 (2019-4-23)
+Fix parsing error on BW Events
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
