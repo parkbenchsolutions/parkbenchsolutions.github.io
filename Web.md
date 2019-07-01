@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.37 (2019-4-23)
+Don't log out users on lost connections
+
+<br><br>
 ## 3.17.36 (2019-3-14)
 No changes, sync version with API
 
