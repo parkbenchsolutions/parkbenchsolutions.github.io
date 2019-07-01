@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.1.5 (2019-5-9)
+Fix bug on Hunt Group view which caused an invalid error
+
+<br><br>
 ## 4.1.4 (2019-5-7)
 Handle invalid logins with a more user friendly error message
 
