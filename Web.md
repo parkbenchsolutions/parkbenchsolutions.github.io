@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.4.2 (2019-6-4)
+- Internal build updates
+
+<br><br>
 ## 4.4.1 (2019-5-31)
 - Update dependencies
 
