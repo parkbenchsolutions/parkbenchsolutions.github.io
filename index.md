@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 3.17.34 (2019-3-14)
-- Attach branding Provisioning to Group Delete UI
+## 3.17.35 (2019-3-14)
+Add Branding Permissions to Delete/Create Groups
 
   
