@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.1.8 (2019-5-7)
-- No changes, sync release version
+## 4.1.9 (2019-5-14)
+  - Fix for user meet me obtaining group meet me information
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
