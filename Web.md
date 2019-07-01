@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.0.1 (2019-4-29)
+Fix user password change bug with IM&P
+
+<br><br>
 ## 4.0.0 (2019-4-25)
   https://www.parkbenchsolutions.com/announcement-odin4
   - Online docs now available for Odin Web at https://webdocs.parkbenchsolutions.com
