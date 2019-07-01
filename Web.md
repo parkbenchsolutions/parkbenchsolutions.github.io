@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.36 (2019-3-14)
+No changes, sync version with API
+
+<br><br>
 ## 3.17.35 (2019-3-14)
 Add Branding Permissions to Delete/Create Groups
 
