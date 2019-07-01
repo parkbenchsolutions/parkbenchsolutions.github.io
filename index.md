@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.4.2 (2019-6-4)
-  - No changes
+## 4.4.3 (2019-6-6)
+  - Update Group Speed Dial 8 payload
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
