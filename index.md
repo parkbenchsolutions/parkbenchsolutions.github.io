@@ -1,7 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.5.0 (2019-6-10)
-  - Add Service Provider Device Files endpoint
+## 4.6.0 (2019-6-19)
+  - Add Group Communication Barring endpoints
+  - Enhanced rollback on user create when devices are updated
+    - Resets device to original state on rollback
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
