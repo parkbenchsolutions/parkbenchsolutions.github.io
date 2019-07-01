@@ -6,7 +6,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.4.2 (2019-6-4)
-- Internal build updates
+## 4.4.3 (2019-6-6)
+- Fix group speed dial 8 when no users are assigned
 
   
