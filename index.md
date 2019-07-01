@@ -1,8 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.3.0 (2019-5-23)
-  - Add system level user service Reports
-  - Speed Dial 8 Bul
+## 4.4.0 (2019-5-28)
+  - Add user line ports to Registration
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
