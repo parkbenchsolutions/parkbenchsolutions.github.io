@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.4.3 (2019-6-6)
-  - Update Group Speed Dial 8 payload
+## 4.5.0 (2019-6-10)
+  - Add Service Provider Device Files endpoint
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
