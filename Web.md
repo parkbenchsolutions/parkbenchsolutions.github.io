@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 3.17.41 (2019-5-9)
+No changes, sync version with API
+
+<br><br>
 ## 3.17.40 (2019-5-9)
 Disable auto-fill on device passwords
 
