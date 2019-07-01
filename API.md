@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.6.0 (2019-6-19)
+  - Add Group Communication Barring endpoints
+  - Enhanced rollback on user create when devices are updated
+    - Resets device to original state on rollback
+
+<br><br>
 ## 4.5.0 (2019-6-10)
   - Add Service Provider Device Files endpoint
 
@@ -710,11 +716,5 @@ docker-compose exec api php artisan migrate
 ### Patches 
 
 - Dont send user.login webhook events unless specified in custom events
-
-<br><br>
-## 3.0.17 (2018-2-20)
-### Patches 
-
-- Added better debug logging for webhook
 
 <br><br>
