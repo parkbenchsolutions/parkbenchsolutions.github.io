@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.6.2 (2019-7-9)
+- Limit system user searches to require search criteria
+
+<br><br>
 ## 4.6.1 (2019-6-24)
 - Sync with Odin Web Release Version
 
@@ -708,11 +712,5 @@ docker-compose exec api php artisan migrate
 - Removed schedule bug from my room
 - Colloboration audio apis added and fixed
 - Added regenerate api fix
-
-<br><br>
-## 3.0.19 (2018-2-20)
-### Patches 
-
-- Bug in ACL check.  8216204018daf95d7a73b51cc5013938a7f25775
 
 <br><br>
