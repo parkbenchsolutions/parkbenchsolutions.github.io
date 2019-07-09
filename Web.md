@@ -4,7 +4,7 @@
 
 <br><br>
 ## 4.6.1 (2019-7-9)
-- Sync with API release version
+- Fix bug in token login for SSO
 
 <br><br>
 ## 4.6.0 (2019-6-17)
