@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.6.1 (2019-6-24)
+- Sync with Odin Web Release Version
+
+<br><br>
 ## 4.6.0 (2019-6-19)
   - Add Group Communication Barring endpoints
   - Enhanced rollback on user create when devices are updated
@@ -710,11 +714,5 @@ docker-compose exec api php artisan migrate
 ### Patches 
 
 - Bug in ACL check.  8216204018daf95d7a73b51cc5013938a7f25775
-
-<br><br>
-## 3.0.18 (2018-2-20)
-### Patches 
-
-- Dont send user.login webhook events unless specified in custom events
 
 <br><br>
