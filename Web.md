@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.6.1 (2019-7-9)
+- Sync with API release version
+
+<br><br>
 ## 4.6.0 (2019-6-17)
   - Add Group Communication Barring
   - Update Group Services Page Licensing UI
@@ -788,9 +792,5 @@ Initial release
 <br><br>
 ## 3.0.18 (2018-2-20)
 In sync w/ api
-
-<br><br>
-## 3.0.17 (2018-2-20)
-
 
 <br><br>
