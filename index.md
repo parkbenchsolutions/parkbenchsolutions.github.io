@@ -1,9 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.6.0 (2019-6-19)
-  - Add Group Communication Barring endpoints
-  - Enhanced rollback on user create when devices are updated
-    - Resets device to original state on rollback
+## 4.6.1 (2019-6-24)
+- Sync with Odin Web Release Version
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
