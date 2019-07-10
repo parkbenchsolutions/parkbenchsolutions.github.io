@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.6.4 (2019-7-10)
+No changes, sync with web release version
+
+<br><br>
 ## 4.6.3 (2019-7-10)
 ### Patches 
 
@@ -698,15 +702,5 @@ docker-compose exec api php artisan migrate
 - Fixed users available and assigned api for meetme
 - Notes on search for user by mac
 - Fix bug in UserSearch
-
-<br><br>
-## 3.0.21 (2018-2-23)
-### Patches 
-
-- Auto activate phone number on assignment to user
-- Moved activate phone number to event model so we can re-use it on other things
-- Added meetme conferencing user oci calls
-- Some helpers for call forwarding selective
-
 
 <br><br>
