@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.6.3 (2019-7-10)
+### Patches 
+
+- Fix bug in parsing broadworks responses when multiple xml command responses including a half-complete command response are included in a single data chunk
+
+<br><br>
 ## 4.6.2 (2019-7-9)
 - Limit system user searches to require search criteria
 
@@ -702,15 +708,5 @@ docker-compose exec api php artisan migrate
 - Added meetme conferencing user oci calls
 - Some helpers for call forwarding selective
 
-
-<br><br>
-## 3.0.20 (2018-2-22)
-### Patches 
-
-- Added instant room endpoint and bridge
-- Add department information group admins
-- Removed schedule bug from my room
-- Colloboration audio apis added and fixed
-- Added regenerate api fix
 
 <br><br>
