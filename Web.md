@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.6.3 (2019-7-10)
+### Patches 
+
+- Fix login to handle Firefox autofill and enable submit button
+
+<br><br>
 ## 4.6.2 (2019-7-9)
 - Sync with API release version
 
@@ -759,38 +765,5 @@ Initial release
 ### Patches 
 
 - Fix addresses permissions tied to provisioning in branding
-
-<br><br>
-## 3.1.0 (2018-3-13)
-### Minor Changes 
-
-- Slightly widen modals.  move custom css to end of loading to override anything before it
-- Add horizon queue
-- Add version to front-end footer. closes parkbenchsolutions/docs/issues/193
-- Make auto generated passcodes the default for bulk create users.  
-- Meet-me complete
-- :added delegates for meet-me and fixed user sort for collaborate
-- Template for user search
-- Pbs-button-compact-bulk
-- Global user search
-- Add Group search
-- Add service provider to group search list
-- Add mac address for user search
-- Restrict mac search to provisioning+ for now.  will need to loop through all groups to provider for sp admins.
-- Added first name search and spid/gpid to results
-- Add greetings to user voice messaging
-- User greeting v20+
-- Add module permissions to  voice message advanced and trunk group authentication
-
-### Patches 
-
-- Update version in package.json
-- Clear service cache when modifying services on a group or sp.  closes parkbenchsolutions/docs/issues/398
-- Fixed spelling error hoteling guest and host
-- Upgrade font awesome
-- Reset type on open for user search
-- Only show search for SP admins and up
-- Fix user search session persistence between login/logout
-- Remove fontawesome svg because its not updating on class changes - move to web fonts
 
 <br><br>
