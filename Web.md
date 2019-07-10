@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.6.4 (2019-7-10)
+### Patches 
+
+- Fix regression bug of navbar search for ent admins
+
+<br><br>
 ## 4.6.3 (2019-7-10)
 ### Patches 
 
@@ -759,11 +765,5 @@ Initial release
 ### Patches 
 
 - Add trunk name changes to trunk group - authentication permissions.  availabe in 3.1.2. 
-
-<br><br>
-## 3.1.1 (2018-3-14)
-### Patches 
-
-- Fix addresses permissions tied to provisioning in branding
 
 <br><br>
