@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.6.5 (2019-7-26)
+sync with web release version
+
+<br><br>
 ## 4.6.4 (2019-7-10)
 No changes, sync with web release version
 
@@ -661,46 +665,5 @@ sync with odinweb
 <br><br>
 ## 3.1.1 (2018-3-14)
 No changes, released to sync with web release.
-
-<br><br>
-## 3.1.0 (2018-3-13)
-### Database Migration
-This release requires a DB migration to be run.
-```
-docker-compose exec api php artisan migrate
-```
-
-
-
-### Minor Changes 
-
-- Update some 5.6 queue settings
-- Added meet me conference add endpoints
-- Added meet me user delegate
-- Added enterprise voice vpn and network class of service
-- Added oci calls for Group Call Processing Policy
-- Added group call processing
-- Added network class of services
-- Added GroupNetworkClassOfService oci calls
-- Group policy
-- Added group feature access codes
-- Added oci group feature access code
-- Added Call Processing and full Enterprise and group clone object
-- Added Group Policy
-- Added schedule and event cloning to bulk
-- Added example of catching and rethrowing an exception in ReplicateEnterprise
-- User search implementation
-- Added group search
-- Added DeviceSearch.  added search by mac to UserSearch.
-- Add user greetings api
-- User greetings v20+
-- Add module permissions to  voice message advanced and trunk group authentication
-
-### Patches 
-
-- Fix bug in webhook
-- Fixed users available and assigned api for meetme
-- Notes on search for user by mac
-- Fix bug in UserSearch
 
 <br><br>
