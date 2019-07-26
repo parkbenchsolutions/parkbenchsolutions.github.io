@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 4.6.5 (2019-7-26)
+### Patches 
+
+- Fix full page loading overlay getting hidden behind modals
+- Fixed error where menus overflowed the screen on some desktop browsers
+
+<br><br>
 ## 4.6.4 (2019-7-10)
 ### Patches 
 
@@ -759,11 +766,5 @@ Initial release
 - Fix error in contact on group profile page
 - Fixed services/servicepacks/networkclassofservice on service provider clone
 - Revert
-
-<br><br>
-## 3.1.2 (2018-3-14)
-### Patches 
-
-- Add trunk name changes to trunk group - authentication permissions.  availabe in 3.1.2. 
 
 <br><br>
