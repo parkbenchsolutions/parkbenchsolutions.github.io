@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.7.1 (2019-8-9)
+### Patches 
+
+- Fix user schedule with an extra spacing on top
+
+<br><br>
 ## 4.7.0 (2019-8-9)
 ### Minor Changes 
 
@@ -742,13 +748,5 @@ Initial release
 - Fixed call processing policy link
 - Description OR url will show help
 
-
-<br><br>
-## 3.2.1 (2018-4-3)
-### Patches 
-
-- Add rebuild and reset button to user devices
-- Switch to local json strings for call record searches
-- Update on call records open - fixed bug
 
 <br><br>
