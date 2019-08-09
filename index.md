@@ -13,16 +13,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.7.0 (2019-8-9)
-### Minor Changes 
-
-- Added the ability to bulk assign DNs to Service Providers and Groups
-- Added UI for User Schedules
-- Add Webhook configuration option to send user auth token
-
+## 4.7.1 (2019-8-9)
 ### Patches 
 
-- Bulk user create was missing phoneNumber and extension fields on CSV download when leave blank was selected in the wizard
-- Clear local cache on logout
+- Fix user schedule with an extra spacing on top
 
   
