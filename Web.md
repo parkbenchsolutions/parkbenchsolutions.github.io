@@ -1,4 +1,17 @@
 # Web Latest Releases
+## 4.7.0 (2019-8-9)
+### Minor Changes 
+
+- Added the ability to bulk assign DNs to Service Providers and Groups
+- Added UI for User Schedules
+- Add Webhook configuration option to send user auth token
+
+### Patches 
+
+- Bulk user create was missing phoneNumber and extension fields on CSV download when leave blank was selected in the wizard
+- Clear local cache on logout
+
+<br><br>
 ## 4.6.5 (2019-7-26)
 ### Patches 
 
@@ -737,34 +750,5 @@ Initial release
 - Add rebuild and reset button to user devices
 - Switch to local json strings for call record searches
 - Update on call records open - fixed bug
-
-<br><br>
-## 3.2.0 (2018-3-30)
-### Minor Changes 
-
-- Group network class of service
-- Service provider network class of service
-- System network class of service
-- Added service component to reconcile service packs
-- Added clone for groups
-- Add premium call records for users.  9bdd9c2d47218c51ca08012aaa9c0863bc9b7fd1
-- Clone service provider
-- Add clone to sp panel
-- Clone group
-- Fixed error on group select
-- Remove replicateGroupService replace with cloneGroup
-- Revert changes to group services, add in filter by authorization status
-- New clone services implementation
-- Add logic for network class of service on group clone
-
-### Patches 
-
-- Call record search
-- Remove sp and gp from group call records table as that is known already and taking up space
-- Fix lint
-- Fix typo.  
-- Fix error in contact on group profile page
-- Fixed services/servicepacks/networkclassofservice on service provider clone
-- Revert
 
 <br><br>
