@@ -5,10 +5,16 @@ sync with web release version
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.6.5 (2019-7-26)
+## 4.7.0 (2019-8-9)
+### Minor Changes 
+
+- Added the ability to bulk assign DNs to Service Providers and Groups
+- Added UI for User Schedules
+- Add Webhook configuration option to send user auth token
+
 ### Patches 
 
-- Fix full page loading overlay getting hidden behind modals
-- Fixed error where menus overflowed the screen on some desktop browsers
+- Bulk user create was missing phoneNumber and extension fields on CSV download when leave blank was selected in the wizard
+- Clear local cache on logout
 
   
