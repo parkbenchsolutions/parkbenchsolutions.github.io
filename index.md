@@ -1,15 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.7.0 (2019-8-9)
-### Minor Changes 
-
-- Added bulk dn assignment endpoints for service provider and group
-- Added user schedule endpoints
-- Allow webhooks to run as the user that initiated the change if configured to do so
-
-### Patches 
-
-- Remove cache for system domain and version
+## 4.7.1 (2019-8-9)
+No changes, sync with web release
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
