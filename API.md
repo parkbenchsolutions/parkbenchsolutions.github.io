@@ -1,4 +1,16 @@
 # API Latest Releases
+## 4.7.0 (2019-8-9)
+### Minor Changes 
+
+- Added bulk dn assignment endpoints for service provider and group
+- Added user schedule endpoints
+- Allow webhooks to run as the user that initiated the change if configured to do so
+
+### Patches 
+
+- Remove cache for system domain and version
+
+<br><br>
 ## 4.6.5 (2019-7-26)
 sync with web release version
 
@@ -661,9 +673,5 @@ Sync
 <br><br>
 ## 3.1.2 (2018-3-14)
 sync with odinweb
-
-<br><br>
-## 3.1.1 (2018-3-14)
-No changes, released to sync with web release.
 
 <br><br>
