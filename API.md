@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.7.1 (2019-8-9)
+No changes, sync with web release
+
+<br><br>
 ## 4.7.0 (2019-8-9)
 ### Minor Changes 
 
@@ -669,9 +673,5 @@ Sync
 - Move call record search to use releaseTimeUtc as JSON is sending it over that way
 - Fix bug in clone group in service packs
 - Outgoing calling plan error
-
-<br><br>
-## 3.1.2 (2018-3-14)
-sync with odinweb
 
 <br><br>
