@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.7.2 (2019-8-13)
+### Patches 
+
+- Remove local caching that was interfering with multi-cluster logins
+
+<br><br>
 ## 4.7.1 (2019-8-9)
 ### Patches 
 
@@ -702,51 +708,5 @@ Initial release
 ### Patches 
 
 - Remove auto attendant report from UI, as its not complete yet
-
-<br><br>
-## 3.2.2 (2018-4-19)
-### Patches 
-
-- Change UI route
-- Update default web
-- Default favicons
-- Bypass limit downloading group cdr call records
-- Switch to lastName as default
-- Combine rebuild and reset commands into one for VDM.  
-- Remove reference to Template (eg: t41) on customer views in VDM.  
-- change Name to Template name in VDM.  Remove Device Template columns in VDM. Change LDAP tab to Directories in VDM.
-- Add group device configuration
-- Finish group device configurations.  added rebuild/reset to all tabs.  
-- Sso implementation
-- Beginning of common phone list
-- Added csv upload capability to custom phone list e29cb616ba27284e323781fde81196bb429568a6
-- Initial service search
-- Fix branding on push to talk closes db3bba785a6a556091fc9652ac5feb70dff23af5
-- Scrollable css
-- Add service type to service search
-- Fix NONE in phone number select.  
-- Finished user service search
-- Added group call processing policy:
-- Update menu and tabs ui.  make reloadOnSearch false for all routes
-- Move wizard to use pbs-menu
-- Clone branding
-- Fix typo on templates
-- Add VDM to provisioning
-- Created PbsRouteProvider to simplify routing - will allow us to do more with virtual users
-- Typo in routes
-- Updates on menu and tabs directive so you can deep link, even when embedding a menu inside a tab
-- Move optional prefix to end of arguments
-- Re-arrange auto attendants
-- Fix route problem
-- Remove logging
-- Remove debug
-- Fix submenu link
-- Added section to pbs-menu.  moved aa to use menu. merge submenus into one screen
-- Make call records reports inline
-- Fly out!
-- Move all module help to flyout
-- Fixed call processing policy link
-- Description OR url will show help
-
 
 <br><br>
