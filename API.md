@@ -1,4 +1,11 @@
 # API Latest Releases
+## 4.7.2 (2019-8-13)
+### Patches 
+
+- Fix error message when navigating to Group Routing Profile
+- Fixed reseller modify request
+
+<br><br>
 ## 4.7.1 (2019-8-9)
 No changes, sync with web release
 
@@ -646,32 +653,5 @@ Sync
 
 - Call records to releaseTime instead of utc
 - Change releasetTime for user call records too
-
-<br><br>
-## 3.2.0 (2018-3-30)
-### Minor Changes 
-
-- Migration fix for timezone
-- Group network class of service
-- Service provider network class of service API
-- System network class of service
-- Added replicate service pack service
-- New routes model
-- Added Replicate Calling Plan Digit Plan Call me now
-- UserCallRecords
-- Update CdrCallRecord data to use compression
-- Clone Service Provider.  Also renamed all the Replicate classes to CloneX
-- Clone group
-- Clone services implementation
-
-### Patches 
-
-- Added check for service pack before adding
-- Fixed replicate group service
-- New CdrCallRecords migration to re-enable partitions
-- Fix network class of service ent replicate
-- Move call record search to use releaseTimeUtc as JSON is sending it over that way
-- Fix bug in clone group in service packs
-- Outgoing calling plan error
 
 <br><br>
