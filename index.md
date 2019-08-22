@@ -1,10 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.7.2 (2019-8-13)
-### Patches 
+## 4.8.0 (2019-8-22)
+### Minor Changes 
 
-- Fix error message when navigating to Group Routing Profile
-- Fixed reseller modify request
+- Add Reseller Level Support
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
