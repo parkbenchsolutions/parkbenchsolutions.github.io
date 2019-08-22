@@ -1,4 +1,15 @@
 # Web Latest Releases
+## 4.8.0 (2019-8-22)
+### Minor Changes 
+
+- Add Reseller Level Support
+
+### Patches 
+
+- Added Aliased names for Service Pack service lists
+  - (eg: Client License 18 === BroadTouch Business Communicator Destop - Video)
+
+<br><br>
 ## 4.7.2 (2019-8-13)
 ### Patches 
 
@@ -702,11 +713,5 @@ Initial release
 ### Patches 
 
 - Fix users routing error
-
-<br><br>
-## 3.2.3 (2018-4-19)
-### Patches 
-
-- Remove auto attendant report from UI, as its not complete yet
 
 <br><br>
