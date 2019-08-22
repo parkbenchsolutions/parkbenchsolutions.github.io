@@ -7,9 +7,14 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.7.2 (2019-8-13)
+## 4.8.0 (2019-8-22)
+### Minor Changes 
+
+- Add Reseller Level Support
+
 ### Patches 
 
-- Remove local caching that was interfering with multi-cluster logins
+- Added Aliased names for Service Pack service lists
+  - (eg: Client License 18 === BroadTouch Business Communicator Destop - Video)
 
   
