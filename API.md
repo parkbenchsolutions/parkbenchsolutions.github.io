@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.8.0 (2019-8-22)
+### Minor Changes 
+
+- Add Reseller Level Support
+
+<br><br>
 ## 4.7.2 (2019-8-13)
 ### Patches 
 
@@ -646,12 +652,5 @@ Sync
 - Added group call processing policy
 - Clone branding
 - Added check for call processing and commented out enterprise calls
-
-<br><br>
-## 3.2.1 (2018-4-3)
-### Patches 
-
-- Call records to releaseTime instead of utc
-- Change releasetTime for user call records too
 
 <br><br>
