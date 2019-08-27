@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.8.1 (2019-8-27)
+### Patches 
+
+- Fix ocs parsing
+
+<br><br>
 ## 4.8.0 (2019-8-22)
 ### Minor Changes 
 
@@ -633,24 +639,5 @@ Initial release
 <br><br>
 ## 3.2.3 (2018-4-19)
 Sync
-
-<br><br>
-## 3.2.2 (2018-4-19)
-### Patches 
-
-- Change UI routes
-- Change user permissions
-- Bypass limit for downloading csv data for call records
-- Finish group device configurations.  added rebuild/reset to all tabs.  
-- Added sso test
-- Common phone list oci calls
-- Beginning of common phone list
-- Configurable url in sso test
-- Custom phone list complete
-- Service user search
-- Add to service search by service type
-- Added group call processing policy
-- Clone branding
-- Added check for call processing and commented out enterprise calls
 
 <br><br>
