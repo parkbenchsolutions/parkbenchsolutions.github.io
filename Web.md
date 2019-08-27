@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.8.1 (2019-8-27)
+sync with api
+
+<br><br>
 ## 4.8.0 (2019-8-22)
 ### Minor Changes 
 
@@ -707,11 +711,5 @@ Initial release
 ### Patches 
 
 - Fix css style on table
-
-<br><br>
-## 3.2.4 (2018-4-20)
-### Patches 
-
-- Fix users routing error
 
 <br><br>
