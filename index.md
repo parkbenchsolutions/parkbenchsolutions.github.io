@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.8.0 (2019-8-22)
-### Minor Changes 
+## 4.8.1 (2019-8-27)
+### Patches 
 
-- Add Reseller Level Support
+- Fix ocs parsing
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
