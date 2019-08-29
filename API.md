@@ -1,4 +1,15 @@
 # API Latest Releases
+## 4.9.0 (2019-8-29)
+### Minor Changes 
+
+- Add group device users endpoint to find all the users on a group level device
+
+### Patches 
+
+- Fixed permission for user events, which were causing an error for users when updating schedules
+- Allow userIds with a dot (.)
+
+<br><br>
 ## 4.8.1 (2019-8-27)
 ### Patches 
 
@@ -635,9 +646,5 @@ Initial release
 ### Patches 
 
 - Fix branding application routing bug
-
-<br><br>
-## 3.2.3 (2018-4-19)
-Sync
 
 <br><br>
