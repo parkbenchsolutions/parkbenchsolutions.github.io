@@ -12,7 +12,10 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.8.1 (2019-8-27)
-sync with api
+## 4.9.0 (2019-8-29)
+### Minor Changes 
+
+- Add Tags, Users, and File Modification for Group Devices
+- Add Device Tags component to User Device Page
 
   
