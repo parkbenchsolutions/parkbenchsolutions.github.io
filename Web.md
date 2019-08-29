@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 4.9.0 (2019-8-29)
+### Minor Changes 
+
+- Add Tags, Users, and File Modification for Group Devices
+- Add Device Tags component to User Device Page
+
+<br><br>
 ## 4.8.1 (2019-8-27)
 sync with api
 
@@ -705,11 +712,5 @@ Initial release
 
 - Fix call record changes
 - Fix group call record search
-
-<br><br>
-## 3.2.5 (2018-4-20)
-### Patches 
-
-- Fix css style on table
 
 <br><br>
