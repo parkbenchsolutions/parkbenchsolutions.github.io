@@ -12,10 +12,10 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.9.0 (2019-8-29)
-### Minor Changes 
+## 4.9.1 (2019-8-31)
+### Patches 
 
-- Add Tags, Users, and File Modification for Group Devices
-- Add Device Tags component to User Device Page
+- Added policy for userIdDelete
+- Added policy for userIdUpdate
 
   
