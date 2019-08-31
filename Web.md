@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 4.9.1 (2019-8-31)
+### Patches 
+
+- Added policy for userIdDelete
+- Added policy for userIdUpdate
+
+<br><br>
 ## 4.9.0 (2019-8-29)
 ### Minor Changes 
 
@@ -700,17 +707,5 @@ Initial release
 
 - Bulk UI updates
 - Some additional ui updates
-
-<br><br>
-## 3.3.0 (2018-4-24)
-### Minor Changes 
-
-- Finish vir user
-- Clean up all virtual user menu items
-
-### Patches 
-
-- Fix call record changes
-- Fix group call record search
 
 <br><br>
