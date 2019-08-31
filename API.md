@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.9.2 (2019-8-31)
+sync with web
+
+<br><br>
 ## 4.9.1 (2019-8-31)
 - Update GroupAdminPolicy to only allow userId changes on Full access.
 
@@ -640,9 +644,5 @@ Initial release
 - Added if schedule group = group to clone
 - Moved group clone services as top priority before all other features in the clone process
 - Fix user call records search for virtual users
-
-<br><br>
-## 3.2.5 (2018-4-20)
-Initial release
 
 <br><br>
