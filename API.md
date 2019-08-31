@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.9.1 (2019-8-31)
+- Update GroupAdminPolicy to only allow userId changes on Full access.
+
+<br><br>
 ## 4.9.0 (2019-8-29)
 ### Minor Changes 
 
@@ -640,11 +644,5 @@ Initial release
 <br><br>
 ## 3.2.5 (2018-4-20)
 Initial release
-
-<br><br>
-## 3.2.4 (2018-4-20)
-### Patches 
-
-- Fix branding application routing bug
 
 <br><br>
