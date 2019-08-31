@@ -1,14 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.9.0 (2019-8-29)
-### Minor Changes 
-
-- Add group device users endpoint to find all the users on a group level device
-
-### Patches 
-
-- Fixed permission for user events, which were causing an error for users when updating schedules
-- Allow userIds with a dot (.)
+## 4.9.1 (2019-8-31)
+- Update GroupAdminPolicy to only allow userId changes on Full access.
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
