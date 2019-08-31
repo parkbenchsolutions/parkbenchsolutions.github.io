@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.9.2 (2019-8-31)
+### Patches 
+
+- Fix missing delete class in css that caused modal x button UI problem
+
+<br><br>
 ## 4.9.1 (2019-8-31)
 ### Patches 
 
@@ -700,12 +706,5 @@ Initial release
 
 - Minor ui tweak
 - Document drobdown button
-
-<br><br>
-## 3.3.2 (2018-4-28)
-### Patches 
-
-- Bulk UI updates
-- Some additional ui updates
 
 <br><br>
