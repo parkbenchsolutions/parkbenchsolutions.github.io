@@ -1,4 +1,11 @@
 # API Latest Releases
+## 4.9.3 (2019-9-3)
+### Patches 
+
+- Added support for self-signed SSL certificates when using OCI-P over https
+- Fix webhook error
+
+<br><br>
 ## 4.9.2 (2019-8-31)
 sync with web
 
@@ -634,15 +641,5 @@ sync with web
 <br><br>
 ## 3.3.2 (2018-4-28)
 Initial release
-
-<br><br>
-## 3.3.0 (2018-4-24)
-### Patches 
-
-- Added check for isEnterprise for enterprise voice vpn
-- Added check for enterprise clid for redirecting identity
-- Added if schedule group = group to clone
-- Moved group clone services as top priority before all other features in the clone process
-- Fix user call records search for virtual users
 
 <br><br>
