@@ -5,9 +5,7 @@ sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.9.2 (2019-8-31)
-### Patches 
-
-- Fix missing delete class in css that caused modal x button UI problem
+## 4.9.3 (2019-9-3)
+sync with api
 
   
