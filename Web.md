@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.9.3 (2019-9-3)
+sync with api
+
+<br><br>
 ## 4.9.2 (2019-8-31)
 ### Patches 
 
@@ -691,20 +695,5 @@ Initial release
 
 - Fix linting problems
 - Enabled to is active
-
-<br><br>
-## 3.4.0 (2018-5-1)
-### Minor Changes 
-
-- Added random generate for password and passcode
-- Add filtering capability to pbsDataTable.  add nested property support to pbsDataTable.  finish call forward always bulk
-- Add group CFA to dashboard
-- Change cfa to service
-- Update user CLID in bulk
-
-### Patches 
-
-- Minor ui tweak
-- Document drobdown button
 
 <br><br>
