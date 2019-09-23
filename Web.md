@@ -1,4 +1,18 @@
 # Web Latest Releases
+## 4.10.0 (2019-9-23)
+### Minor Changes 
+
+- Added notification when the user password is expiring soon (< 14days)
+- Add supported browser message for unsupported browsers
+- Added new columns to events view to include more data
+- Fixed the navbar dropdown rendering in Microsoft Edge
+
+### Patches 
+
+- Added reseller id to service provider create for service providers under a reseller
+
+
+<br><br>
 ## 4.9.3 (2019-9-3)
 sync with api
 
@@ -676,24 +690,5 @@ Initial release
 ### Patches 
 
 - Fix device type search on group devices page
-
-<br><br>
-## 3.5.0 (2018-5-2)
-### Minor Changes 
-
-- Expand numbers for adding/removing from group
-- Apply same numbers UI to service providers
-- Added group user service get for CallRecording, HotelingHost and HotelingGuest
-- Site-wide UI update, change all a and span buttons to a button.  lock buttons on update numbers
-- Add first and last to pagination
-- Make all filter buttons link color instead of primary color
-- Contain toggle column in pbs data table
-- Add filter inside range to sp numbers
-- Voice Messaging user bulk
-
-### Patches 
-
-- Fix linting problems
-- Enabled to is active
 
 <br><br>
