@@ -18,7 +18,17 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.9.3 (2019-9-3)
-sync with api
+## 4.10.0 (2019-9-23)
+### Minor Changes 
+
+- Added notification when the user password is expiring soon (< 14days)
+- Add supported browser message for unsupported browsers
+- Added new columns to events view to include more data
+- Fixed the navbar dropdown rendering in Microsoft Edge
+
+### Patches 
+
+- Added reseller id to service provider create for service providers under a reseller
+
 
   
