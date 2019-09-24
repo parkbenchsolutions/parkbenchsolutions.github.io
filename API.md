@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.10.1 (2019-9-24)
+fix lint rules that prevented builds - no ui changes
+
+<br><br>
 ## 4.10.0 (2019-9-23)
 ### Minor Changes 
 
@@ -640,19 +644,5 @@ sync with web
 - Fixed numberOfRings not nillable
 - Fixed xml CFNA
 - Fixed routes on new bulk voice messaging and hoteling hosts
-
-<br><br>
-## 3.4.0 (2018-5-1)
-### Minor Changes 
-
-- Added cfa bulk endpoint
-- Bulk CFA
-- Added bulk for user call features
-- Update bulk actions for users
-
-### Patches 
-
-- Modified return object for bulk user services
-- UserIdShort should be a string
 
 <br><br>
