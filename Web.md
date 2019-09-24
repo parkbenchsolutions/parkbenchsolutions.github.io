@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.1 (2019-9-24)
+fix lint rules that prevented build - no ui changes
+
+<br><br>
 ## 4.10.0 (2019-9-23)
 ### Minor Changes 
 
@@ -684,11 +688,5 @@ Initial release
 - Custom config to vdm
 - VDM Group Device list
 - Hide sso integration in applications
-
-<br><br>
-## 3.5.1 (2018-5-4)
-### Patches 
-
-- Fix device type search on group devices page
 
 <br><br>
