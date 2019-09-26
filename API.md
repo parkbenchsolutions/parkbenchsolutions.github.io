@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.10.2 (2019-9-26)
+- Update container packaging, no API changes
+
+<br><br>
 ## 4.10.1 (2019-9-24)
 fix lint rules that prevented builds - no ui changes
 
@@ -631,18 +635,5 @@ sync with web
 
 - Fixed nill for email address and other fields in user modify request
 - Fix userModifyRequest
-
-<br><br>
-## 3.5.0 (2018-5-2)
-### Minor Changes 
-
-- Added bulk for call recording, hoteling guest and hoteling host
-- Added voice messaging
-
-### Patches 
-
-- Fixed numberOfRings not nillable
-- Fixed xml CFNA
-- Fixed routes on new bulk voice messaging and hoteling hosts
 
 <br><br>
