@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.3 (2019-9-26)
+Sync with API
+
+<br><br>
 ## 4.10.2 (2019-9-26)
 - Update container packaging, no Web changes
 
@@ -666,18 +670,5 @@ Initial release
 ### Patches 
 
 - Fix alternate entries edit modal not opening
-
-<br><br>
-## 3.7.0 (2018-5-10)
-### Minor Changes 
-
-- Allow service search across all types
-- Small UI update on service search
-- Search for phone numbers
-
-### Patches 
-
-- Fix data table search
-- Fix user services bulk removing service
 
 <br><br>
