@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.2 (2019-9-26)
+- Update container packaging, no Web changes
+
+<br><br>
 ## 4.10.1 (2019-9-24)
 fix lint rules that prevented build - no ui changes
 
@@ -675,18 +679,5 @@ Initial release
 
 - Fix data table search
 - Fix user services bulk removing service
-
-<br><br>
-## 3.6.1 (2018-5-8)
-### Minor Changes 
-
-- Initial sso emu integration
-- Bug in session loading in navigation component
-- Sso
-- Bulk outgoing calling plan originating
-- Outgoing calling plans bulk edit
-- Custom config to vdm
-- VDM Group Device list
-- Hide sso integration in applications
 
 <br><br>
