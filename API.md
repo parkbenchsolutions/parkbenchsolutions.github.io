@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.10.3 (2019-9-26)
+### Patches 
+
+- Fixed error that sometimes sent an improper custom header in a webhook
+
+<br><br>
 ## 4.10.2 (2019-9-26)
 - Update container packaging, no API changes
 
@@ -628,12 +634,5 @@ sync with web
 - Bulk user outgoing calling plans
 - Add VDM Custom Config to product master
 - VDM Group Device List
-
-<br><br>
-## 3.5.1 (2018-5-4)
-### Patches 
-
-- Fixed nill for email address and other fields in user modify request
-- Fix userModifyRequest
 
 <br><br>
