@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.10.5 (2019-10-9)
+### Patches 
+
+- Fix cluster login when in background mode
+
+<br><br>
 ## 4.10.4 (2019-10-9)
 ### Patches 
 
@@ -627,9 +633,5 @@ Initial release
 - Added documentation
 - Add cors
 - Phone number search
-
-<br><br>
-## 3.6.1 (2018-5-8)
-sync with web
 
 <br><br>
