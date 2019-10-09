@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.10.4 (2019-10-9)
+### Patches 
+
+- Add task timing logging
+
+<br><br>
 ## 4.10.3 (2019-9-26)
 ### Patches 
 
@@ -625,14 +631,5 @@ Initial release
 <br><br>
 ## 3.6.1 (2018-5-8)
 sync with web
-
-<br><br>
-## 3.6.0 (2018-5-8)
-### Minor Changes 
-
-- Initial integration configuration for emu sso
-- Bulk user outgoing calling plans
-- Add VDM Custom Config to product master
-- VDM Group Device List
 
 <br><br>
