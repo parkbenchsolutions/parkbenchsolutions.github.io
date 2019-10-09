@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.5 (2019-10-9)
+sync with api
+
+<br><br>
 ## 4.10.4 (2019-10-9)
 ### Patches 
 
@@ -663,12 +667,5 @@ Initial release
 
 - Fixed custom contact directories path
 - Add filter to select service provider so we can restrict clone group to same type of enterprise/serviceprovider
-
-<br><br>
-## 3.7.2 (2018-5-10)
-### Patches 
-
-- Make last name the default field for user search
-- Normalize search forms
 
 <br><br>
