@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.10.4 (2019-10-9)
+## 4.10.5 (2019-10-9)
 ### Patches 
 
-- Add task timing logging
+- Fix cluster login when in background mode
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
