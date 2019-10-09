@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.10.4 (2019-10-9)
+### Patches 
+
+- If an SSO login is attempted with an open session, logout the original session and then login with the token.
+
+<br><br>
 ## 4.10.3 (2019-9-26)
 Sync with API
 
@@ -664,11 +670,5 @@ Initial release
 
 - Make last name the default field for user search
 - Normalize search forms
-
-<br><br>
-## 3.7.1 (2018-5-10)
-### Patches 
-
-- Fix alternate entries edit modal not opening
 
 <br><br>
