@@ -1,4 +1,11 @@
 # API Latest Releases
+## 4.10.6 (2019-10-14)
+### Patches 
+
+- Add failure tracing to background event processing
+
+
+<br><br>
 ## 4.10.5 (2019-10-9)
 ### Patches 
 
@@ -625,13 +632,5 @@ Initial release
 <br><br>
 ## 3.7.1 (2018-5-10)
 Initial release
-
-<br><br>
-## 3.7.0 (2018-5-10)
-### Minor Changes 
-
-- Added documentation
-- Add cors
-- Phone number search
 
 <br><br>
