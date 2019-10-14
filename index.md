@@ -1,13 +1,14 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.10.5 (2019-10-9)
+## 4.10.6 (2019-10-14)
 ### Patches 
 
-- Fix cluster login when in background mode
+- Add failure tracing to background event processing
+
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.10.5 (2019-10-9)
-sync with api
+## 4.10.6 (2019-10-14)
+- No changes, sync with api version
 
   
