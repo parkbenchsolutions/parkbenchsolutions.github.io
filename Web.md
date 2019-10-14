@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.6 (2019-10-14)
+- No changes, sync with api version
+
+<br><br>
 ## 4.10.5 (2019-10-9)
 sync with api
 
@@ -660,12 +664,5 @@ Initial release
 <br><br>
 ## 3.7.4 (2018-5-14)
 Initial release
-
-<br><br>
-## 3.7.3 (2018-5-14)
-### Patches 
-
-- Fixed custom contact directories path
-- Add filter to select service provider so we can restrict clone group to same type of enterprise/serviceprovider
 
 <br><br>
