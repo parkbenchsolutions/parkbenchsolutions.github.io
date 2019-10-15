@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.10.7 (2019-10-15)
+### Patches 
+
+- Added connet mobile and connect table
+
+<br><br>
 ## 4.10.6 (2019-10-14)
 ### Patches 
 
@@ -628,9 +634,5 @@ Initial release
 ### Patches 
 
 - Add service provider id and group id to group devices
-
-<br><br>
-## 3.7.1 (2018-5-10)
-Initial release
 
 <br><br>
