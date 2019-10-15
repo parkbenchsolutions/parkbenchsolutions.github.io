@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.7 (2019-10-15)
+Sync with API
+
+<br><br>
 ## 4.10.6 (2019-10-14)
 - No changes, sync with api version
 
@@ -660,9 +664,5 @@ Initial release
 - Url for bulk tasks with space in group or service provider was creating error on breadcrumb.  
 - Push to talk fix
 - Global dn search for provisioning and above
-
-<br><br>
-## 3.7.4 (2018-5-14)
-Initial release
 
 <br><br>
