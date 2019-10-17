@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.8 (2019-10-17)
+Sync with API
+
+<br><br>
 ## 4.10.7 (2019-10-15)
 Sync with API
 
@@ -655,14 +659,5 @@ Initial release
 
 - Added answer indicator related call id reason call time and total time
 - Hide Redirect Out of Primary Zone to Voicemail
-
-<br><br>
-## 3.7.5 (2018-5-15)
-### Patches 
-
-- Add options to selectPhoneNumber component (show-all and allow-manual).  Set show-all to Group CLID and User CLID.  Set allow-manual to User CLID.
-- Url for bulk tasks with space in group or service provider was creating error on breadcrumb.  
-- Push to talk fix
-- Global dn search for provisioning and above
 
 <br><br>
