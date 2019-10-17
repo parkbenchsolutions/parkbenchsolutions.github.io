@@ -5,7 +5,7 @@ Task Debugging
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.10.7 (2019-10-15)
+## 4.10.8 (2019-10-17)
 Sync with API
 
   
