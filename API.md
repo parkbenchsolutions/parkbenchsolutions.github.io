@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.10.8 (2019-10-17)
+Task Debugging
+
+<br><br>
 ## 4.10.7 (2019-10-15)
 ### Patches 
 
@@ -628,11 +632,5 @@ Initial release
 ### Patches 
 
 - Return isEnterprise for all service providers
-
-<br><br>
-## 3.7.2 (2018-5-10)
-### Patches 
-
-- Add service provider id and group id to group devices
 
 <br><br>
