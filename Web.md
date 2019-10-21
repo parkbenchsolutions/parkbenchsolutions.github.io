@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.10.9 (2019-10-21)
+sync with api
+
+<br><br>
 ## 4.10.8 (2019-10-17)
 Sync with API
 
@@ -652,12 +656,5 @@ sync with api
 <br><br>
 ## 3.7.7 (2018-5-15)
 Initial release
-
-<br><br>
-## 3.7.6 (2018-5-15)
-### Patches 
-
-- Added answer indicator related call id reason call time and total time
-- Hide Redirect Out of Primary Zone to Voicemail
 
 <br><br>
