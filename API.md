@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.10.9 (2019-10-21)
+### Patches 
+
+- Invalid token error message was being displayed on failed logins, changed to pass through error to be more descriptive
+
+<br><br>
 ## 4.10.8 (2019-10-17)
 Task Debugging
 
@@ -626,11 +632,5 @@ Initial release
 ### Patches 
 
 - Added isEnterprise lookup for enterprise Calls CLID Policy
-
-<br><br>
-## 3.7.3 (2018-5-14)
-### Patches 
-
-- Return isEnterprise for all service providers
 
 <br><br>
