@@ -1,4 +1,15 @@
 # API Latest Releases
+## 4.11.0 (2019-11-14)
+### Minor Changes 
+
+- Add reseller to branding modules
+- Added shared call appearance lines events
+- Add Bulk SIP Authentication Task
+- Fixed dispatch event outgoing calling plan
+- Added department cloning
+- Added user intercept support for 16sp1
+
+<br><br>
 ## 4.10.9 (2019-10-21)
 ### Patches 
 
@@ -626,11 +637,5 @@ Initial release
 
 - Full system dn search
 - Remove debug statement
-
-<br><br>
-## 3.7.4 (2018-5-14)
-### Patches 
-
-- Added isEnterprise lookup for enterprise Calls CLID Policy
 
 <br><br>
