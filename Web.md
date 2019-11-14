@@ -1,4 +1,15 @@
 # Web Latest Releases
+## 4.11.0 (2019-11-14)
+### Minor Changes 
+
+- Styling changes
+- Styling and features
+- Add reseller level to modules tab in branding
+- Add User Bulk SIP Authentication UI
+- Added department cloning
+- Move bulk sip password to use sipPassword instead of userPassword
+
+<br><br>
 ## 4.10.9 (2019-10-21)
 sync with api
 
@@ -652,9 +663,5 @@ sync with api
 - Moved account code and auth code to end of table columns
 - Tags to Configuration in VDM
 - Fix table for system licensing.  closes parkbenchsolutions/docs/issues/422
-
-<br><br>
-## 3.7.7 (2018-5-15)
-Initial release
 
 <br><br>
