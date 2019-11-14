@@ -12,7 +12,14 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.10.9 (2019-10-21)
-sync with api
+## 4.11.0 (2019-11-14)
+### Minor Changes 
+
+- Styling changes
+- Styling and features
+- Add reseller level to modules tab in branding
+- Add User Bulk SIP Authentication UI
+- Added department cloning
+- Move bulk sip password to use sipPassword instead of userPassword
 
   
