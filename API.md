@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.12.0 (2019-12-3)
+### Minor Changes 
+
+- Tag-value-null-fix
+
+<br><br>
 ## 4.11.0 (2019-11-14)
 ### Minor Changes 
 
@@ -630,12 +636,5 @@ Initial release
 ### Patches 
 
 - Added answerIndicator and relatedCallIdReason to Group and User Call Records
-
-<br><br>
-## 3.7.5 (2018-5-15)
-### Patches 
-
-- Full system dn search
-- Remove debug statement
 
 <br><br>
