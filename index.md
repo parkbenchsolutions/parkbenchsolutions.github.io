@@ -1,14 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.11.0 (2019-11-14)
+## 4.12.0 (2019-12-3)
 ### Minor Changes 
 
-- Add reseller to branding modules
-- Added shared call appearance lines events
-- Add Bulk SIP Authentication Task
-- Fixed dispatch event outgoing calling plan
-- Added department cloning
-- Added user intercept support for 16sp1
+- Tag-value-null-fix
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
