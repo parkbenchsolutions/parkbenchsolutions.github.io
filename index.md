@@ -12,14 +12,15 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.11.0 (2019-11-14)
+## 4.12.0 (2019-12-3)
 ### Minor Changes 
 
-- Styling changes
-- Styling and features
-- Add reseller level to modules tab in branding
-- Add User Bulk SIP Authentication UI
-- Added department cloning
-- Move bulk sip password to use sipPassword instead of userPassword
+- Added group extension length
+- Fixed issue with speed dial 100 permissions
+- feature-access-code-fix
+- Tag-value-null-fix
+- tag-value-null-fix
+- Feature Access Code Error - Group Administrator #38
+- Fixed domain dropdown for clone
 
   
