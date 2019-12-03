@@ -1,4 +1,16 @@
 # Web Latest Releases
+## 4.12.0 (2019-12-3)
+### Minor Changes 
+
+- Added group extension length
+- Fixed issue with speed dial 100 permissions
+- feature-access-code-fix
+- Tag-value-null-fix
+- tag-value-null-fix
+- Feature Access Code Error - Group Administrator #38
+- Fixed domain dropdown for clone
+
+<br><br>
 ## 4.11.0 (2019-11-14)
 ### Minor Changes 
 
@@ -655,13 +667,5 @@ sync with api
 - Added generate password compoennt
 - Move more password fields.  change meetme and paging to modal on create to be consistent with rest of app
 - Add passcode component.  finish password replacement
-
-<br><br>
-## 3.7.8 (2018-5-16)
-### Patches 
-
-- Moved account code and auth code to end of table columns
-- Tags to Configuration in VDM
-- Fix table for system licensing.  closes parkbenchsolutions/docs/issues/422
 
 <br><br>
