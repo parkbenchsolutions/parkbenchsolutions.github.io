@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 4.12.1 (2019-12-4)
+4.12.1 sync
+
+<br><br>
 ## 4.12.0 (2019-12-3)
 ### Minor Changes 
 
@@ -659,13 +663,5 @@ sync with api
 ### Patches 
 
 - Passwords should not be required for editing group admins
-
-<br><br>
-## 3.7.9 (2018-5-18)
-### Patches 
-
-- Added generate password compoennt
-- Move more password fields.  change meetme and paging to modal on create to be consistent with rest of app
-- Add passcode component.  finish password replacement
 
 <br><br>
