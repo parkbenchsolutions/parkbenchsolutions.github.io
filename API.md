@@ -1,4 +1,10 @@
 # API Latest Releases
+## 4.12.1 (2019-12-4)
+### Patches 
+
+- Fixed department cloning
+
+<br><br>
 ## 4.12.0 (2019-12-3)
 ### Minor Changes 
 
@@ -630,11 +636,5 @@ sync with web
 <br><br>
 ## 3.7.8 (2018-5-16)
 Initial release
-
-<br><br>
-## 3.7.7 (2018-5-15)
-### Patches 
-
-- Added answerIndicator and relatedCallIdReason to Group and User Call Records
 
 <br><br>
