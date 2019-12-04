@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.12.0 (2019-12-3)
-### Minor Changes 
+## 4.12.1 (2019-12-4)
+### Patches 
 
-- Tag-value-null-fix
+- Fixed department cloning
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
