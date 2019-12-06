@@ -7,7 +7,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.12.1 (2019-12-4)
-4.12.1 sync
+## 4.12.2 (2019-12-6)
+### Patches 
+
+- Fixes for Service Provider Administrator - Services Enumeration Value Not Valid also fixed the issue for Access Device
 
   
