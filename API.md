@@ -1,4 +1,8 @@
 # API Latest Releases
+## 4.12.2 (2019-12-6)
+sync with odinweb
+
+<br><br>
 ## 4.12.1 (2019-12-4)
 ### Patches 
 
@@ -632,9 +636,5 @@ Initial release
 <br><br>
 ## 3.7.9 (2018-5-18)
 sync with web
-
-<br><br>
-## 3.7.8 (2018-5-16)
-Initial release
 
 <br><br>
