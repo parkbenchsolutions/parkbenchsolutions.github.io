@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 4.12.2 (2019-12-6)
+### Patches 
+
+- Fixes for Service Provider Administrator - Services Enumeration Value Not Valid also fixed the issue for Access Device
+
+<br><br>
 ## 4.12.1 (2019-12-4)
 4.12.1 sync
 
@@ -657,11 +663,5 @@ sync with api
 ### Patches 
 
 - Remove old password match code that is no longer needed.
-
-<br><br>
-## 3.7.10 (2018-5-19)
-### Patches 
-
-- Passwords should not be required for editing group admins
 
 <br><br>
