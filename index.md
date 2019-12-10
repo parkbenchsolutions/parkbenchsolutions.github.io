@@ -1,7 +1,13 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 4.12.2 (2019-12-6)
-sync with odinweb
+## 5.0.0 (2019-12-10)
+### Major Changes 
+
+- Audit
+
+### Minor Changes 
+
+- Fixed anonymous call rejection bug
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
