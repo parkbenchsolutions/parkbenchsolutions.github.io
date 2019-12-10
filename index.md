@@ -5,9 +5,19 @@ sync with odinweb
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 4.12.2 (2019-12-6)
-### Patches 
+## 5.0.0 (2019-12-10)
+### Major Changes 
 
-- Fixes for Service Provider Administrator - Services Enumeration Value Not Valid also fixed the issue for Access Device
+- Auto attendant creation call flow
+- Styling changes
+- Add aa to a feature flag &quot;Visual AA Builder&quot;
+- Add reseller level to modules tab in branding
+- Add User Bulk SIP Authentication UI
+- Audit page
+- Added reseller audits
+
+### Minor Changes 
+
+- Tag-value-null-fix
 
   
