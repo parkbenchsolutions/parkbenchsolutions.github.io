@@ -1,4 +1,20 @@
 # Web Latest Releases
+## 5.0.0 (2019-12-10)
+### Major Changes 
+
+- Auto attendant creation call flow
+- Styling changes
+- Add aa to a feature flag &quot;Visual AA Builder&quot;
+- Add reseller level to modules tab in branding
+- Add User Bulk SIP Authentication UI
+- Audit page
+- Added reseller audits
+
+### Minor Changes 
+
+- Tag-value-null-fix
+
+<br><br>
 ## 4.12.2 (2019-12-6)
 ### Patches 
 
@@ -657,11 +673,5 @@ sync with api
 - Make all searches default to contains.  autofocus on search modal input
 - Bulk edit group virtual pack
 - Added autofocus directive to allow autofocus to work on subsequent modal openings
-
-<br><br>
-## 3.7.11 (2018-5-21)
-### Patches 
-
-- Remove old password match code that is no longer needed.
 
 <br><br>
