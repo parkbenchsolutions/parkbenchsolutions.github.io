@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.0.0 (2019-12-10)
+### Major Changes 
+
+- Audit
+
+### Minor Changes 
+
+- Fixed anonymous call rejection bug
+
+<br><br>
 ## 4.12.2 (2019-12-6)
 sync with odinweb
 
@@ -632,9 +642,5 @@ Initial release
 <br><br>
 ## 3.7.10 (2018-5-19)
 Initial release
-
-<br><br>
-## 3.7.9 (2018-5-18)
-sync with web
 
 <br><br>
