@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.7 (2019-12-11)
+sync with api
+
+<br><br>
 ## 5.0.6 (2019-12-11)
 sync with api
 
@@ -637,12 +641,5 @@ Initial release
 - UI update on audio file create
 - Check for call me now on digitplan and pinhole digit plan
 - IE11 Modal CSS hacks
-
-<br><br>
-## 3.11.0 (2018-6-12)
-- Added Group Night Forwarding
-- Added User Night Forwarding
-- Added Group Intercept
-- fix user.create in bulk to not ask for selected users
 
 <br><br>
