@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.2 (2019-12-11)
+### Patches 
+
+- Fixed diretory calling party category
+
+<br><br>
 ## 5.0.1 (2019-12-11)
 ### Patches 
 
@@ -642,9 +648,5 @@ Initial release
 ### Minor Changes 
 
 - Bulk virtualpack
-
-<br><br>
-## 3.7.11 (2018-5-21)
-Initial release
 
 <br><br>
