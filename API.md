@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.7 (2019-12-11)
+### Patches 
+
+- Added session refresh
+
+<br><br>
 ## 5.0.6 (2019-12-11)
 ### Patches 
 
@@ -636,22 +642,5 @@ no changes - syncing with web release
 
 - Remove debug logging
 - Remove healthcheck from dockerfile - add to compose
-
-<br><br>
-## 3.9.0 (2018-6-7)
-### Minor Changes 
-
-- Webhook logs to database
-- Webhook api
-- Initial GroupPolicy class
-- New groupPolicy class.  added to the group admins
-- Login message to templates
-- Add bulk to admin policies
-
-### Patches 
-
-- Modify some import of 2.0 to 3.0 migrations.  add mongodb support to docker base
-- Remove authentication and login debug logs.  add better error messages within application.  trunk deviceName on access device create
-- Updated token
 
 <br><br>
