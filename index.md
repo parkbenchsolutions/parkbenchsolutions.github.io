@@ -1,11 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.1 (2019-12-11)
+## 5.0.2 (2019-12-11)
 ### Patches 
 
-- Add announcementUrl to cluster config
-- Added branding modules
-- Task logging
+- Fixed diretory calling party category
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
