@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.0.1 (2019-12-11)
+### Patches 
+
+- Add announcementUrl to cluster config
+- Added branding modules
+- Task logging
+
+<br><br>
 ## 5.0.0 (2019-12-10)
 ### Major Changes 
 
@@ -637,10 +645,6 @@ Initial release
 
 <br><br>
 ## 3.7.11 (2018-5-21)
-Initial release
-
-<br><br>
-## 3.7.10 (2018-5-19)
 Initial release
 
 <br><br>
