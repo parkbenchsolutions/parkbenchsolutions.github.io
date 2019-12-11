@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.0.1 (2019-12-11)
+### Patches 
+
+- Issue fixes 61: Add AUTH setup and configuration (password) to Bulk
+- Issue fixed Add auth setup and configuration: #75
+
+
+<br><br>
 ## 5.0.0 (2019-12-10)
 ### Major Changes 
 
@@ -665,13 +673,5 @@ sync with api
 
 - Added x-xss-protection x-content-type-options x-frame-options referrer-policy strict-transport-security content-security-policy to proxy
 - Fixed auto attendant permissions when only has - Standard assigned.  closes parkbenchsolutions/docs/issues/417
-
-<br><br>
-## 3.8.0 (2018-5-24)
-### Minor Changes 
-
-- Make all searches default to contains.  autofocus on search modal input
-- Bulk edit group virtual pack
-- Added autofocus directive to allow autofocus to work on subsequent modal openings
 
 <br><br>
