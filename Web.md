@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.4 (2019-12-11)
+sync with api
+
+<br><br>
 ## 5.0.3 (2019-12-11)
 sync with api
 
@@ -664,11 +668,5 @@ Initial release
 - Don&#39;t show calling plans if not assigned
 - Password2 removed from bulk as its not needed
 - Fix bug in phone search.  119903d4b58b7339c006b04b5b39d1a2cceb4c4e
-
-<br><br>
-## 3.8.3 (2018-5-30)
-### Patches 
-
-- Fix service provider service licensing
 
 <br><br>
