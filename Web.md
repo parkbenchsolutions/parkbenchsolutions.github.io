@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.5 (2019-12-11)
+sync with api
+
+<br><br>
 ## 5.0.4 (2019-12-11)
 sync with api
 
@@ -644,29 +648,5 @@ Initial release
 - Update AA to use new callTime field
 - Update numbers for groups
 - Added number selection modal to use in group number assignment/activation
-
-<br><br>
-## 3.9.0 (2018-6-7)
-### Minor Changes 
-
-- Make group AA report search use new date format
-- Initial webhook UI
-- Administrators
-- Minimal UI for webhook data
-- Add login message
-- Hero-foot on login page
-- Add bulk to admin policies
-- Bulk ui
-- Changes to bulk select users UI.  also add selectAll to when selecting users
-- Add select all for service pack creation.  add bulk to group services
-- Add bulk to service provider services
-
-### Patches 
-
-- Fix parse error in aa report
-- Extract dayStart and dayEnd into a DateService helper
-- Don&#39;t show calling plans if not assigned
-- Password2 removed from bulk as its not needed
-- Fix bug in phone search.  119903d4b58b7339c006b04b5b39d1a2cceb4c4e
 
 <br><br>
