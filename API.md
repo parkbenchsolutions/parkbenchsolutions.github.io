@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.0.4 (2019-12-11)
+### Patches 
+
+- Fixed audit parent id update and device policies for non users
+- Removed helper log
+
+<br><br>
 ## 5.0.3 (2019-12-11)
 ### Patches 
 
@@ -644,9 +651,5 @@ Initial release
 ### Patches 
 
 - Added migration to clean auto attendant product master
-
-<br><br>
-## 3.8.1 (2018-5-30)
-Initial release
 
 <br><br>
