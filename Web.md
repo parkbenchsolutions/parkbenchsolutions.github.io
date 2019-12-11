@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.2 (2019-12-11)
+sync with api
+
+<br><br>
 ## 5.0.1 (2019-12-11)
 ### Patches 
 
@@ -666,12 +670,5 @@ Initial release
 <br><br>
 ## 3.8.2 (2018-5-30)
 sync with api
-
-<br><br>
-## 3.8.1 (2018-5-30)
-### Patches 
-
-- Added x-xss-protection x-content-type-options x-frame-options referrer-policy strict-transport-security content-security-policy to proxy
-- Fixed auto attendant permissions when only has - Standard assigned.  closes parkbenchsolutions/docs/issues/417
 
 <br><br>
