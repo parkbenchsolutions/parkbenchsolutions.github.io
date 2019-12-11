@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.6 (2019-12-11)
+sync with api
+
+<br><br>
 ## 5.0.5 (2019-12-11)
 sync with api
 
@@ -640,13 +644,5 @@ Initial release
 - Added User Night Forwarding
 - Added Group Intercept
 - fix user.create in bulk to not ask for selected users
-
-<br><br>
-## 3.10.0 (2018-6-11)
-### Minor Changes 
-
-- Update AA to use new callTime field
-- Update numbers for groups
-- Added number selection modal to use in group number assignment/activation
 
 <br><br>
