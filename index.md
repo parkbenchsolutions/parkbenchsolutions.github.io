@@ -11,19 +11,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.0.0 (2019-12-10)
-### Major Changes 
+## 5.0.1 (2019-12-11)
+### Patches 
 
-- Auto attendant creation call flow
-- Styling changes
-- Add aa to a feature flag &quot;Visual AA Builder&quot;
-- Add reseller level to modules tab in branding
-- Add User Bulk SIP Authentication UI
-- Audit page
-- Added reseller audits
+- Issue fixes 61: Add AUTH setup and configuration (password) to Bulk
+- Issue fixed Add auth setup and configuration: #75
 
-### Minor Changes 
-
-- Tag-value-null-fix
 
   
