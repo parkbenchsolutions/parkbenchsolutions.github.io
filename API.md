@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.6 (2019-12-11)
+### Patches 
+
+- Removed token refresh from audit listener
+
+<br><br>
 ## 5.0.5 (2019-12-11)
 ### Patches 
 
@@ -647,9 +653,5 @@ no changes - syncing with web release
 - Modify some import of 2.0 to 3.0 migrations.  add mongodb support to docker base
 - Remove authentication and login debug logs.  add better error messages within application.  trunk deviceName on access device create
 - Updated token
-
-<br><br>
-## 3.8.3 (2018-5-30)
-Initial release
 
 <br><br>
