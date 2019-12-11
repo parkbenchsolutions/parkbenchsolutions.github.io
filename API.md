@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.5 (2019-12-11)
+### Patches 
+
+- DeviceName required for audit
+
+<br><br>
 ## 5.0.4 (2019-12-11)
 ### Patches 
 
@@ -645,11 +651,5 @@ no changes - syncing with web release
 <br><br>
 ## 3.8.3 (2018-5-30)
 Initial release
-
-<br><br>
-## 3.8.2 (2018-5-30)
-### Patches 
-
-- Added migration to clean auto attendant product master
 
 <br><br>
