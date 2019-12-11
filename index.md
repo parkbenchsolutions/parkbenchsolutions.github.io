@@ -1,10 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.4 (2019-12-11)
+## 5.0.5 (2019-12-11)
 ### Patches 
 
-- Fixed audit parent id update and device policies for non users
-- Removed helper log
+- DeviceName required for audit
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
