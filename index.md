@@ -1,13 +1,11 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.0 (2019-12-10)
-### Major Changes 
+## 5.0.1 (2019-12-11)
+### Patches 
 
-- Audit
-
-### Minor Changes 
-
-- Fixed anonymous call rejection bug
+- Add announcementUrl to cluster config
+- Added branding modules
+- Task logging
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
