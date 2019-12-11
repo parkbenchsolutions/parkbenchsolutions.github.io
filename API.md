@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.3 (2019-12-11)
+### Patches 
+
+- Fixed policy access for allow enterprise user access
+
+<br><br>
 ## 5.0.2 (2019-12-11)
 ### Patches 
 
@@ -642,11 +648,5 @@ Initial release
 <br><br>
 ## 3.8.1 (2018-5-30)
 Initial release
-
-<br><br>
-## 3.8.0 (2018-5-24)
-### Minor Changes 
-
-- Bulk virtualpack
 
 <br><br>
