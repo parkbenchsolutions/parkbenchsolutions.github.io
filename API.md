@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.9 (2019-12-12)
+### Patches 
+
+- Added failed job and retries for audit
+
+<br><br>
 ## 5.0.8 (2019-12-12)
 ### Patches 
 
@@ -629,12 +635,5 @@ no changes - syncing with web release
 - Created insert for collaborate
 - Fix call center announcement view
 - Update to dockerfile
-
-<br><br>
-## 3.11.0 (2018-6-12)
-- Added Group Night Forwarding
-- Added User Night Forwarding
-- Added Group Intercept
-- fix user.create in bulk to not ask for selected users
 
 <br><br>
