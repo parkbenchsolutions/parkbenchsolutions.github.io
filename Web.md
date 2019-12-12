@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.9 (2019-12-12)
+sync with API
+
+<br><br>
 ## 5.0.8 (2019-12-12)
 sync with api
 
@@ -611,19 +615,5 @@ Initial release
 - Add sort and download options to enterprise directory
 - Make meetmeconference respect branding settings at user level
 - Fix delete alert notification on meetme conf
-
-<br><br>
-## 3.13.0 (2018-6-28)
-### Minor Changes 
-
-- New checkbox, select, radio, switch directives
-- Changed users panel to show first/last name
-- Provisioning-&gt;Group-&gt;read required to see aliases and endpoints for a user.  Provisioning-&gt;Group-&gt;update required to modify it
-- Switch to sp name and gp name in panels
-
-### Patches 
-
-- Hide routing for basic call centers
-- Fix announcements - allow selecting Group Level announcements and attaching to Call Center instance
 
 <br><br>
