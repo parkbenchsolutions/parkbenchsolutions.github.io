@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.8 (2019-12-12)
+sync with api
+
+<br><br>
 ## 5.0.7 (2019-12-11)
 sync with api
 
@@ -621,25 +625,5 @@ Initial release
 
 - Hide routing for basic call centers
 - Fix announcements - allow selecting Group Level announcements and attaching to Call Center instance
-
-<br><br>
-## 3.12.0 (2018-6-21)
-### Minor Changes 
-
-- Added virtual on net
-- Added guest association to hoteling host with release option
-- Combine password and passcode into single view.
-- Fix user announcement page for virtual users.  upgrade call center to use announcements
-
-### Patches 
-
-- Make tooltip not show a &lt;br&gt;, hide No File Selected for some browsers
-- Check for service on group intercept
-- Passcode directive was being called with Password params (min 6, max 60), should have been passcode params (min1, max 30)
-- Notes for new checkbox css helper - suspected that the css helper is causing issue with modals and IE11
-- Fix modal window from shrinking on dom element changes fix call centers to use announcements if on rel &gt; 20 update call center UI
-- UI update on audio file create
-- Check for call me now on digitplan and pinhole digit plan
-- IE11 Modal CSS hacks
 
 <br><br>
