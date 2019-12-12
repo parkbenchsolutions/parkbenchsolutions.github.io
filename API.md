@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.8 (2019-12-12)
+### Patches 
+
+- Removed UserInfo append to audit
+
+<br><br>
 ## 5.0.7 (2019-12-11)
 ### Patches 
 
@@ -630,17 +636,5 @@ no changes - syncing with web release
 - Added User Night Forwarding
 - Added Group Intercept
 - fix user.create in bulk to not ask for selected users
-
-<br><br>
-## 3.10.0 (2018-6-11)
-### Minor Changes 
-
-- Update for callRecrods to startTime
-- Add /ping status check and healthcheck to docker
-
-### Patches 
-
-- Remove debug logging
-- Remove healthcheck from dockerfile - add to compose
 
 <br><br>
