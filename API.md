@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.0.10 (2019-12-17)
+### Patches 
+
+- Added group department admin to tasks auth
+- Added group device access to department admin
+
+<br><br>
 ## 5.0.9 (2019-12-12)
 ### Patches 
 
@@ -617,23 +624,5 @@ no changes - syncing with web release
 - Updated migration
 - Allow 0 for hunt group call forward seconds
 - Remove failed product master insert
-
-<br><br>
-## 3.12.0 (2018-6-21)
-### Minor Changes 
-
-- Add Group Intercept to branding
-- Added virtual on net enterprise
-- Added webhook services and templates
-- Added webhook services method
-- Update call center to use announcements on &gt; 20 rel
-
-### Patches 
-
-- Change Intercept Group from Create to Turn on in Product Master migration
-- Added collaborate to product master
-- Created insert for collaborate
-- Fix call center announcement view
-- Update to dockerfile
 
 <br><br>
