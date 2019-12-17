@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.0.10 (2019-12-17)
+### Patches 
+
+- Fixes Bulk SIP Auth Password (43)
+- Sip password auth code system
+- Sip auth password rules
+- Sip auth password rules
+- Group Admin - Department Read only/None mode failed
+
+<br><br>
 ## 5.0.9 (2019-12-12)
 sync with API
 
@@ -605,15 +615,5 @@ Initial release
 ### Patches 
 
 - Added required field for collaborate room
-
-<br><br>
-## 3.13.1 (2018-6-29)
-### Patches 
-
-- Fix routing on call center to show overflow on basic
-- Fixed group intercept
-- Add sort and download options to enterprise directory
-- Make meetmeconference respect branding settings at user level
-- Fix delete alert notification on meetme conf
 
 <br><br>
