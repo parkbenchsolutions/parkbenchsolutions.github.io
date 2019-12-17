@@ -8,7 +8,13 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.0.9 (2019-12-12)
-sync with API
+## 5.0.10 (2019-12-17)
+### Patches 
+
+- Fixes Bulk SIP Auth Password (43)
+- Sip password auth code system
+- Sip auth password rules
+- Sip auth password rules
+- Group Admin - Department Read only/None mode failed
 
   
