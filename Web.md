@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.11 (2019-12-19)
+sync with api
+
+<br><br>
 ## 5.0.10 (2019-12-17)
 ### Patches 
 
@@ -601,19 +605,5 @@ Initial release
 - Untie password change from prov
 - Remove tie to provisioning for user password
 - Fix notfound page with back button
-
-<br><br>
-## 3.14.0 (2018-7-3)
-### Minor Changes 
-
-- Upgrade deps
-- Upgrade angular
-- Update bounced calls for call center - allow on basic if &gt;= R20
-- Enterprise users report
-- Update pbsDataTable to work with onClick changes in angular 1.7 update prepare group userServices and groupServices for a branding module add provisioning panel to enterprise admin dashboard  - contains read-only User Services, read-only Group Services, read-only  Numbers  - contains service packs based on Service Packs branding Add Service Pack module permission checking to Ent Service Pack page Hide assign services on Virtual User menu if Provisioning read is disabled
-
-### Patches 
-
-- Added required field for collaborate room
 
 <br><br>
