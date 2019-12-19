@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.0.11 (2019-12-19)
+### Patches 
+
+- Added service pack audit
+
+<br><br>
 ## 5.0.10 (2019-12-17)
 ### Patches 
 
@@ -611,18 +617,5 @@ no changes - syncing with web release
 ### Patches 
 
 - Fix permissions bug when user requesting GroupMeetMeConferenceBridge
-
-<br><br>
-## 3.13.0 (2018-6-28)
-### Minor Changes 
-
-- Add userId, serviceProviderId, groupId to all responses for webhooks
-- Update webhookService, webhookTemplate and migrations
-
-### Patches 
-
-- Updated migration
-- Allow 0 for hunt group call forward seconds
-- Remove failed product master insert
 
 <br><br>
