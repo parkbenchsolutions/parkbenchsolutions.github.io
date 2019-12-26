@@ -1,9 +1,10 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.11 (2019-12-19)
+## 5.0.12 (2019-12-26)
 ### Patches 
 
-- Added service pack audit
+- Groups/viewable-packs
+- Added group department permissions
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
