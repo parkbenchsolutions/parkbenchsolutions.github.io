@@ -1,4 +1,15 @@
 # Web Latest Releases
+## 5.0.12 (2019-12-26)
+### Patches 
+
+- Fixes Access Device
+- Group Administrator Policy and Number extension permission
+- Group Admin Policy : Policy set to None
+- Group Administrator Policy huntGroup ,AA
+- Merge pull request #3 from parkbenchsolutions/master
+- Group admins should be able to modify hunt group settings
+
+<br><br>
 ## 5.0.11 (2019-12-19)
 sync with api
 
@@ -595,15 +606,5 @@ Initial release
 ### Patches 
 
 - Revert &quot;add session requirement to pbsRouteProvider&quot;
-
-<br><br>
-## 3.14.1 (2018-7-4)
-### Patches 
-
-- Add session requirement to pbsRouteProvider
-- Added returnTo to navigation breadcrumbs Added groupId to User Report for Enterprise Turned user report into data table Added click to follow user on user report
-- Untie password change from prov
-- Remove tie to provisioning for user password
-- Fix notfound page with back button
 
 <br><br>
