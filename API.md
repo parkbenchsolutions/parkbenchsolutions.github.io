@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.0.12 (2019-12-26)
+### Patches 
+
+- Groups/viewable-packs
+- Added group department permissions
+
+<br><br>
 ## 5.0.11 (2019-12-19)
 ### Patches 
 
@@ -611,11 +618,5 @@ no changes - syncing with web release
 ### Patches 
 
 - Fixed callingLineIdLastName and callingLineIdFirstname defaulting to 1
-
-<br><br>
-## 3.13.1 (2018-6-29)
-### Patches 
-
-- Fix permissions bug when user requesting GroupMeetMeConferenceBridge
 
 <br><br>
