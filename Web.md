@@ -1,4 +1,20 @@
 # Web Latest Releases
+## 5.0.13 (2019-12-31)
+### Patches 
+
+- Group Department admin implementation
+- Group department administrator dashboard implementation
+- Department admin dashboard menu
+- Department admin dashboard listing
+- Group admin department
+- Department change password
+- Group Department implementation: Group Web Policies
+- Group Department implementation: trunk group
+- Group department : users
+- Group Department Breadcrumb issue fixes.
+- Group Department admin, music on hold service
+
+<br><br>
 ## 5.0.12 (2019-12-26)
 ### Patches 
 
@@ -600,11 +616,5 @@ Initial release
 
 - upgrade angular 1.7 
 - Update switch css
-
-<br><br>
-## 3.14.2 (2018-7-4)
-### Patches 
-
-- Revert &quot;add session requirement to pbsRouteProvider&quot;
 
 <br><br>
