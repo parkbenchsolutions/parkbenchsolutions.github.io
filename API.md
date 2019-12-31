@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.0.13 (2019-12-31)
+Initial release
+
+<br><br>
 ## 5.0.12 (2019-12-26)
 ### Patches 
 
@@ -608,15 +612,5 @@ no changes, sync version with web
 <br><br>
 ## 3.14.1 (2018-7-4)
 no changes - syncing with web release
-
-<br><br>
-## 3.14.0 (2018-7-3)
-### Minor Changes 
-
-- Add enterprise users report - add ala-cart user services to users report
-
-### Patches 
-
-- Fixed callingLineIdLastName and callingLineIdFirstname defaulting to 1
 
 <br><br>
