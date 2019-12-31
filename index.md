@@ -1,10 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.12 (2019-12-26)
-### Patches 
-
-- Groups/viewable-packs
-- Added group department permissions
+## 5.0.13 (2019-12-31)
+Initial release
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
