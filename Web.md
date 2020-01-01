@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.0.14 (2020-1-1)
+sync with api
+
+<br><br>
 ## 5.0.13 (2019-12-31)
 ### Patches 
 
@@ -609,12 +613,5 @@ Initial release
 
 - Add some min/max checks on call center forms
 - Hide supervisors tab from basic call center apply branding to auto attendant report enforce branding permissions to enterprise trunk
-
-<br><br>
-## 3.14.3 (2018-7-5)
-### Patches 
-
-- upgrade angular 1.7 
-- Update switch css
 
 <br><br>
