@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.1.2 (2020-1-2)
+### Patches 
+
+- Fixed password rules bug
+
+<br><br>
 ## 5.1.1 (2020-1-2)
 ### Patches 
 
@@ -591,26 +597,5 @@ no changes, sync version with web
 ### Patches 
 
 - Remove old migrations that break updates
-
-<br><br>
-## 3.15.0 (2018-7-10)
-### Minor Changes 
-
-- Add sessionTimeout to branding templates
-- Added use index
-- Added branding settings componenet
-- Added index to group queries to improve performance
-- Added index to group queries to improve performance
-- Added group feature access code endpoints
-- Feature access codes controller
-- Used index not show for access codes
-- Removed feauture access codes from old group endpoint
-- Merge branch &#39;master&#39; of github.com:parkbenchsolutions/odinapi
-- Add pilot user control to branding
-
-### Patches 
-
-- Fix trunkAddressing return values on user show
-- Minor rename of function to keep consistency
 
 <br><br>
