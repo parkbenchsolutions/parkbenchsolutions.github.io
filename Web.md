@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.1.1 (2020-1-2)
+sync with api
+
+<br><br>
 ## 5.1.0 (2020-1-2)
 ### Minor Changes 
 
@@ -595,22 +599,5 @@ sync with api
 <br><br>
 ## 3.15.1 (2018-7-10)
 Initial release
-
-<br><br>
-## 3.15.0 (2018-7-10)
-### Minor Changes 
-
-- Squashed commit of the following:
-- Move sessionTimeout to a Branding Settings component.  Added editCLID in branding settings to allow manual CLID editing
-- Add permission checks inside trunk group users page
-- Change permissions on Pilot User to Trunk Group - Pilot User -&gt; update
-
-### Patches 
-
-- Fix some minification issues due to last commit
-- Run alerts in next event loop so can be called from async methods such as event handlers
-- Fix UI display of group directory
-- Fix UI on directory listings for service provider and user
-- Remove hover in group directory listing
 
 <br><br>
