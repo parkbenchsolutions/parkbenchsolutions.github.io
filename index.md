@@ -1,9 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.0.14 (2020-1-1)
-### Patches 
-
-- Fixed department create
+## 5.1.0 (2020-1-2)
+sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
