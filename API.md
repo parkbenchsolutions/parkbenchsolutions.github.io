@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.1.1 (2020-1-2)
+### Patches 
+
+- Added service provider password rules
+
+<br><br>
 ## 5.1.0 (2020-1-2)
 sync with web
 
@@ -606,11 +612,5 @@ no changes, sync version with web
 
 - Fix trunkAddressing return values on user show
 - Minor rename of function to keep consistency
-
-<br><br>
-## 3.14.4 (2018-7-6)
-### Patches 
-
-- Fixes 72
 
 <br><br>
