@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.1.0 (2020-1-2)
+### Minor Changes 
+
+- Group Department : Department select box issue fixes on Flexible Seating Host, trunk group settings. Removed unwanted code.
+
+<br><br>
 ## 5.0.14 (2020-1-1)
 sync with api
 
@@ -606,12 +612,5 @@ Initial release
 - Fix UI display of group directory
 - Fix UI on directory listings for service provider and user
 - Remove hover in group directory listing
-
-<br><br>
-## 3.14.4 (2018-7-6)
-### Patches 
-
-- Add some min/max checks on call center forms
-- Hide supervisors tab from basic call center apply branding to auto attendant report enforce branding permissions to enterprise trunk
 
 <br><br>
