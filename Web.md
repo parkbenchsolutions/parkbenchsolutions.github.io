@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.1.4 (2020-1-3)
+### Patches 
+
+- Hunt Group / Unreachable (Display only department related data on Reroute To) fixes
+- Trunk group can not route to itself , fixes done
+- Group Admin - Department Read only/None mode failed #64
+- Fixes for Enterprise Administrator : Bulk Provisioning : Delete User we can add New Group #76
+- Fixes for Enterprise Admin : Can not Modify Default Domain for Enterprise #101
+
+<br><br>
 ## 5.1.3 (2020-1-3)
 ### Patches 
 
@@ -570,38 +580,5 @@ no changes sync with API release
 <br><br>
 ## 3.16.2 (2018-8-17)
 sync with api
-
-<br><br>
-## 3.16.0 (2018-8-15)
-### Minor Changes 
-
-- Datetime parse re-implemented with fix on future date issues as well as a help section.
-- PbsFormBuilder initial
-- Create callback UI
-- Rename webhooks
-- Fix no response alerts.  fix footer not loading on refresh
-- Add sticky footer
-- Fix spacing in forms with columns under a subtitle
-- Fix more spacing in forms
-- Move service packs to tabs
-- Added group routing profile
-- Routing profile cleanup
-- Change Undefined to Unspecified in Device create/update. 
-- Added routing profile clone
-- Add outgoing calling plan branding description
-- Initial call center report
-- Fix this week and last week
-- Add outgoing calling plan branding to multi user
-- Call center agent report
-- UI updates for Call Center Agent Report
-- Automatically add missing tags due to old templates on vdm.  sort menu items so the proper top item is opened
-- Update current tag
-- Add (default) to extension selection in bulk
-- Re-validate bulk CSV page on cell edits
-- AutoActivate on bulk user create
-
-### Patches 
-
-- Simplify favicons
 
 <br><br>
