@@ -7,7 +7,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.1.2 (2020-1-2)
-sync with api
+## 5.1.3 (2020-1-3)
+### Patches 
+
+- Fixes : Auto Password Generation
+- Password Rules apply
+- Password rules fixes
 
   
