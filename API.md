@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.1.3 (2020-1-3)
+Sync with web
+
+<br><br>
 ## 5.1.2 (2020-1-2)
 ### Patches 
 
@@ -591,11 +595,5 @@ no changes, sync version with web
 ### Patches 
 
 - Fix branding hostname settings
-
-<br><br>
-## 3.15.1 (2018-7-10)
-### Patches 
-
-- Remove old migrations that break updates
 
 <br><br>
