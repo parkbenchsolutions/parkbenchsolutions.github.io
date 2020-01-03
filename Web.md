@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.1.3 (2020-1-3)
+### Patches 
+
+- Fixes : Auto Password Generation
+- Password Rules apply
+- Password rules fixes
+
+<br><br>
 ## 5.1.2 (2020-1-2)
 sync with api
 
@@ -595,9 +603,5 @@ sync with api
 ### Patches 
 
 - Simplify favicons
-
-<br><br>
-## 3.15.2 (2018-7-10)
-sync with api
 
 <br><br>
