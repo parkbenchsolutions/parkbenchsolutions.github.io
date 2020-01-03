@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.1.4 (2020-1-3)
+sync with api
+
+<br><br>
 ## 5.1.3 (2020-1-3)
 Sync with web
 
@@ -589,11 +593,5 @@ no changes, sync version with web
 ### Patches 
 
 - Fix common phone list
-
-<br><br>
-## 3.15.2 (2018-7-10)
-### Patches 
-
-- Fix branding hostname settings
 
 <br><br>
