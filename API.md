@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.1.5 (2020-1-7)
+### Patches 
+
+- Added group series completion
+- Added user level event search
+- Fixed OdinEvent Voice Messaging Greeting
+- Added group call center enhanced reporting api for groups in a SP
+
+<br><br>
 ## 5.1.4 (2020-1-3)
 sync with api
 
@@ -566,32 +575,5 @@ no changes, sync version with web
 <br><br>
 ## 3.16.2 (2018-8-17)
 - edit initial import migration script
-
-<br><br>
-## 3.16.0 (2018-8-15)
-### Minor Changes 
-
-- Added use index on CdrCallRecords
-- Move webhook settings to callback settings
-- Added related call id reason
-- Added system routing profile api
-- Added group routing profile
-- Added group routing profile
-- Added routing profile migration
-- Fixed routing profile endpoint
-- Added group routing profile clone
-- Added busy lamp field callback to database, allowed fillable for CallbackTemplate model
-- Update blf callback
-- Clean up references to CdrCallRecords model
-- Normalize cache keys
-- Added schemas for callback templates
-- Update related calls
-- Move hunt group auto activate to the phoneNumberChanged event
-- Create GroupDN-&gt;autoActivate method to handle explicit auto activation.  Remove PhoneNumberChanged event magic
-- Update GroupDN-&gt;autoActivate($userObject)
-
-### Patches 
-
-- Fix common phone list
 
 <br><br>
