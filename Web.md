@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.1.5 (2020-1-7)
+sync with API
+
+<br><br>
 ## 5.1.4 (2020-1-3)
 ### Patches 
 
@@ -576,9 +580,5 @@ no changes sync with API release
 - Update uc one bulk to recognize all Business Communicator device types
 - Fix type in group collaborate router
 - Add navigation back in collaborate instance
-
-<br><br>
-## 3.16.2 (2018-8-17)
-sync with api
 
 <br><br>
