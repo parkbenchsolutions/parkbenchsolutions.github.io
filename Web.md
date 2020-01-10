@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.1.6 (2020-1-10)
+### Patches 
+
+- Fixes for issue #67 (Group Admin : User Access Policy Modes are Failed #67)
+- Added enable voice mail recording for users
+- Fixes for Issue : End User Profile Forces Logout #126 Fixes Done for : 1. Reseller Admin type 2. Service Provider Admin type 3. Group Admin type 4. Group Department Admin type 5. End User Type
+- Pull Request for End User Profile Forces Logout #126: #129
+- Change audit_limit view to 5000
+
+<br><br>
 ## 5.1.5 (2020-1-7)
 sync with API
 
@@ -570,15 +580,5 @@ no changes sync with API release
 - Bug in schedules filter.  closes parkbenchsolutions/support-exponential-e/issues/109
 - Fix user call report firstname/lastname
 
-
-<br><br>
-## 3.16.3 (2018-9-7)
-### Patches 
-
-- Fixed speed dial 100 speed dial code
-- Add Group Night Forwarding to Virtual Users configuration menu
-- Update uc one bulk to recognize all Business Communicator device types
-- Fix type in group collaborate router
-- Add navigation back in collaborate instance
 
 <br><br>
