@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.1.6 (2020-1-10)
+### Patches 
+
+- Added User Enable Voice Mail Recording
+- Fixed permissions on group password rules
+- Added reseller access to System Service Controller
+
+<br><br>
 ## 5.1.5 (2020-1-7)
 ### Patches 
 
@@ -571,9 +579,5 @@ no changes, sync version with web
 - AA daily Error
 - A few fixes in UserCallRecords Summary
 
-
-<br><br>
-## 3.16.2 (2018-8-17)
-- edit initial import migration script
 
 <br><br>
