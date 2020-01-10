@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.1.7 (2020-1-10)
+sync with web
+
+<br><br>
 ## 5.1.6 (2020-1-10)
 ### Patches 
 
@@ -563,21 +567,5 @@ no changes, sync version with web
 - Update Group Schedule API to work with slashes in schedule name
 - Update Group Event API to accept names with slash
 - Accept string FALSE on autoActivate phone number setting
-
-<br><br>
-## 3.16.3 (2018-9-7)
-### Patches 
-
-- Remove orderBy clause on Group and User Call Records
-- Added group routing profile check for clone
-- Check for invalid tokens
-- Add functionality to webhooks, if a 404 or 410 error is returned, immediately fail
-- Added user call summary report
-- Fix debug logs on soap error
-- Update device tags to match all Business Communicator types.  add related services to devices for convenience
-- Update soap client to work with broadworks new payload and response in recent updated soap server
-- AA daily Error
-- A few fixes in UserCallRecords Summary
-
 
 <br><br>
