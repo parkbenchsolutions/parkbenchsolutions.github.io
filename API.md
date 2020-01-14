@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.2.1 (2020-1-14)
+sync with web
+
+<br><br>
 ## 5.2.0 (2020-1-14)
 ### Minor Changes 
 
@@ -573,9 +577,5 @@ Fixed a bug introduced in 3.17.5 that effected Schedules
 - Allow slash in auto attendant name
 - Add v2 api routes
 - Fix error showing user service packs
-
-<br><br>
-## 3.17.1 (2018-9-20)
-no changes, sync version with web
 
 <br><br>
