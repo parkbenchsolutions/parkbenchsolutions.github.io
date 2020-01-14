@@ -1,4 +1,40 @@
 # Web Latest Releases
+## 5.2.0 (2020-1-14)
+### Minor Changes 
+
+- Group Department admin implementation
+- Group department administrator dashboard implementation
+- Group department administrator dashboard implementation
+- Department admin service file structure
+- Department admin dashboard menu
+- Fixes Bulk SIP Auth Password (43)
+- Sip password auth code system
+- Group Admin - Department Read only/None mode failed
+- Import
+- Group Department implementation: Group Web Policies
+- Group Department implementation: trunk group
+- Group department : users
+- Group Administrator Policy and Number extension permission
+- Group Admin Policy : Policy set to None
+- Group Administrator Policy huntGroup ,AA
+- Group admins should be able to modify hunt group settings
+- Group department module.permissions issue fixes, and Breadcrumb issue fixes
+- Group Department Breadcrumb issue fixes.
+- Fixes : Auto Password Generation
+- Group Department admin, music on hold service
+- Group Web policy fixes
+- Group Admin Department fixes
+- Department trunk group, trunking users fixes
+- Group Department admin breadcrumb issue fixes
+- Hunt Group / Unreachable (Display only department related data on Reroute To) fixes
+- Trunk group can not route to itself , fixes done
+- Password Rules apply
+- Fixes for Enterprise Admin : Can not Modify Default Domain for Enterprise #101
+- Added enable voice mail recording for users
+- Added import and audit message to pages
+- Change audit_limit view to 5000
+
+<br><br>
 ## 5.1.7 (2020-1-10)
 ### Patches 
 
@@ -551,11 +587,5 @@ no changes sync with API release
 - Update routes on announcements
 - Allow slash in auto attendant
 - Migrate some services to v2 routes
-
-<br><br>
-## 3.17.1 (2018-9-20)
-### Patches 
-
-- Fix compilation error
 
 <br><br>
