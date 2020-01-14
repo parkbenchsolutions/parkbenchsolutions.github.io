@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.2.1 (2020-1-14)
+### Patches 
+
+- Do not show resellers panel if the are a reseller provisioner
+- Added reseller service utilization report
+
+<br><br>
 ## 5.2.0 (2020-1-14)
 ### Minor Changes 
 
@@ -577,15 +584,5 @@ sync with api
 <br><br>
 ## 3.17.3 (2018-9-26)
 no changes sync with API release
-
-<br><br>
-## 3.17.2 (2018-9-25)
-### Patches 
-
-- Update to department routing
-- Update routing on callpark, callpickup, departments, schedules
-- Update routes on announcements
-- Allow slash in auto attendant
-- Migrate some services to v2 routes
 
 <br><br>
