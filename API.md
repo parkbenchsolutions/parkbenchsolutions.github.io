@@ -1,4 +1,41 @@
 # API Latest Releases
+## 5.2.0 (2020-1-14)
+### Minor Changes 
+
+- Added service pack audit
+- Service provider service packs and trunk import
+- Added api for import data
+- Import listener trunk
+- Added group department permissions
+- Fixed department create
+- Added service provider password rules
+- Fixed password rules bug
+- Added group series completion
+- Added user level event search
+- Fixed OdinEvent Voice Messaging Greeting
+- Added group call center enhanced reporting api for groups in a SP
+- Added imports table and retry to import
+- Added retry to audit
+- Added attempt and next_at to audit
+- Added User Enable Voice Mail Recording
+- FIxed Group Calloborate default
+- Added group call center enhanced reporting audit
+- Added user privacy
+- Fixed permissions on group password rules
+- Added reseller access to System Service Controller
+- Group music on hold import complete
+- Group call park import added
+- Added group night forwarding to import
+- Added service provider domain to import
+- Added group domain
+- Added group paging
+- Outgoing calling plans fixed
+- Added group voice messaging setting
+- Added after column to imports
+- Added password change api
+- Call center agent and call center events added
+
+<br><br>
 ## 5.1.7 (2020-1-10)
 sync with web
 
@@ -540,32 +577,5 @@ Fixed a bug introduced in 3.17.5 that effected Schedules
 <br><br>
 ## 3.17.1 (2018-9-20)
 no changes, sync version with web
-
-<br><br>
-## 3.17.0 (2018-9-20)
-### Minor Changes 
-
-- Added rollback to bulk user create to remove created devices upon user failure
-- Add user.login.failure and user.login.expired
-- Add user privacy api
-- Add userPrivacy to API
-- Added group feature access code endpoints
-- Added group feature access code database migration
-- Update User Privacy API
-- Added feature access code reset
-- Added restore default codes to all versions of feature access codes
-- Added group speed dial 100 api request
-- Added Client License Mappings for 3,4,17,18,19
-- Return alias on Group Services and Service Pack Services Update Group Call Park API to accept a slash in the Group Name
-- Allow Slashes in Group Call Pickup Group Names
-- Support Slashes in Department Names
-
-### Patches 
-
-- Postman notes
-- Fixed fac update
-- Update Group Schedule API to work with slashes in schedule name
-- Update Group Event API to accept names with slash
-- Accept string FALSE on autoActivate phone number setting
 
 <br><br>
