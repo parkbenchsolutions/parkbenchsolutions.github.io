@@ -1,6 +1,6 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.2.1 (2020-1-14)
+## 5.2.2 (2020-1-15)
 sync with web
 
 <br><br>
