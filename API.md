@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.2.3 (2020-1-15)
+### Patches 
+
+- Added alias to service provider service pack
+
+<br><br>
 ## 5.2.2 (2020-1-15)
 sync with web
 
@@ -569,9 +575,5 @@ sync with web
 <br><br>
 ## 3.17.10 (2018-10-11)
 Fixed a bug introduced in 3.17.5 that effected Schedules 
-
-<br><br>
-## 3.17.6 (2018-10-11)
-- Fix missing class in Enterprise Admins
 
 <br><br>
