@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.2.2 (2020-1-15)
+sync with web
+
+<br><br>
 ## 5.2.1 (2020-1-14)
 sync with web
 
@@ -569,13 +573,5 @@ Fixed a bug introduced in 3.17.5 that effected Schedules
 <br><br>
 ## 3.17.6 (2018-10-11)
 - Fix missing class in Enterprise Admins
-
-<br><br>
-## 3.17.4 (2018-9-26)
-### Patches 
-
-- Allow slash in auto attendant name
-- Add v2 api routes
-- Fix error showing user service packs
 
 <br><br>
