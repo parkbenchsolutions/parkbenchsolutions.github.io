@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.2.2 (2020-1-15)
+### Patches 
+
+- Added branding column for group department
+- Fixes : Group Paging Creation Issue #135
+- Fixes for : Cannot change or assign TNs on Users and Hunt Groups #131
+- Fixes for #131 (Create user icon is not visible)
+
+<br><br>
 ## 5.2.1 (2020-1-14)
 ### Patches 
 
@@ -580,9 +589,5 @@ sync with api
 
 - Added {{ phoneNumberDigits }} which is the user phone number with non-numbers stripped (eg: +1-5133334444 =&gt; 15133334444).  added {{ phoneNumberShort }} which is the user phone number with the country code stripped (eg: +1-5133334444 =&gt; 5133334444).
 - Fix autoattendant status update
-
-<br><br>
-## 3.17.3 (2018-9-26)
-no changes sync with API release
 
 <br><br>
