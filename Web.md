@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.2.3 (2020-1-15)
+sync with api
+
+<br><br>
 ## 5.2.2 (2020-1-15)
 ### Patches 
 
@@ -582,12 +586,5 @@ Fixed a bug introduced in 3.17.5 that broke some schedule updates on UI
 <br><br>
 ## 3.17.6 (2018-10-9)
 sync with api
-
-<br><br>
-## 3.17.4 (2018-9-26)
-### Patches 
-
-- Added {{ phoneNumberDigits }} which is the user phone number with non-numbers stripped (eg: +1-5133334444 =&gt; 15133334444).  added {{ phoneNumberShort }} which is the user phone number with the country code stripped (eg: +1-5133334444 =&gt; 5133334444).
-- Fix autoattendant status update
 
 <br><br>
