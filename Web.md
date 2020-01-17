@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.2.4 (2020-1-17)
+fixed user password modify bug
+
+<br><br>
 ## 5.2.3 (2020-1-15)
 sync with api
 
@@ -582,9 +586,5 @@ No changes, sync version number with API.
 <br><br>
 ## 3.17.10 (2018-10-11)
 Fixed a bug introduced in 3.17.5 that broke some schedule updates on UI
-
-<br><br>
-## 3.17.6 (2018-10-9)
-sync with api
 
 <br><br>
