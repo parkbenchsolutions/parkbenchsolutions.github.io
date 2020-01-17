@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.2.4 (2020-1-17)
+sync with web
+
+<br><br>
 ## 5.2.3 (2020-1-15)
 ### Patches 
 
@@ -571,9 +575,5 @@ QUEUE_SLEEP=3
 <br><br>
 ## 3.17.12 (2018-10-11)
 sync with web
-
-<br><br>
-## 3.17.10 (2018-10-11)
-Fixed a bug introduced in 3.17.5 that effected Schedules 
 
 <br><br>
