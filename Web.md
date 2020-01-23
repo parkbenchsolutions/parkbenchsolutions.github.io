@@ -1,4 +1,15 @@
 # Web Latest Releases
+## 5.3.0 (2020-1-23)
+### Minor Changes 
+
+- Fixes Odin stacked : Group Search for creating an Audit(If enter two or less char in search bar) #146
+
+### Patches 
+
+- Issue fixes call center changePassword #117
+- Fixed spelling Deparment to Department
+
+<br><br>
 ## 5.2.4 (2020-1-17)
 fixed user password modify bug
 
@@ -582,9 +593,5 @@ No changes, sync version number with API.
 <br><br>
 ## 3.17.12 (2018-10-16)
 - move webfonts local
-
-<br><br>
-## 3.17.10 (2018-10-11)
-Fixed a bug introduced in 3.17.5 that broke some schedule updates on UI
 
 <br><br>
