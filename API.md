@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.3.0 (2020-1-23)
+### Minor Changes 
+
+- Added bulk bulk grp and sp clone
+
+<br><br>
 ## 5.2.4 (2020-1-17)
 sync with web
 
@@ -571,9 +577,5 @@ QUEUE_SLEEP=3
 <br><br>
 ## 3.17.13 (2018-10-11)
 - sync with web
-
-<br><br>
-## 3.17.12 (2018-10-11)
-sync with web
 
 <br><br>
