@@ -7,7 +7,14 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.2.4 (2020-1-17)
-fixed user password modify bug
+## 5.3.0 (2020-1-23)
+### Minor Changes 
+
+- Fixes Odin stacked : Group Search for creating an Audit(If enter two or less char in search bar) #146
+
+### Patches 
+
+- Issue fixes call center changePassword #117
+- Fixed spelling Deparment to Department
 
   
