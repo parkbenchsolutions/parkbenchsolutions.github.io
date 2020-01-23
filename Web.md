@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.3.3 (2020-1-23)
+### Patches 
+
+- ServiceName for service packs is now alias
+
+<br><br>
 ## 5.3.2 (2020-1-23)
 ### Patches 
 
@@ -591,11 +597,5 @@ No changes.  Syncing with API release #.
 <br><br>
 ## 3.17.20 (2018-10-19)
 No changes, sync version number with API. 
-
-<br><br>
-## 3.17.16 (2018-10-18)
-- fix in auto attendant service search link
-- fix service provider admin update
-- fix system level network class of service
 
 <br><br>
