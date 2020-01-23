@@ -1,12 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.3.2 (2020-1-23)
-### Minor Changes 
+## 5.3.3 (2020-1-23)
+### Patches 
 
-- Testing alternate user id
-- Added alternate user id token
-- Added bulk clone sp and group
-- Added group device tag task bulk
+- Added r22 login info for alternate user id
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
