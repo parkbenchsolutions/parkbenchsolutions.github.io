@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.3.2 (2020-1-23)
+### Minor Changes 
+
+- Testing alternate user id
+- Added alternate user id token
+- Added bulk clone sp and group
+- Added group device tag task bulk
+
+<br><br>
 ## 5.3.1 (2020-1-23)
 sync with web
 
@@ -570,12 +579,5 @@ QUEUE_SLEEP=3
 <br><br>
 ## 3.17.20 (2018-10-27)
 - Support new authentication mechanism in R22
-
-<br><br>
-## 3.17.16 (2018-10-11)
-- fix in auto attendant service search link
-- fix service provider admin update
-- fix system level network class of service
-
 
 <br><br>
