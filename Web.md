@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.3.2 (2020-1-23)
+### Patches 
+
+- Fixes : Clicking on Sorting icon-Audit Table, redirect admin to Enterprise Dashboard. #147
+
+<br><br>
 ## 5.3.1 (2020-1-23)
 ### Patches 
 
@@ -591,9 +597,5 @@ No changes, sync version number with API.
 - fix in auto attendant service search link
 - fix service provider admin update
 - fix system level network class of service
-
-<br><br>
-## 3.17.13 (2018-10-16)
-- fixed bug in changing passwords on new users
 
 <br><br>
