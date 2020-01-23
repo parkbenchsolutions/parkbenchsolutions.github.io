@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.3.1 (2020-1-23)
+sync with web
+
+<br><br>
 ## 5.3.0 (2020-1-23)
 ### Minor Changes 
 
@@ -573,9 +577,5 @@ QUEUE_SLEEP=3
 - fix service provider admin update
 - fix system level network class of service
 
-
-<br><br>
-## 3.17.13 (2018-10-11)
-- sync with web
 
 <br><br>
