@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.3.1 (2020-1-23)
+### Patches 
+
+- Fixed Department Name
+
+<br><br>
 ## 5.3.0 (2020-1-23)
 ### Minor Changes 
 
@@ -589,9 +595,5 @@ No changes, sync version number with API.
 <br><br>
 ## 3.17.13 (2018-10-16)
 - fixed bug in changing passwords on new users
-
-<br><br>
-## 3.17.12 (2018-10-16)
-- move webfonts local
 
 <br><br>
