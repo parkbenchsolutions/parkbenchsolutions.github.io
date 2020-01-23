@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.3.3 (2020-1-23)
+### Patches 
+
+- Added r22 login info for alternate user id
+
+<br><br>
 ## 5.3.2 (2020-1-23)
 ### Minor Changes 
 
@@ -575,9 +581,5 @@ QUEUE_SLEEP=3
 <br><br>
 ## 3.17.24 (2018-11-2)
 - don't re-activate phone number on user update if not changed
-
-<br><br>
-## 3.17.20 (2018-10-27)
-- Support new authentication mechanism in R22
 
 <br><br>
