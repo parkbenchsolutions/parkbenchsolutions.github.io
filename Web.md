@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.3.4 (2020-1-24)
+sync with api
+
+<br><br>
 ## 5.3.3 (2020-1-23)
 ### Patches 
 
@@ -593,9 +597,5 @@ No changes.  Syncing with API release #.
 <br><br>
 ## 3.17.24 (2018-11-9)
 - fix auto attendant submenu personal announcement selection error
-
-<br><br>
-## 3.17.20 (2018-10-19)
-No changes, sync version number with API. 
 
 <br><br>
