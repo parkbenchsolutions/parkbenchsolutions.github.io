@@ -1,4 +1,15 @@
 # API Latest Releases
+## 5.3.5 (2020-1-28)
+### Patches 
+
+- Trunk Group Trunk Group Task Bulk
+- Added system level default domain for logins
+- Added announcementUrl
+- Fixed series completion
+- Fixed count error in tasks
+- Added fix for call center agent skill
+
+<br><br>
 ## 5.3.4 (2020-1-24)
 ### Patches 
 
@@ -583,10 +594,5 @@ QUEUE_RETRIES=3
 QUEUE_TIMEOUT=300
 QUEUE_SLEEP=3
 ```
-
-<br><br>
-## 3.17.25 (2018-11-2)
-- no changes, sync with odinweb
-
 
 <br><br>
