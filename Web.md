@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.3.5 (2020-1-28)
+sync with api
+
+<br><br>
 ## 5.3.4 (2020-1-24)
 sync with api
 
@@ -593,9 +597,5 @@ No changes.  Syncing with API release #.
 <br><br>
 ## 3.17.25 (2018-11-9)
 - fix error on AA submenu key announcement selection
-
-<br><br>
-## 3.17.24 (2018-11-9)
-- fix auto attendant submenu personal announcement selection error
 
 <br><br>
