@@ -1,14 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.3.5 (2020-1-28)
+## 5.3.6 (2020-1-29)
 ### Patches 
 
-- Trunk Group Trunk Group Task Bulk
-- Added system level default domain for logins
-- Added announcementUrl
-- Fixed series completion
-- Fixed count error in tasks
-- Added fix for call center agent skill
+- Added group detail dn search report
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
