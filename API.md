@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.3.6 (2020-1-29)
+### Patches 
+
+- Added group detail dn search report
+
+<br><br>
 ## 5.3.5 (2020-1-28)
 ### Patches 
 
@@ -583,16 +589,5 @@ Query optimization for User Call Record searches
 <br><br>
 ## 3.17.28 (2018-12-5)
 no changes, sync with web
-
-<br><br>
-## 3.17.26 (2018-11-27)
-add configurable timeouts and more sane defaults for queue workers
-
-```
-QUEUE_WORKERS=6
-QUEUE_RETRIES=3
-QUEUE_TIMEOUT=300
-QUEUE_SLEEP=3
-```
 
 <br><br>
