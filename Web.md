@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.4.9 (2020-1-31)
+Removed debug statements and return export id
+
+<br><br>
 ## 5.4.8 (2020-1-31)
 sync with api
 
@@ -599,9 +603,5 @@ No changes, sync version with API
 <br><br>
 ## 3.17.40 (2019-5-9)
 Disable auto-fill on device passwords
-
-<br><br>
-## 3.17.39 (2019-5-8)
-Fix bug on device updates where other components didn't reflect the changes
 
 <br><br>
