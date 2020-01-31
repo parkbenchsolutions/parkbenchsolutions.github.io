@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.4.7 (2020-1-31)
+### Patches 
+
+- Export listener cluster db
+
+<br><br>
 ## 5.4.6 (2020-1-31)
 ### Patches 
 
@@ -599,9 +605,5 @@ No changes, sync version with Web
 <br><br>
 ## 3.17.39 (2019-4-23)
 No changes, sync version with Web
-
-<br><br>
-## 3.17.38 (2019-4-23)
-Fix parsing error on BW Events
 
 <br><br>
