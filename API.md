@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.4.9 (2020-1-31)
+### Patches 
+
+- Removed debug statments and return export id
+
+<br><br>
 ## 5.4.8 (2020-1-31)
 ### Patches 
 
@@ -603,9 +609,5 @@ Fix fax messaging alias error with one alias
 <br><br>
 ## 3.17.41 (2019-5-14)
 update System Licensing to handle empty hostId fields
-
-<br><br>
-## 3.17.40 (2019-4-23)
-No changes, sync version with Web
 
 <br><br>
