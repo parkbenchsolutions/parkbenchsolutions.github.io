@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.4.7 (2020-1-31)
+sync with api
+
+<br><br>
 ## 5.4.6 (2020-1-31)
 sync with api
 
@@ -599,9 +603,5 @@ Fix bug on device updates where other components didn't reflect the changes
 <br><br>
 ## 3.17.38 (2019-4-23)
 No changes, sync version with API
-
-<br><br>
-## 3.17.37 (2019-4-23)
-Don't log out users on lost connections
 
 <br><br>
