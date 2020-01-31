@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.4.0 (2020-1-31)
+### Minor Changes 
+
+- Issue fixes #148 feature
+- Bulk CSV upload for, Clone Service Provider, Clone Group, Clone Device Tags.
+- Added exports
+- Removed client side import call
+
+<br><br>
 ## 5.3.6 (2020-1-29)
 sync with api
 
@@ -593,9 +602,5 @@ No changes.  Syncing with API release #.
 ## 3.17.28 (2018-12-20)
 - Call Center Agent Report link should not show on Group Admin dashboard unless Premium Call Records is enabled.
 
-
-<br><br>
-## 3.17.26 (2018-11-9)
-- no changes, sync with API
 
 <br><br>
