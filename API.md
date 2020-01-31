@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.4.3 (2020-1-31)
+patched export cluster db
+
+<br><br>
 ## 5.4.2 (2020-1-31)
 ### Patches 
 
@@ -593,10 +597,5 @@ No changes, sync version with Web
 <br><br>
 ## 3.17.35 (2019-4-5)
 Add serviceProviderId and groupId to webhooks dn payload
-
-<br><br>
-## 3.17.34 (2019-3-22)
-- Attach branding Provisioning to Group Delete UI
-- Add group.dn.create, group.dn.delete, group.dn.update, serviceProvider.dn.create, serviceProvider.dn.update event logging / webhooks
 
 <br><br>
