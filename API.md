@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.4.4 (2020-1-31)
+### Patches 
+
+- Database export cluster debugging
+
+<br><br>
 ## 5.4.3 (2020-1-31)
 patched export cluster db
 
@@ -593,9 +599,5 @@ No changes, sync version with Web
 <br><br>
 ## 3.17.36 (2019-4-5)
 No changes, sync version with Web
-
-<br><br>
-## 3.17.35 (2019-4-5)
-Add serviceProviderId and groupId to webhooks dn payload
 
 <br><br>
