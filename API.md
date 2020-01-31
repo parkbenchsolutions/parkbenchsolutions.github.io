@@ -1,4 +1,15 @@
 # API Latest Releases
+## 5.4.0 (2020-1-31)
+### Minor Changes 
+
+- Added export task
+- Added create exports table migration
+
+### Patches 
+
+- Fixed completed status for export and query
+
+<br><br>
 ## 5.3.6 (2020-1-29)
 ### Patches 
 
@@ -585,9 +596,5 @@ Query optimization for User Call Record searches
 <br><br>
 ## 3.17.30 (2019-2-4)
 - User Simultaneous Ring Bug Fix
-
-<br><br>
-## 3.17.28 (2018-12-5)
-no changes, sync with web
 
 <br><br>
