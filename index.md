@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.4.8 (2020-1-31)
+## 5.4.9 (2020-1-31)
 ### Patches 
 
-- Added export database cluster support
+- Removed debug statments and return export id
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
