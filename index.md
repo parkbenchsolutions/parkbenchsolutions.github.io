@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.4.5 (2020-1-31)
+## 5.4.6 (2020-1-31)
 ### Patches 
 
-- Export database cluster fix
+- Patch for cluster event database
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
