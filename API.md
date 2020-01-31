@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.4.1 (2020-1-31)
+sync with web
+
+<br><br>
 ## 5.4.0 (2020-1-31)
 ### Minor Changes 
 
@@ -592,9 +596,5 @@ Add serviceProviderId and groupId to webhooks dn payload
 <br><br>
 ## 3.17.32 (2019-2-15)
 Query optimization for User Call Record searches
-
-<br><br>
-## 3.17.30 (2019-2-4)
-- User Simultaneous Ring Bug Fix
 
 <br><br>
