@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.4.6 (2020-1-31)
+### Patches 
+
+- Patch for cluster event database
+
+<br><br>
 ## 5.4.5 (2020-1-31)
 ### Patches 
 
@@ -597,9 +603,5 @@ No changes, sync version with Web
 <br><br>
 ## 3.17.38 (2019-4-23)
 Fix parsing error on BW Events
-
-<br><br>
-## 3.17.37 (2019-4-5)
-No changes, sync version with Web
 
 <br><br>
