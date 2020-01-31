@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.4.8 (2020-1-31)
+### Patches 
+
+- Added export database cluster support
+
+<br><br>
 ## 5.4.7 (2020-1-31)
 ### Patches 
 
@@ -600,10 +606,6 @@ update System Licensing to handle empty hostId fields
 
 <br><br>
 ## 3.17.40 (2019-4-23)
-No changes, sync version with Web
-
-<br><br>
-## 3.17.39 (2019-4-23)
 No changes, sync version with Web
 
 <br><br>
