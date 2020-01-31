@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.4.4 (2020-1-31)
+sync with api
+
+<br><br>
 ## 5.4.3 (2020-1-31)
 sync with api
 
@@ -599,9 +603,5 @@ No changes, sync version with API
 <br><br>
 ## 3.17.35 (2019-3-14)
 Add Branding Permissions to Delete/Create Groups
-
-<br><br>
-## 3.17.34 (2019-3-14)
-- Attach branding Provisioning to Group Delete UI
 
 <br><br>
