@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.4.10 (2020-2-4)
+### Patches 
+
+- SeriesCompletion fix
+- Series completion audit/import fix
+- Fixed group services update is Valid
+- Added group call processing module
+- Fixed trunk group call capacity task json
+
+<br><br>
 ## 5.4.9 (2020-1-31)
 ### Patches 
 
@@ -605,9 +615,5 @@ Internal release build changes
 <br><br>
 ## 3.17.42 (2019-5-23)
 Fix fax messaging alias error with one alias
-
-<br><br>
-## 3.17.41 (2019-5-14)
-update System Licensing to handle empty hostId fields
 
 <br><br>
