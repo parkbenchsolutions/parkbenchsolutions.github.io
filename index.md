@@ -5,11 +5,19 @@ sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.4.10 (2020-2-4)
+## 5.4.11 (2020-2-6)
 ### Patches 
 
-- Fixes for : (SIPT) Group Trunk Group Task Bulk #160  Using CSV Upload
-- Fixes for Issue : #152. False value is not showing in the table after upload CSV file: fixed by removing boolean to string value code and applied the same code on submit import.
-- Added group call processing policy  as a module permission
+- Code for User Service Settings List Enhancement( #128 )
+- User Service Settings list gap issue(#128)
+- User Services Setting List gap user call recording: #128
+- User Service Settings (related to user services gap #86) #128
+- User Service Settings List Group Night Forwarding #128
+- Added react-query
+- Group-extension-length removed unused libs
+- SetQueryData implemented
+- Moved user-intercept to react-query
+- User service setting Directed Call Pickup with Barge-in #128
+- Put bulk task template in order
 
   
