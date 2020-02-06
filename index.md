@@ -1,13 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.4.10 (2020-2-4)
-### Patches 
-
-- SeriesCompletion fix
-- Series completion audit/import fix
-- Fixed group services update is Valid
-- Added group call processing module
-- Fixed trunk group call capacity task json
+## 5.4.11 (2020-2-6)
+sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
