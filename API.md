@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.4.11 (2020-2-6)
+sync with web
+
+<br><br>
 ## 5.4.10 (2020-2-4)
 ### Patches 
 
@@ -611,9 +615,5 @@ Internal release build changes
 <br><br>
 ## 3.17.43 (2019-5-23)
 Internal release build changes
-
-<br><br>
-## 3.17.42 (2019-5-23)
-Fix fax messaging alias error with one alias
 
 <br><br>
