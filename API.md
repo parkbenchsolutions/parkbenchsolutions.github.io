@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.4.12 (2020-2-10)
+### Patches 
+
+- Aa audio file fix import
+- Fixed call center premium import
+
+<br><br>
 ## 5.4.11 (2020-2-6)
 sync with web
 
@@ -610,10 +617,6 @@ Internal release build changes
 
 <br><br>
 ## 3.17.44 (2019-5-23)
-Internal release build changes
-
-<br><br>
-## 3.17.43 (2019-5-23)
 Internal release build changes
 
 <br><br>
