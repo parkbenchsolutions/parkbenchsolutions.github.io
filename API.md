@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.4.13 (2020-2-10)
+### Patches 
+
+- Fixed device type get
+- Added comm pilot login for audio files if needed
+
+<br><br>
 ## 5.4.12 (2020-2-10)
 ### Patches 
 
@@ -613,10 +620,6 @@ No Changes
 
 <br><br>
 ## 3.17.45 (2019-5-23)
-Internal release build changes
-
-<br><br>
-## 3.17.44 (2019-5-23)
 Internal release build changes
 
 <br><br>
