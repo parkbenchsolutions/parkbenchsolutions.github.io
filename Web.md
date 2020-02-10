@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.4.12 (2020-2-10)
+### Patches 
+
+- Fixes for : Issue : bulk user create extension range #175
+
+<br><br>
 ## 5.4.11 (2020-2-6)
 ### Patches 
 
@@ -614,10 +620,6 @@ No changes, sync version with API
 
 <br><br>
 ## 3.17.43 (2019-5-9)
-No changes, sync version with API
-
-<br><br>
-## 3.17.42 (2019-5-9)
 No changes, sync version with API
 
 <br><br>
