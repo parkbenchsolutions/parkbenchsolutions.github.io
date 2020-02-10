@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.4.13 (2020-2-10)
+Initial release
+
+<br><br>
 ## 5.4.12 (2020-2-10)
 ### Patches 
 
@@ -616,10 +620,6 @@ No changes, sync version with API
 
 <br><br>
 ## 3.17.44 (2019-5-9)
-No changes, sync version with API
-
-<br><br>
-## 3.17.43 (2019-5-9)
 No changes, sync version with API
 
 <br><br>
