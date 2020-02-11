@@ -1,10 +1,12 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.4.13 (2020-2-10)
+## 5.4.14 (2020-2-11)
 ### Patches 
 
-- Fixed device type get
-- Added comm pilot login for audio files if needed
+- SipAliasList fix for  groupVoiceMessagingPortal import
+- Fixed user voice messaging password
+- Added group emergency zones to audit and import
+- Added group emergency zones to audit and import
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
