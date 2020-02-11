@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.4.15 (2020-2-11)
+### Patches 
+
+- Fixed export reseller option dashboard
+
+<br><br>
 ## 5.4.14 (2020-2-11)
 sync with api
 
@@ -617,9 +623,5 @@ Fix user password change bug with IM&P
   - Project Rooms
   - Download large CSV files of Call Report Raw Data
   - Group Admin Policy support
-
-<br><br>
-## 3.17.45 (2019-5-9)
-No changes, sync version with API
 
 <br><br>
