@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.4.14 (2020-2-11)
+### Patches 
+
+- SipAliasList fix for  groupVoiceMessagingPortal import
+- Fixed user voice messaging password
+- Added group emergency zones to audit and import
+- Added group emergency zones to audit and import
+
+<br><br>
 ## 5.4.13 (2020-2-10)
 ### Patches 
 
@@ -617,9 +626,5 @@ No Changes
   - Project Rooms
   - Download large CSV files of Call Report Raw Data
   - Group Admin Policy support
-
-<br><br>
-## 3.17.45 (2019-5-23)
-Internal release build changes
 
 <br><br>
