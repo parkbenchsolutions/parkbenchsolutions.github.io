@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.5.0 (2020-2-14)
+### Minor Changes 
+
+- Added domain cloning for group
+- Added service-provider domain clone
+
+<br><br>
 ## 5.4.15 (2020-2-11)
 ### Patches 
 
@@ -609,19 +616,5 @@ Merge System and Provisioning Dashboard
 <br><br>
 ## 4.0.1 (2019-4-29)
 Fix user password change bug with IM&P
-
-<br><br>
-## 4.0.0 (2019-4-25)
-  https://www.parkbenchsolutions.com/announcement-odin4
-  - Online docs now available for Odin Web at https://webdocs.parkbenchsolutions.com
-  - Multi-tenant support
-  - User dashboard upgrades
-  - Automatic Audio Conversion
-  - User Services Reports Upgrade
-  - Call Center Queue Live Reports
-  - New User Call Reports
-  - Project Rooms
-  - Download large CSV files of Call Report Raw Data
-  - Group Admin Policy support
 
 <br><br>
