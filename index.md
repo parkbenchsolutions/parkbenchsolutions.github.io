@@ -1,12 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.5.0 (2020-2-14)
-### Minor Changes 
+## 5.5.1 (2020-2-14)
+### Patches 
 
-- Series completion audit fix multiple instances
-- Changed retries from 12 to 9 for audit import export
-- Added domain support
-- Added service provider domain clone
+- Fixed access level for system domains
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
