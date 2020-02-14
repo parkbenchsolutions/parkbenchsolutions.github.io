@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.5.0 (2020-2-14)
+### Minor Changes 
+
+- Series completion audit fix multiple instances
+- Changed retries from 12 to 9 for audit import export
+- Added domain support
+- Added service provider domain clone
+
+<br><br>
 ## 5.4.15 (2020-2-11)
 sync with web
 
@@ -611,9 +620,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.0.2 (2019-4-29)
 No Changes
-
-<br><br>
-## 4.0.1 (2019-4-29)
-  - Fix user password change with IM&P
 
 <br><br>
