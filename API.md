@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.5.1 (2020-2-14)
+### Patches 
+
+- Fixed access level for system domains
+
+<br><br>
 ## 5.5.0 (2020-2-14)
 ### Minor Changes 
 
@@ -616,9 +622,5 @@ No changes, sync with web release version
   - Add ability for group admins to search recent tasks in group
   - Add Token refresh endpoint
   - Fix new password logi
-
-<br><br>
-## 4.0.2 (2019-4-29)
-No Changes
 
 <br><br>
