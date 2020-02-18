@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.5.2 (2020-2-18)
+### Patches 
+
+- Stream export data
+
+<br><br>
 ## 5.5.1 (2020-2-14)
 ### Patches 
 
@@ -616,11 +622,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.1.1 (2019-4-29)
 - No changes
-
-<br><br>
-## 4.1.0 (2019-4-29)
-  - Add ability for group admins to search recent tasks in group
-  - Add Token refresh endpoint
-  - Fix new password logi
 
 <br><br>
