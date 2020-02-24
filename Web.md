@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.5.5 (2020-2-24)
+### Patches 
+
+- Uppercase rules
+
+<br><br>
 ## 5.5.4 (2020-2-24)
 ### Patches 
 
@@ -621,9 +627,5 @@ Handle invalid logins with a more user friendly error message
 <br><br>
 ## 4.1.3 (2019-5-7)
 Fix device update page to disable browser password auto-fill which caused the modal to be unable to save
-
-<br><br>
-## 4.1.2 (2019-5-3)
-Update user dashboard to load faster
 
 <br><br>
