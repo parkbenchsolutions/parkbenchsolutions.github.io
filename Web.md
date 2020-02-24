@@ -1,4 +1,17 @@
 # Web Latest Releases
+## 5.5.4 (2020-2-24)
+### Patches 
+
+- Merge pull request #33 from parkbenchsolutions/master
+- Merge pull request #34 from parkbenchsolutions/master
+- Renamed panel header from Odin -&gt; Utilities
+- Merge pull request #35 from parkbenchsolutions/master
+- Fixes done #187
+- Merge pull request #190 from anshuporwal01/Anshu-Bug-Fixes-Feb
+- Modified password generator for special chars
+- Merge Merge branch &#39;master&#39; of github.com:parkbenchsolutions/odinweb
+
+<br><br>
 ## 5.5.3 (2020-2-18)
 sync with api
 
@@ -612,9 +625,5 @@ Fix device update page to disable browser password auto-fill which caused the mo
 <br><br>
 ## 4.1.2 (2019-5-3)
 Update user dashboard to load faster
-
-<br><br>
-## 4.1.1 (2019-4-29)
-Fix bug in custom CSS feature
 
 <br><br>
