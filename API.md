@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.5.4 (2020-2-24)
+sync with web
+
+<br><br>
 ## 5.5.3 (2020-2-18)
 sync with web
 
@@ -618,9 +622,5 @@ No changes, sync with web release version
 ## 4.1.3 (2019-5-7)
   - Fix single alias on Fax Messaging
   - Fix system domain list on R22
-
-<br><br>
-## 4.1.2 (2019-5-3)
-  - Fix Service Provider Admin login with default domain
 
 <br><br>
