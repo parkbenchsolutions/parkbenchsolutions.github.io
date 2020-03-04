@@ -1,4 +1,18 @@
 # Web Latest Releases
+## 5.6.0 (2020-3-4)
+### Minor Changes 
+
+- Group series completion changes
+- Code sort changes #114
+- React-query
+
+### Patches 
+
+- Fixes change button name edit to save #114
+- Added &lt;br&gt; between series completion
+- Removed never used vars
+
+<br><br>
 ## 5.5.5 (2020-2-24)
 ### Patches 
 
@@ -623,9 +637,5 @@ Fix bug on Hunt Group view which caused an invalid error
 <br><br>
 ## 4.1.4 (2019-5-7)
 Handle invalid logins with a more user friendly error message
-
-<br><br>
-## 4.1.3 (2019-5-7)
-Fix device update page to disable browser password auto-fill which caused the modal to be unable to save
 
 <br><br>
