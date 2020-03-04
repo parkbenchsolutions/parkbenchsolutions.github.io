@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.6.0 (2020-3-4)
+### Patches 
+
+- Socket stream byte increase
+
+<br><br>
 ## 5.5.5 (2020-2-24)
 sync with web
 
@@ -617,9 +623,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.1.5 (2019-5-7)
 - No changes, sync release version
-
-<br><br>
-## 4.1.4 (2019-5-7)
-  - Add Bulk Group Registration
 
 <br><br>
