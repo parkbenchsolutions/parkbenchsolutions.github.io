@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.6.1 (2020-3-6)
+### Patches 
+
+- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
+- Changed verbage for Transfer to Operator Timeout Seconds auto attendant
+- Added all dns from group for dept clid
+- Fixes Number activation #195
+
+<br><br>
 ## 5.6.0 (2020-3-4)
 ### Minor Changes 
 
@@ -633,9 +642,5 @@ Small changes on error UI
 <br><br>
 ## 4.1.5 (2019-5-9)
 Fix bug on Hunt Group view which caused an invalid error
-
-<br><br>
-## 4.1.4 (2019-5-7)
-Handle invalid logins with a more user friendly error message
 
 <br><br>
