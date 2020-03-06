@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.6.1 (2020-3-6)
+### Patches 
+
+- Fixed bug with firstname add profile to last name
+- Fixed collaborate bridge profile modify
+- Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
+
+<br><br>
 ## 5.6.0 (2020-3-4)
 ### Patches 
 
@@ -618,10 +626,6 @@ No changes, sync with web release version
 
 <br><br>
 ## 4.1.6 (2019-5-7)
-- No changes, sync release version
-
-<br><br>
-## 4.1.5 (2019-5-7)
 - No changes, sync release version
 
 <br><br>
