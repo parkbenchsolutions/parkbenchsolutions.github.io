@@ -1,9 +1,11 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.6.0 (2020-3-4)
+## 5.6.1 (2020-3-6)
 ### Patches 
 
-- Socket stream byte increase
+- Fixed bug with firstname add profile to last name
+- Fixed collaborate bridge profile modify
+- Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
