@@ -17,12 +17,20 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.6.1 (2020-3-6)
+## 5.7.0 (2020-3-23)
+### Minor Changes 
+
+- Fixes change button name edit to save #114
+- Code sort changes #114
+- React-query
+- Added exports details
+- Export labels
+- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
+- Added all dns from group for dept clid
+
 ### Patches 
 
-- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
-- Changed verbage for Transfer to Operator Timeout Seconds auto attendant
-- Added all dns from group for dept clid
-- Fixes Number activation #195
+- Added &lt;br&gt; between series completion
+- Removed never used vars
 
   
