@@ -1,4 +1,21 @@
 # Web Latest Releases
+## 5.7.0 (2020-3-23)
+### Minor Changes 
+
+- Fixes change button name edit to save #114
+- Code sort changes #114
+- React-query
+- Added exports details
+- Export labels
+- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
+- Added all dns from group for dept clid
+
+### Patches 
+
+- Added &lt;br&gt; between series completion
+- Removed never used vars
+
+<br><br>
 ## 5.6.1 (2020-3-6)
 ### Patches 
 
@@ -638,9 +655,5 @@ Fix bulk provisioning now showing loading indicator in certain situations
 <br><br>
 ## 4.1.6 (2019-5-9)
 Small changes on error UI
-
-<br><br>
-## 4.1.5 (2019-5-9)
-Fix bug on Hunt Group view which caused an invalid error
 
 <br><br>
