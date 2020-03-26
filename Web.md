@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.7.1 (2020-3-26)
+### Patches 
+
+- Cancel button fixes
+- Series completion changes
+
+<br><br>
 ## 5.7.0 (2020-3-23)
 ### Minor Changes 
 
@@ -651,9 +658,5 @@ Fix typo in Breadcrumb
 <br><br>
 ## 4.1.7 (2019-5-9)
 Fix bulk provisioning now showing loading indicator in certain situations
-
-<br><br>
-## 4.1.6 (2019-5-9)
-Small changes on error UI
 
 <br><br>
