@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.7.1 (2020-3-26)
+### Patches 
+
+- Removed debug statement
+- Added voice password to event
+
+<br><br>
 ## 5.7.0 (2020-3-23)
 ### Minor Changes 
 
@@ -634,10 +641,6 @@ No changes, sync with web release version
 
 <br><br>
 ## 4.1.8 (2019-5-7)
-- No changes, sync release version
-
-<br><br>
-## 4.1.7 (2019-5-7)
 - No changes, sync release version
 
 <br><br>
