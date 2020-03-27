@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.2 (2020-3-27)
+sync with api
+
+<br><br>
 ## 5.7.1 (2020-3-26)
 ### Patches 
 
@@ -654,9 +658,5 @@ Fix bug in rebuild and reset device
 <br><br>
 ## 4.1.8 (2019-5-9)
 Fix typo in Breadcrumb
-
-<br><br>
-## 4.1.7 (2019-5-9)
-Fix bulk provisioning now showing loading indicator in certain situations
 
 <br><br>
