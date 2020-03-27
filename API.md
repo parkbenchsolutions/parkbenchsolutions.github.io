@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.2 (2020-3-27)
+### Patches 
+
+- Added new trunk and group limit to bulk
+
+<br><br>
 ## 5.7.1 (2020-3-26)
 ### Patches 
 
@@ -638,9 +644,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.1.9 (2019-5-14)
   - Fix for user meet me obtaining group meet me information
-
-<br><br>
-## 4.1.8 (2019-5-7)
-- No changes, sync release version
 
 <br><br>
