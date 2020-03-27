@@ -7,10 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.7.1 (2020-3-26)
-### Patches 
-
-- Cancel button fixes
-- Series completion changes
+## 5.7.2 (2020-3-27)
+sync with api
 
   
