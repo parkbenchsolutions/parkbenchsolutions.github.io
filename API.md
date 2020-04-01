@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.7.3 (2020-4-1)
+### Minor Changes 
+
+- Voice Messaging and Tls
+
+### Patches 
+
+- Fixed inboundSeconds outboundSeconds user call report
+- Tls changes
+- Added new trunk and group limit to bulk
+
+<br><br>
 ## 5.7.2 (2020-3-27)
 ### Patches 
 
@@ -640,9 +652,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.1.10 (2019-5-15)
   - Fix user search by MAC address
-
-<br><br>
-## 4.1.9 (2019-5-14)
-  - Fix for user meet me obtaining group meet me information
 
 <br><br>
