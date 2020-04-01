@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.3 (2020-4-1)
+sync with api
+
+<br><br>
 ## 5.7.2 (2020-3-27)
 sync with api
 
@@ -654,9 +658,5 @@ Release process update
 <br><br>
 ## 4.1.9 (2019-5-14)
 Fix bug in rebuild and reset device
-
-<br><br>
-## 4.1.8 (2019-5-9)
-Fix typo in Breadcrumb
 
 <br><br>
