@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.7 (2020-4-3)
+### Patches 
+
+- Added rollback of a minute
+
+<br><br>
 ## 5.7.6 (2020-4-3)
 sync with api
 
@@ -651,9 +657,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.4.1 (2019-6-3)
   - Fix group admin permissions, where admins were receiving permission denied when they should have access
-
-<br><br>
-## 4.4.0 (2019-5-28)
-  - Add user line ports to Registration
 
 <br><br>
