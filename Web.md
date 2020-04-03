@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.7 (2020-4-3)
+sync with api
+
+<br><br>
 ## 5.7.6 (2020-4-3)
 5.7.6
 
@@ -649,12 +653,5 @@ sync with api
   - Add User Line Port Registrations to Group Report
   - Add Speed Dial 8 Bulk
   - Update alert animation
-
-<br><br>
-## 4.3.0 (2019-5-23)
-  - Add Summary Report to Service Utilization
-  - Fix Summary File Download
-  - Add User Registration
-  - Few UI enhancements for checkboxes
 
 <br><br>
