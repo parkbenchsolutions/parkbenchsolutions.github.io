@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.7.6 (2020-4-3)
+sync with api
+
+<br><br>
 ## 5.7.5 (2020-4-3)
 ### Patches 
 
@@ -651,10 +655,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.4.0 (2019-5-28)
   - Add user line ports to Registration
-
-<br><br>
-## 4.3.0 (2019-5-23)
-  - Add system level user service Reports
-  - Speed Dial 8 Bul
 
 <br><br>
