@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.5 (2020-4-3)
+sync with api
+
+<br><br>
 ## 5.7.4 (2020-4-3)
 sync with web
 
@@ -654,9 +658,5 @@ sync with api
   - Add Alternate User ID
   - Add User Speed Dial 8
   - Add System Service Pack Utilization Repor
-
-<br><br>
-## 4.1.10 (2019-5-15)
-Release process update
 
 <br><br>
