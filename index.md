@@ -1,15 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.7.3 (2020-4-1)
-### Minor Changes 
-
-- Voice Messaging and Tls
-
+## 5.7.4 (2020-4-3)
 ### Patches 
 
-- Fixed inboundSeconds outboundSeconds user call report
-- Tls changes
-- Added new trunk and group limit to bulk
+- Lowered number of retries to 5
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
