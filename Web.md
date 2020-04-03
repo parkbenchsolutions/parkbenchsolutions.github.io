@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.6 (2020-4-3)
+5.7.6
+
+<br><br>
 ## 5.7.5 (2020-4-3)
 sync with api
 
@@ -652,11 +656,5 @@ sync with api
   - Fix Summary File Download
   - Add User Registration
   - Few UI enhancements for checkboxes
-
-<br><br>
-## 4.2.0 (2019-5-17)
-  - Add Alternate User ID
-  - Add User Speed Dial 8
-  - Add System Service Pack Utilization Repor
 
 <br><br>
