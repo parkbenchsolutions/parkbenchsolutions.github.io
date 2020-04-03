@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.4 (2020-4-3)
+sync with web
+
+<br><br>
 ## 5.7.3 (2020-4-1)
 sync with api
 
@@ -654,9 +658,5 @@ sync with api
 <br><br>
 ## 4.1.10 (2019-5-15)
 Release process update
-
-<br><br>
-## 4.1.9 (2019-5-14)
-Fix bug in rebuild and reset device
 
 <br><br>
