@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.7.4 (2020-4-3)
+## 5.7.5 (2020-4-3)
 ### Patches 
 
-- Lowered number of retries to 5
+- Fixed reattempts on AIM
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
