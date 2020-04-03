@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.8 (2020-4-3)
+### Patches 
+
+- Changed delay for imports to 90 seconds
+
+<br><br>
 ## 5.7.7 (2020-4-3)
 ### Patches 
 
@@ -653,9 +659,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.4.2 (2019-6-4)
   - No changes
-
-<br><br>
-## 4.4.1 (2019-6-3)
-  - Fix group admin permissions, where admins were receiving permission denied when they should have access
 
 <br><br>
