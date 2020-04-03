@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.9 (2020-4-3)
+sync with api
+
+<br><br>
 ## 5.7.8 (2020-4-3)
 5.7.8
 
@@ -647,9 +651,5 @@ sync with api
 <br><br>
 ## 4.4.2 (2019-6-4)
 - Internal build updates
-
-<br><br>
-## 4.4.1 (2019-5-31)
-- Update dependencies
 
 <br><br>
