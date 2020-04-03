@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.5 (2020-4-3)
+### Patches 
+
+- Fixed reattempts on AIM
+
+<br><br>
 ## 5.7.4 (2020-4-3)
 ### Patches 
 
@@ -650,9 +656,5 @@ No changes, sync with web release version
 ## 4.3.0 (2019-5-23)
   - Add system level user service Reports
   - Speed Dial 8 Bul
-
-<br><br>
-## 4.2.0 (2019-5-16)
-  - Add system service pack Utilization
 
 <br><br>
