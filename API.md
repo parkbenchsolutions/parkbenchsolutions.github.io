@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.9 (2020-4-3)
+### Patches 
+
+- Unset alias
+
+<br><br>
 ## 5.7.8 (2020-4-3)
 ### Patches 
 
@@ -655,9 +661,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.4.3 (2019-6-6)
   - Update Group Speed Dial 8 payload
-
-<br><br>
-## 4.4.2 (2019-6-4)
-  - No changes
 
 <br><br>
