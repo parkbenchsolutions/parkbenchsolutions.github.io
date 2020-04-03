@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.8 (2020-4-3)
+5.7.8
+
+<br><br>
 ## 5.7.7 (2020-4-3)
 sync with api
 
@@ -647,11 +651,5 @@ sync with api
 <br><br>
 ## 4.4.1 (2019-5-31)
 - Update dependencies
-
-<br><br>
-## 4.4.0 (2019-5-30)
-  - Add User Line Port Registrations to Group Report
-  - Add Speed Dial 8 Bulk
-  - Update alert animation
 
 <br><br>
