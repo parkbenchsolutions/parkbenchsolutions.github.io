@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.4 (2020-4-3)
+### Patches 
+
+- Lowered number of retries to 5
+
+<br><br>
 ## 5.7.3 (2020-4-1)
 ### Minor Changes 
 
@@ -648,9 +654,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.2.0 (2019-5-16)
   - Add system service pack Utilization
-
-<br><br>
-## 4.1.10 (2019-5-15)
-  - Fix user search by MAC address
 
 <br><br>
