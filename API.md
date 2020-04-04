@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.11 (2020-4-4)
+### Patches 
+
+- Moved hunt group to import priority 4
+
+<br><br>
 ## 5.7.10 (2020-4-4)
 ### Patches 
 
@@ -659,9 +665,5 @@ No changes, sync with web release version
   - Add Group Communication Barring endpoints
   - Enhanced rollback on user create when devices are updated
     - Resets device to original state on rollback
-
-<br><br>
-## 4.5.0 (2019-6-10)
-  - Add Service Provider Device Files endpoint
 
 <br><br>
