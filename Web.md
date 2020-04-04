@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.10 (2020-4-4)
+sync with api
+
+<br><br>
 ## 5.7.9 (2020-4-3)
 sync with api
 
@@ -647,9 +651,5 @@ sync with api
 <br><br>
 ## 4.4.3 (2019-6-6)
 - Fix group speed dial 8 when no users are assigned
-
-<br><br>
-## 4.4.2 (2019-6-4)
-- Internal build updates
 
 <br><br>
