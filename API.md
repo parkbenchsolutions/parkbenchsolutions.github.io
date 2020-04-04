@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.10 (2020-4-4)
+### Patches 
+
+- Moved hunt group to a higher priority
+
+<br><br>
 ## 5.7.9 (2020-4-3)
 ### Patches 
 
@@ -657,9 +663,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.5.0 (2019-6-10)
   - Add Service Provider Device Files endpoint
-
-<br><br>
-## 4.4.3 (2019-6-6)
-  - Update Group Speed Dial 8 payload
 
 <br><br>
