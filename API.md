@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.7.12 (2020-4-7)
+### Patches 
+
+- Added bulk integrated IMP
+- Removed integrated imp requirement for isActive
+- Removed debug integrated IMP
+
+<br><br>
 ## 5.7.11 (2020-4-4)
 ### Patches 
 
@@ -659,11 +667,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.6.1 (2019-6-24)
 - Sync with Odin Web Release Version
-
-<br><br>
-## 4.6.0 (2019-6-19)
-  - Add Group Communication Barring endpoints
-  - Enhanced rollback on user create when devices are updated
-    - Resets device to original state on rollback
 
 <br><br>
