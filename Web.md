@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.7.12 (2020-4-7)
+### Patches 
+
+- Added bulk integrated IMP
+- Added comments
+
+<br><br>
 ## 5.7.11 (2020-4-4)
 sync with api
 
@@ -647,9 +654,5 @@ sync with api
   - Fix link to Bulk create from a Group to automatically select the Service Provider and Group
   - Update UI verbage on Selective Call Rejection blacklisted
   - Update Bulk User Create.  An additional column in the CSV file named allowAccessDeviceUpdate, which is a boolean is required for updating an existing device.
-
-<br><br>
-## 4.5.0 (2019-6-10)
-- Update Trunk Group Unreachable Destination
 
 <br><br>
