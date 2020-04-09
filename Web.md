@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.7.13 (2020-4-9)
+sync with api
+
+<br><br>
 ## 5.7.12 (2020-4-7)
 ### Patches 
 
@@ -646,13 +650,5 @@ sync with api
 <br><br>
 ## 4.6.1 (2019-7-9)
 - Fix bug in token login for SSO
-
-<br><br>
-## 4.6.0 (2019-6-17)
-  - Add Group Communication Barring
-  - Update Group Services Page Licensing UI
-  - Fix link to Bulk create from a Group to automatically select the Service Provider and Group
-  - Update UI verbage on Selective Call Rejection blacklisted
-  - Update Bulk User Create.  An additional column in the CSV file named allowAccessDeviceUpdate, which is a boolean is required for updating an existing device.
 
 <br><br>
