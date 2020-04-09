@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.7.13 (2020-4-9)
+### Patches 
+
+- Added user and group device use class
+- Added Group Device rebuild and reset to &#39;&#39;user.authentication.update&quot; task
+- Added events for device reset and device rebuild
+
+<br><br>
 ## 5.7.12 (2020-4-7)
 ### Patches 
 
@@ -663,9 +671,5 @@ No changes, sync with web release version
 <br><br>
 ## 4.6.2 (2019-7-9)
 - Limit system user searches to require search criteria
-
-<br><br>
-## 4.6.1 (2019-6-24)
-- Sync with Odin Web Release Version
 
 <br><br>
