@@ -1,11 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.7.13 (2020-4-9)
+## 5.7.14 (2020-4-10)
 ### Patches 
 
-- Added user and group device use class
-- Added Group Device rebuild and reset to &#39;&#39;user.authentication.update&quot; task
-- Added events for device reset and device rebuild
+- Added new group device upsert bulk task
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
