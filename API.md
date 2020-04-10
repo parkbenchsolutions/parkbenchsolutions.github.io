@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.7.14 (2020-4-10)
+### Patches 
+
+- Added new group device upsert bulk task
+
+<br><br>
 ## 5.7.13 (2020-4-9)
 ### Patches 
 
@@ -667,9 +673,5 @@ No changes, sync with web release version
 ### Patches 
 
 - Fix bug in parsing broadworks responses when multiple xml command responses including a half-complete command response are included in a single data chunk
-
-<br><br>
-## 4.6.2 (2019-7-9)
-- Limit system user searches to require search criteria
 
 <br><br>
