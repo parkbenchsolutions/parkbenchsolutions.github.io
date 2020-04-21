@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.8.1 (2020-4-21)
+sync with api for options sync for audit, import and migrate
+
+<br><br>
 ## 5.8.0 (2020-4-20)
 ### Minor Changes 
 
@@ -680,11 +684,5 @@ sync with api
 ### Patches 
 
 - Fix regression bug of navbar search for ent admins
-
-<br><br>
-## 4.6.3 (2019-7-10)
-### Patches 
-
-- Fix login to handle Firefox autofill and enable submit button
 
 <br><br>
