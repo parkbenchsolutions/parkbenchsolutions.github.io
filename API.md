@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.8.1 (2020-4-21)
+### Patches 
+
+- Added options merge into the import of each service
+
+<br><br>
 ## 5.8.0 (2020-4-20)
 ### Minor Changes 
 
@@ -694,9 +700,5 @@ No changes, sync with web release
 <br><br>
 ## 4.6.5 (2019-7-26)
 sync with web release version
-
-<br><br>
-## 4.6.4 (2019-7-10)
-No changes, sync with web release version
 
 <br><br>
