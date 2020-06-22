@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.2 (2020-6-22)
+sync
+
+<br><br>
 ## 5.9.1 (2020-6-22)
 sync with api
 
@@ -740,18 +744,5 @@ sync with api
 ### Patches 
 
 - Fix user schedule with an extra spacing on top
-
-<br><br>
-## 4.7.0 (2019-8-9)
-### Minor Changes 
-
-- Added the ability to bulk assign DNs to Service Providers and Groups
-- Added UI for User Schedules
-- Add Webhook configuration option to send user auth token
-
-### Patches 
-
-- Bulk user create was missing phoneNumber and extension fields on CSV download when leave blank was selected in the wizard
-- Clear local cache on logout
 
 <br><br>
