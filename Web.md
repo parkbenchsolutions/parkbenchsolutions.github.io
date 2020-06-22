@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.1 (2020-6-22)
+sync with api
+
+<br><br>
 ## 5.9.0 (2020-6-22)
 ### Minor Changes 
 
@@ -749,12 +753,5 @@ sync with api
 
 - Bulk user create was missing phoneNumber and extension fields on CSV download when leave blank was selected in the wizard
 - Clear local cache on logout
-
-<br><br>
-## 4.6.5 (2019-7-26)
-### Patches 
-
-- Fix full page loading overlay getting hidden behind modals
-- Fixed error where menus overflowed the screen on some desktop browsers
 
 <br><br>
