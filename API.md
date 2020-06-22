@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.9.2 (2020-6-22)
+sync
+
+<br><br>
 ## 5.9.1 (2020-6-22)
 ### Patches 
 
@@ -718,9 +722,5 @@ sync with web
 
 - Fix error message when navigating to Group Routing Profile
 - Fixed reseller modify request
-
-<br><br>
-## 4.7.1 (2019-8-9)
-No changes, sync with web release
 
 <br><br>
