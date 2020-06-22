@@ -1,4 +1,36 @@
 # API Latest Releases
+## 5.9.0 (2020-6-22)
+### Minor Changes 
+
+- Added group device type tag task and reset rebuild
+- Added user push notification registration api call and fixed User Privacy import bug
+- Shared call appearance report
+- Added Audit Import Export Webhooks and Callbacks to product master
+- Created 2 endpoints to reset password: 1. to receive email, 2. to update password. Email needs better formatting.
+- Added ReCaptcha and fixed bugs
+- Added system admin add request blade file
+- Added Update Domain function for System, Service Providers and Groups Update System Domain and moved logic to OCI Class
+- Branging resources for user quick features
+- Added branding template options to chose landing pages for each different user type
+- Added cluster api username and password config
+- Added service provider routing profile
+- Domains at the system level are added, updated and deleted with an array of domains
+- Added Tags, File and Lines to Group, ServiceProvider and System Device and Device Types
+- Added routing profile audit and import functions
+- Added domain index acl for group and group department
+- Added pre-alerting announcement to branding
+
+### Patches 
+
+- TrunkGroupIdentity and otgDtgIdentity fixed for Group Trunk Task
+- Removed nil from group trunk group add
+- Removed nill fro add instance request
+- Made Reset Password Multitenant
+- Fixed branding email save
+- Fixed service provider routing profile update
+- Fixed audit and import for departments
+
+<br><br>
 ## 5.8.1 (2020-4-21)
 ### Patches 
 
@@ -696,9 +728,5 @@ No changes, sync with web release
 ### Patches 
 
 - Remove cache for system domain and version
-
-<br><br>
-## 4.6.5 (2019-7-26)
-sync with web release version
 
 <br><br>
