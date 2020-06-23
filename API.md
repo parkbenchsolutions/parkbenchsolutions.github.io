@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.9.4 (2020-6-23)
+### Patches 
+
+- Fixed modify for department user during import
+- Added device level group import for user
+
+<br><br>
 ## 5.9.3 (2020-6-23)
 ### Patches 
 
@@ -715,11 +722,5 @@ sync with web
 ### Patches 
 
 - Fix ocs parsing
-
-<br><br>
-## 4.8.0 (2019-8-22)
-### Minor Changes 
-
-- Add Reseller Level Support
 
 <br><br>
