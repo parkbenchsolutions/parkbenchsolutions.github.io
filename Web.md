@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.9.3 (2020-6-23)
+### Patches 
+
+- Fixes for : reseller add from provisioning and system level #385
+- Adding version on Reseller
+
+<br><br>
 ## 5.9.2 (2020-6-22)
 sync
 
@@ -738,11 +745,5 @@ sync with api
 ### Patches 
 
 - Remove local caching that was interfering with multi-cluster logins
-
-<br><br>
-## 4.7.1 (2019-8-9)
-### Patches 
-
-- Fix user schedule with an extra spacing on top
 
 <br><br>
