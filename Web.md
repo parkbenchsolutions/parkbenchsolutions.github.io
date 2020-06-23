@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.4 (2020-6-23)
+sync version with api
+
+<br><br>
 ## 5.9.3 (2020-6-23)
 ### Patches 
 
@@ -739,11 +743,5 @@ sync with api
 
 - Added Aliased names for Service Pack service lists
   - (eg: Client License 18 === BroadTouch Business Communicator Destop - Video)
-
-<br><br>
-## 4.7.2 (2019-8-13)
-### Patches 
-
-- Remove local caching that was interfering with multi-cluster logins
 
 <br><br>
