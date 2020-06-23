@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.3 (2020-6-23)
+### Patches 
+
+- Fixed moving users on import of audit to a new group
+
+<br><br>
 ## 5.9.2 (2020-6-22)
 sync
 
@@ -715,12 +721,5 @@ sync with web
 ### Minor Changes 
 
 - Add Reseller Level Support
-
-<br><br>
-## 4.7.2 (2019-8-13)
-### Patches 
-
-- Fix error message when navigating to Group Routing Profile
-- Fixed reseller modify request
 
 <br><br>
