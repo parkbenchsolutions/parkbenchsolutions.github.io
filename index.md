@@ -1,7 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.2 (2020-6-22)
-sync
+## 5.9.3 (2020-6-23)
+### Patches 
+
+- Fixed moving users on import of audit to a new group
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
