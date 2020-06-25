@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.7 (2020-6-25)
+sync with api
+
+<br><br>
 ## 5.9.6 (2020-6-25)
 sync with api for the department bulk create task
 
@@ -731,12 +735,5 @@ sync with api
 
 - Added policy for userIdDelete
 - Added policy for userIdUpdate
-
-<br><br>
-## 4.9.0 (2019-8-29)
-### Minor Changes 
-
-- Add Tags, Users, and File Modification for Group Devices
-- Add Device Tags component to User Device Page
 
 <br><br>
