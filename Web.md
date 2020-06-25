@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.9.5 (2020-6-25)
+### Patches 
+
+- Added changed to portal passcode and password
+
+<br><br>
 ## 5.9.4 (2020-6-23)
 sync version with api
 
@@ -732,16 +738,5 @@ sync with api
 <br><br>
 ## 4.8.1 (2019-8-27)
 sync with api
-
-<br><br>
-## 4.8.0 (2019-8-22)
-### Minor Changes 
-
-- Add Reseller Level Support
-
-### Patches 
-
-- Added Aliased names for Service Pack service lists
-  - (eg: Client License 18 === BroadTouch Business Communicator Destop - Video)
 
 <br><br>
