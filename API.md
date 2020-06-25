@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.6 (2020-6-25)
+### Patches 
+
+- Fixed department create helper bulk task
+
+<br><br>
 ## 5.9.5 (2020-6-25)
 ### Patches 
 
@@ -715,16 +721,5 @@ sync with web
 <br><br>
 ## 4.9.1 (2019-8-31)
 - Update GroupAdminPolicy to only allow userId changes on Full access.
-
-<br><br>
-## 4.9.0 (2019-8-29)
-### Minor Changes 
-
-- Add group device users endpoint to find all the users on a group level device
-
-### Patches 
-
-- Fixed permission for user events, which were causing an error for users when updating schedules
-- Allow userIds with a dot (.)
 
 <br><br>
