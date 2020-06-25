@@ -1,10 +1,13 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.4 (2020-6-23)
+## 5.9.5 (2020-6-25)
 ### Patches 
 
-- Fixed modify for department user during import
-- Added device level group import for user
+- Call to numbers endpoint added
+- Changed callToNumbers to array of objects
+- Added user portal passcode update api bulk task
+- Changed GroupDeviceLine back to GroupAccessDeviceGetUserListRequest GroupAccessDeviceGetUserListRequest21sp1 is not working
+- Added user password update bulk
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
