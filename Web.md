@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.6 (2020-6-25)
+sync with api for the department bulk create task
+
+<br><br>
 ## 5.9.5 (2020-6-25)
 ### Patches 
 
@@ -734,9 +738,5 @@ sync with api
 
 - Add Tags, Users, and File Modification for Group Devices
 - Add Device Tags component to User Device Page
-
-<br><br>
-## 4.8.1 (2019-8-27)
-sync with api
 
 <br><br>
