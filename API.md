@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.9.5 (2020-6-25)
+### Patches 
+
+- Call to numbers endpoint added
+- Changed callToNumbers to array of objects
+- Added user portal passcode update api bulk task
+- Changed GroupDeviceLine back to GroupAccessDeviceGetUserListRequest GroupAccessDeviceGetUserListRequest21sp1 is not working
+- Added user password update bulk
+
+<br><br>
 ## 5.9.4 (2020-6-23)
 ### Patches 
 
@@ -716,11 +726,5 @@ sync with web
 
 - Fixed permission for user events, which were causing an error for users when updating schedules
 - Allow userIds with a dot (.)
-
-<br><br>
-## 4.8.1 (2019-8-27)
-### Patches 
-
-- Fix ocs parsing
 
 <br><br>
