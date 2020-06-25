@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.7 (2020-6-25)
+### Patches 
+
+- Fixed user push to talk empty list
+
+<br><br>
 ## 5.9.6 (2020-6-25)
 ### Patches 
 
@@ -717,9 +723,5 @@ fix lint rules that prevented builds - no ui changes
 <br><br>
 ## 4.9.2 (2019-8-31)
 sync with web
-
-<br><br>
-## 4.9.1 (2019-8-31)
-- Update GroupAdminPolicy to only allow userId changes on Full access.
 
 <br><br>
