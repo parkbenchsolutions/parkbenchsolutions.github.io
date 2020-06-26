@@ -1,10 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.9 (2020-6-26)
+## 5.9.10 (2020-6-26)
 ### Patches 
 
-- Added group admin policy to aim
-- Added group admin policy to audit
+- Group policy aim added
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
