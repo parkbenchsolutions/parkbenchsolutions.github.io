@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.10 (2020-6-26)
+sync with api
+
+<br><br>
 ## 5.9.9 (2020-6-26)
 Initial release
 
@@ -726,9 +730,5 @@ fix lint rules that prevented build - no ui changes
 
 - Added reseller id to service provider create for service providers under a reseller
 
-
-<br><br>
-## 4.9.3 (2019-9-3)
-sync with api
 
 <br><br>
