@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.9.14 (2020-6-26)
+### Patches 
+
+- Added Call To Numbers to Priority Alert
+- Add Call To Numbers to following Actions
+
+<br><br>
 ## 5.9.13 (2020-6-26)
 ### Patches 
 
@@ -714,11 +721,5 @@ Task Debugging
 ### Patches 
 
 - Fix cluster login when in background mode
-
-<br><br>
-## 4.10.4 (2019-10-9)
-### Patches 
-
-- Add task timing logging
 
 <br><br>
