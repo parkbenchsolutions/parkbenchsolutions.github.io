@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.9.8 (2020-6-26)
+### Patches 
+
+- Initial commit for selective call acceptance
+- Added Call To Number support for Selective Call Acceptance add and modify actions
+- Added common blade file for call to numbers modify
+- Fixed group admin import and audit
+
+<br><br>
 ## 5.9.7 (2020-6-25)
 ### Patches 
 
@@ -719,9 +728,5 @@ fix lint rules that prevented builds - no ui changes
 
 - Added support for self-signed SSL certificates when using OCI-P over https
 - Fix webhook error
-
-<br><br>
-## 4.9.2 (2019-8-31)
-sync with web
 
 <br><br>
