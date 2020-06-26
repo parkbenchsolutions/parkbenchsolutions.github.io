@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.9.12 (2020-6-26)
+sync with web patches for firefox and device edit enhancements
+
+<br><br>
 ## 5.9.11 (2020-6-26)
 ### Patches 
 
@@ -716,9 +720,5 @@ Task Debugging
 ### Patches 
 
 - Fixed error that sometimes sent an improper custom header in a webhook
-
-<br><br>
-## 4.10.2 (2019-9-26)
-- Update container packaging, no API changes
 
 <br><br>
