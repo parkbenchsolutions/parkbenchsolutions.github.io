@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.14 (2020-6-26)
+sync with api
+
+<br><br>
 ## 5.9.13 (2020-6-26)
 sync with api
 
@@ -721,9 +725,5 @@ sync with api
 ### Patches 
 
 - If an SSO login is attempted with an open session, logout the original session and then login with the token.
-
-<br><br>
-## 4.10.3 (2019-9-26)
-Sync with API
 
 <br><br>
