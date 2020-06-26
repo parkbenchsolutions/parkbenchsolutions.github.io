@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.13 (2020-6-26)
+sync with api
+
+<br><br>
 ## 5.9.12 (2020-6-26)
 ### Patches 
 
@@ -721,9 +725,5 @@ sync with api
 <br><br>
 ## 4.10.3 (2019-9-26)
 Sync with API
-
-<br><br>
-## 4.10.2 (2019-9-26)
-- Update container packaging, no Web changes
 
 <br><br>
