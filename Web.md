@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.9 (2020-6-26)
+Initial release
+
+<br><br>
 ## 5.9.8 (2020-6-26)
 sync with api
 
@@ -726,11 +730,5 @@ fix lint rules that prevented build - no ui changes
 <br><br>
 ## 4.9.3 (2019-9-3)
 sync with api
-
-<br><br>
-## 4.9.2 (2019-8-31)
-### Patches 
-
-- Fix missing delete class in css that caused modal x button UI problem
 
 <br><br>
