@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.9.9 (2020-6-26)
+### Patches 
+
+- Added group admin policy to aim
+- Added group admin policy to audit
+
+<br><br>
 ## 5.9.8 (2020-6-26)
 ### Patches 
 
@@ -721,12 +728,5 @@ fix lint rules that prevented builds - no ui changes
 - Add pubsub capabilities for queue
 - Add check to prevent an Int type conversion on userIds under certain situations, that returned invalid ids. 
 - Fix custom device tag modifications where a value of 0 was incorrectly set to null
-
-<br><br>
-## 4.9.3 (2019-9-3)
-### Patches 
-
-- Added support for self-signed SSL certificates when using OCI-P over https
-- Fix webhook error
 
 <br><br>
