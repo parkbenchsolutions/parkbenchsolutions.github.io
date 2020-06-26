@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.11 (2020-6-26)
+sync with api third party voicemail
+
+<br><br>
 ## 5.9.10 (2020-6-26)
 sync with api
 
@@ -716,19 +720,5 @@ Sync with API
 <br><br>
 ## 4.10.1 (2019-9-24)
 fix lint rules that prevented build - no ui changes
-
-<br><br>
-## 4.10.0 (2019-9-23)
-### Minor Changes 
-
-- Added notification when the user password is expiring soon (< 14days)
-- Add supported browser message for unsupported browsers
-- Added new columns to events view to include more data
-- Fixed the navbar dropdown rendering in Microsoft Edge
-
-### Patches 
-
-- Added reseller id to service provider create for service providers under a reseller
-
 
 <br><br>
