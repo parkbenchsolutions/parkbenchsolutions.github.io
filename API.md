@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.13 (2020-6-26)
+### Patches 
+
+- Added credentials to the device import if accessDeviceCredentials is populated
+
+<br><br>
 ## 5.9.12 (2020-6-26)
 sync with web patches for firefox and device edit enhancements
 
@@ -714,11 +720,5 @@ Task Debugging
 ### Patches 
 
 - Add task timing logging
-
-<br><br>
-## 4.10.3 (2019-9-26)
-### Patches 
-
-- Fixed error that sometimes sent an improper custom header in a webhook
 
 <br><br>
