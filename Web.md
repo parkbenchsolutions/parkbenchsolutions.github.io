@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.8 (2020-6-26)
+sync with api
+
+<br><br>
 ## 5.9.7 (2020-6-25)
 sync with api
 
@@ -728,12 +732,5 @@ sync with api
 ### Patches 
 
 - Fix missing delete class in css that caused modal x button UI problem
-
-<br><br>
-## 4.9.1 (2019-8-31)
-### Patches 
-
-- Added policy for userIdDelete
-- Added policy for userIdUpdate
 
 <br><br>
