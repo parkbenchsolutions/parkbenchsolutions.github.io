@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.17 (2020-6-29)
+### Patches 
+
+- Added service provider admin to AIM
+
+<br><br>
 ## 5.9.16 (2020-6-29)
 ### Patches 
 
@@ -712,11 +718,5 @@ sync with odinweb
 <br><br>
 ## 4.10.8 (2019-10-17)
 Task Debugging
-
-<br><br>
-## 4.10.7 (2019-10-15)
-### Patches 
-
-- Added connet mobile and connect table
 
 <br><br>
