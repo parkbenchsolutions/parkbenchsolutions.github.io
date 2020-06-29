@@ -1,10 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.14 (2020-6-26)
-### Patches 
-
-- Added Call To Numbers to Priority Alert
-- Add Call To Numbers to following Actions
+## 5.9.15 (2020-6-29)
+sync with api
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
