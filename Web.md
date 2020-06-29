@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.9.15 (2020-6-29)
+### Patches 
+
+- Device export #390
+- Group phone directory export #391
+- File name fixes
+- Service provider report csv export #393
+- Hunt Group Settings #392
+
+<br><br>
 ## 5.9.14 (2020-6-26)
 sync with api
 
@@ -719,11 +729,5 @@ Sync with API
 <br><br>
 ## 4.10.5 (2019-10-9)
 sync with api
-
-<br><br>
-## 4.10.4 (2019-10-9)
-### Patches 
-
-- If an SSO login is attempted with an open session, logout the original session and then login with the token.
 
 <br><br>
