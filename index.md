@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.16 (2020-6-29)
+## 5.9.17 (2020-6-29)
 ### Patches 
 
-- Added table branding fixes
+- Added service provider admin to AIM
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
