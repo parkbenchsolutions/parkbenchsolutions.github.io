@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.9.15 (2020-6-29)
+sync with api
+
+<br><br>
 ## 5.9.14 (2020-6-26)
 ### Patches 
 
@@ -715,11 +719,5 @@ Task Debugging
 
 - Add failure tracing to background event processing
 
-
-<br><br>
-## 4.10.5 (2019-10-9)
-### Patches 
-
-- Fix cluster login when in background mode
 
 <br><br>
