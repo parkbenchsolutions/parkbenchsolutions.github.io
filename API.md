@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.16 (2020-6-29)
+### Patches 
+
+- Added table branding fixes
+
+<br><br>
 ## 5.9.15 (2020-6-29)
 sync with api
 
@@ -712,12 +718,5 @@ Task Debugging
 ### Patches 
 
 - Added connet mobile and connect table
-
-<br><br>
-## 4.10.6 (2019-10-14)
-### Patches 
-
-- Add failure tracing to background event processing
-
 
 <br><br>
