@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.19 (2020-6-30)
+### Patches 
+
+- Fixed custom contact directories AIM
+
+<br><br>
 ## 5.9.18 (2020-6-30)
 ### Patches 
 
@@ -714,11 +720,5 @@ sync with odinweb
 - Fixed dispatch event outgoing calling plan
 - Added department cloning
 - Added user intercept support for 16sp1
-
-<br><br>
-## 4.10.9 (2019-10-21)
-### Patches 
-
-- Invalid token error message was being displayed on failed logins, changed to pass through error to be more descriptive
 
 <br><br>
