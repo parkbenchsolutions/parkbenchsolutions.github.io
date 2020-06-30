@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.18 (2020-6-30)
+### Patches 
+
+- Added exception handling AIM for devices
+
+<br><br>
 ## 5.9.17 (2020-6-29)
 ### Patches 
 
@@ -714,9 +720,5 @@ sync with odinweb
 ### Patches 
 
 - Invalid token error message was being displayed on failed logins, changed to pass through error to be more descriptive
-
-<br><br>
-## 4.10.8 (2019-10-17)
-Task Debugging
 
 <br><br>
