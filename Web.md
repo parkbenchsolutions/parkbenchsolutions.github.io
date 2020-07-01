@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.9.20 (2020-7-1)
+### Patches 
+
+- Issue with a BW User # #387
+- Add user export to users list #409
+- Login issue with user with #
+
+<br><br>
 ## 5.9.19 (2020-6-30)
 sync with api
 
@@ -725,9 +733,5 @@ sync with api
 - Add User Bulk SIP Authentication UI
 - Added department cloning
 - Move bulk sip password to use sipPassword instead of userPassword
-
-<br><br>
-## 4.10.9 (2019-10-21)
-sync with api
 
 <br><br>
