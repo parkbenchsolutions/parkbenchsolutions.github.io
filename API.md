@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.20 (2020-7-1)
+### Patches 
+
+- Added api files for voice messagaging aliases
+
+<br><br>
 ## 5.9.19 (2020-6-30)
 ### Patches 
 
@@ -709,16 +715,5 @@ sync with odinweb
 ### Minor Changes 
 
 - Tag-value-null-fix
-
-<br><br>
-## 4.11.0 (2019-11-14)
-### Minor Changes 
-
-- Add reseller to branding modules
-- Added shared call appearance lines events
-- Add Bulk SIP Authentication Task
-- Fixed dispatch event outgoing calling plan
-- Added department cloning
-- Added user intercept support for 16sp1
 
 <br><br>
