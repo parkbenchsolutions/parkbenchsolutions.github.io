@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.9.21 (2020-7-6)
+### Patches 
+
+- Bulk Task User Password #396
+- Task User Portal Passcode Modify #395
+- Fixes for ES lint issue
+- Moved auth username to new section
+
+<br><br>
 ## 5.9.20 (2020-7-1)
 ### Patches 
 
@@ -722,16 +731,5 @@ sync with api
 - tag-value-null-fix
 - Feature Access Code Error - Group Administrator #38
 - Fixed domain dropdown for clone
-
-<br><br>
-## 4.11.0 (2019-11-14)
-### Minor Changes 
-
-- Styling changes
-- Styling and features
-- Add reseller level to modules tab in branding
-- Add User Bulk SIP Authentication UI
-- Added department cloning
-- Move bulk sip password to use sipPassword instead of userPassword
 
 <br><br>
