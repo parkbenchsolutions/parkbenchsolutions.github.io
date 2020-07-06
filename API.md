@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.21 (2020-7-6)
+### Patches 
+
+- Added comments to template admin request
+
+<br><br>
 ## 5.9.20 (2020-7-1)
 ### Patches 
 
@@ -709,11 +715,5 @@ sync with odinweb
 ### Patches 
 
 - Fixed department cloning
-
-<br><br>
-## 4.12.0 (2019-12-3)
-### Minor Changes 
-
-- Tag-value-null-fix
 
 <br><br>
