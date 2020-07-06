@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.20 (2020-7-1)
+## 5.9.21 (2020-7-6)
 ### Patches 
 
-- Added api files for voice messagaging aliases
+- Added comments to template admin request
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
