@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.21 (2020-7-6)
+## 5.9.22 (2020-7-7)
 ### Patches 
 
-- Added comments to template admin request
+- Added shared call endpoint import support
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
