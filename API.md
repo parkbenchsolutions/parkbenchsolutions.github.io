@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.22 (2020-7-7)
+### Patches 
+
+- Added shared call endpoint import support
+
+<br><br>
 ## 5.9.21 (2020-7-6)
 ### Patches 
 
@@ -709,11 +715,5 @@ Initial release
 <br><br>
 ## 4.12.2 (2019-12-6)
 sync with odinweb
-
-<br><br>
-## 4.12.1 (2019-12-4)
-### Patches 
-
-- Fixed department cloning
 
 <br><br>
