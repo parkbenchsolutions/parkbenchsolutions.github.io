@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.22 (2020-7-7)
+release with api
+
+<br><br>
 ## 5.9.21 (2020-7-6)
 ### Patches 
 
@@ -719,17 +723,5 @@ sync with api
 <br><br>
 ## 4.12.1 (2019-12-4)
 4.12.1 sync
-
-<br><br>
-## 4.12.0 (2019-12-3)
-### Minor Changes 
-
-- Added group extension length
-- Fixed issue with speed dial 100 permissions
-- feature-access-code-fix
-- Tag-value-null-fix
-- tag-value-null-fix
-- Feature Access Code Error - Group Administrator #38
-- Fixed domain dropdown for clone
 
 <br><br>
