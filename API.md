@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.29 (2020-7-8)
+### Patches 
+
+- Debug statements
+
+<br><br>
 ## 5.9.28 (2020-7-8)
 ### Patches 
 
@@ -704,11 +710,5 @@ Initial release
 ### Patches 
 
 - Removed token refresh from audit listener
-
-<br><br>
-## 5.0.5 (2019-12-11)
-### Patches 
-
-- DeviceName required for audit
 
 <br><br>
