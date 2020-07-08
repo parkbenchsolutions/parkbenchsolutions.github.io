@@ -9,7 +9,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.9.23 (2020-7-8)
-sync with api
+## 5.9.24 (2020-7-8)
+Initial release
 
   
