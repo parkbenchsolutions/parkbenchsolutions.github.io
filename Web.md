@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.31 (2020-7-8)
+sync with api
+
+<br><br>
 ## 5.9.30 (2020-7-8)
 sync with api
 
@@ -700,10 +704,6 @@ sync with api
 
 <br><br>
 ## 5.0.7 (2019-12-11)
-sync with api
-
-<br><br>
-## 5.0.6 (2019-12-11)
 sync with api
 
 <br><br>
