@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.26 (2020-7-8)
+sync with api
+
+<br><br>
 ## 5.9.25 (2020-7-8)
 5.9.25
 
@@ -701,13 +705,5 @@ sync with api
 <br><br>
 ## 5.0.2 (2019-12-11)
 sync with api
-
-<br><br>
-## 5.0.1 (2019-12-11)
-### Patches 
-
-- Issue fixes 61: Add AUTH setup and configuration (password) to Bulk
-- Issue fixed Add auth setup and configuration: #75
-
 
 <br><br>
