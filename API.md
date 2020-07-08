@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.24 (2020-7-8)
+### Patches 
+
+- Fixed cloud build
+
+<br><br>
 ## 5.9.23 (2020-7-8)
 ### Patches 
 
@@ -709,15 +715,5 @@ Initial release
 - Add announcementUrl to cluster config
 - Added branding modules
 - Task logging
-
-<br><br>
-## 5.0.0 (2019-12-10)
-### Major Changes 
-
-- Audit
-
-### Minor Changes 
-
-- Fixed anonymous call rejection bug
 
 <br><br>
