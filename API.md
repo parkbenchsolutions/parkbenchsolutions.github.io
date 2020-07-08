@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.9.23 (2020-7-8)
+### Patches 
+
+- Added alternateUserId check to login info request
+- Renamed isAlternateUserId
+- Setup database for sending email notification token
+
+<br><br>
 ## 5.9.22 (2020-7-7)
 ### Patches 
 
@@ -711,9 +719,5 @@ Initial release
 ### Minor Changes 
 
 - Fixed anonymous call rejection bug
-
-<br><br>
-## 4.12.2 (2019-12-6)
-sync with odinweb
 
 <br><br>
