@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.32 (2020-7-8)
+### Patches 
+
+- SendResetLink
+
+<br><br>
 ## 5.9.31 (2020-7-8)
 ### Patches 
 
@@ -704,11 +710,5 @@ Initial release
 ### Patches 
 
 - Added failed job and retries for audit
-
-<br><br>
-## 5.0.8 (2019-12-12)
-### Patches 
-
-- Removed UserInfo append to audit
 
 <br><br>
