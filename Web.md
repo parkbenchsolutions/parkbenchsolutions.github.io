@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.25 (2020-7-8)
+5.9.25
+
+<br><br>
 ## 5.9.24 (2020-7-8)
 Initial release
 
@@ -705,21 +709,5 @@ sync with api
 - Issue fixes 61: Add AUTH setup and configuration (password) to Bulk
 - Issue fixed Add auth setup and configuration: #75
 
-
-<br><br>
-## 5.0.0 (2019-12-10)
-### Major Changes 
-
-- Auto attendant creation call flow
-- Styling changes
-- Add aa to a feature flag &quot;Visual AA Builder&quot;
-- Add reseller level to modules tab in branding
-- Add User Bulk SIP Authentication UI
-- Audit page
-- Added reseller audits
-
-### Minor Changes 
-
-- Tag-value-null-fix
 
 <br><br>
