@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.28 (2020-7-8)
+### Patches 
+
+- Added database api user to Send Email
+
+<br><br>
 ## 5.9.27 (2020-7-8)
 ### Patches 
 
@@ -704,12 +710,5 @@ Initial release
 ### Patches 
 
 - DeviceName required for audit
-
-<br><br>
-## 5.0.4 (2019-12-11)
-### Patches 
-
-- Fixed audit parent id update and device policies for non users
-- Removed helper log
 
 <br><br>
