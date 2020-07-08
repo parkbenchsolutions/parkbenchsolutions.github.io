@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.9.25 (2020-7-8)
+5.9.25
+
+<br><br>
 ## 5.9.24 (2020-7-8)
 ### Patches 
 
@@ -707,13 +711,5 @@ Initial release
 ### Patches 
 
 - Fixed diretory calling party category
-
-<br><br>
-## 5.0.1 (2019-12-11)
-### Patches 
-
-- Add announcementUrl to cluster config
-- Added branding modules
-- Task logging
 
 <br><br>
