@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.26 (2020-7-8)
+### Patches 
+
+- Added db controller for self service controller
+
+<br><br>
 ## 5.9.25 (2020-7-8)
 5.9.25
 
@@ -705,11 +711,5 @@ Initial release
 ### Patches 
 
 - Fixed policy access for allow enterprise user access
-
-<br><br>
-## 5.0.2 (2019-12-11)
-### Patches 
-
-- Fixed diretory calling party category
 
 <br><br>
