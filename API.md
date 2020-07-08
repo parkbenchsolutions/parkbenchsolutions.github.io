@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.30 (2020-7-8)
+### Patches 
+
+- Added Helpers
+
+<br><br>
 ## 5.9.29 (2020-7-8)
 ### Patches 
 
@@ -704,11 +710,5 @@ Initial release
 ### Patches 
 
 - Added session refresh
-
-<br><br>
-## 5.0.6 (2019-12-11)
-### Patches 
-
-- Removed token refresh from audit listener
 
 <br><br>
