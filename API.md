@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.27 (2020-7-8)
+### Patches 
+
+- Email event trigger from database
+
+<br><br>
 ## 5.9.26 (2020-7-8)
 ### Patches 
 
@@ -705,11 +711,5 @@ Initial release
 
 - Fixed audit parent id update and device policies for non users
 - Removed helper log
-
-<br><br>
-## 5.0.3 (2019-12-11)
-### Patches 
-
-- Fixed policy access for allow enterprise user access
 
 <br><br>
