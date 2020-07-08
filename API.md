@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.31 (2020-7-8)
+### Patches 
+
+- Passing db to password reset
+
+<br><br>
 ## 5.9.30 (2020-7-8)
 ### Patches 
 
@@ -704,11 +710,5 @@ Initial release
 ### Patches 
 
 - Removed UserInfo append to audit
-
-<br><br>
-## 5.0.7 (2019-12-11)
-### Patches 
-
-- Added session refresh
 
 <br><br>
