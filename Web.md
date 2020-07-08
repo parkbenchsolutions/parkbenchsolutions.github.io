@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.24 (2020-7-8)
+Initial release
+
+<br><br>
 ## 5.9.23 (2020-7-8)
 sync with api
 
@@ -717,11 +721,5 @@ sync with api
 ### Minor Changes 
 
 - Tag-value-null-fix
-
-<br><br>
-## 4.12.2 (2019-12-6)
-### Patches 
-
-- Fixes for Service Provider Administrator - Services Enumeration Value Not Valid also fixed the issue for Access Device
 
 <br><br>
