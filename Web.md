@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.23 (2020-7-8)
+sync with api
+
+<br><br>
 ## 5.9.22 (2020-7-7)
 release with api
 
@@ -719,9 +723,5 @@ sync with api
 ### Patches 
 
 - Fixes for Service Provider Administrator - Services Enumeration Value Not Valid also fixed the issue for Access Device
-
-<br><br>
-## 4.12.1 (2019-12-4)
-4.12.1 sync
 
 <br><br>
