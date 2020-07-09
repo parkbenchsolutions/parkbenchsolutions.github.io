@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.9.33 (2020-7-9)
+### Patches 
+
+- Call Center Configuration Issue - Stranded Calls #414
+
+<br><br>
 ## 5.9.32 (2020-7-8)
 sync with api
 
@@ -701,9 +707,5 @@ sync with api
 <br><br>
 ## 5.0.9 (2019-12-12)
 sync with API
-
-<br><br>
-## 5.0.8 (2019-12-12)
-sync with api
 
 <br><br>
