@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.9.33 (2020-7-9)
+sync with web
+
+<br><br>
 ## 5.9.32 (2020-7-8)
 ### Patches 
 
@@ -704,11 +708,5 @@ Initial release
 
 - Added group department admin to tasks auth
 - Added group device access to department admin
-
-<br><br>
-## 5.0.9 (2019-12-12)
-### Patches 
-
-- Added failed job and retries for audit
 
 <br><br>
