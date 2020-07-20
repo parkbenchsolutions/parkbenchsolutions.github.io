@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.34 (2020-7-20)
+sync with api
+
+<br><br>
 ## 5.9.33 (2020-7-9)
 ### Patches 
 
@@ -703,9 +707,5 @@ sync with api
 - Sip auth password rules
 - Sip auth password rules
 - Group Admin - Department Read only/None mode failed
-
-<br><br>
-## 5.0.9 (2019-12-12)
-sync with API
 
 <br><br>
