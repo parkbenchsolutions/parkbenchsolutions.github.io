@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.9.35 (2020-7-22)
+### Patches 
+
+- Add Endpoints for Call Center Supervisor Agents
+- Removed debug message from the log files.
+- Added Audit and imports to Call Center Supervisor Agents
+
+<br><br>
 ## 5.9.34 (2020-7-20)
 ### Patches 
 
@@ -712,11 +720,5 @@ Initial release
 
 - Groups/viewable-packs
 - Added group department permissions
-
-<br><br>
-## 5.0.11 (2019-12-19)
-### Patches 
-
-- Added service pack audit
 
 <br><br>
