@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.9.35 (2020-7-22)
+### Patches 
+
+- Add user portal passcode and password reset to home page #424
+
+<br><br>
 ## 5.9.34 (2020-7-20)
 sync with api
 
@@ -697,15 +703,5 @@ sync with api
 <br><br>
 ## 5.0.11 (2019-12-19)
 sync with api
-
-<br><br>
-## 5.0.10 (2019-12-17)
-### Patches 
-
-- Fixes Bulk SIP Auth Password (43)
-- Sip password auth code system
-- Sip auth password rules
-- Sip auth password rules
-- Group Admin - Department Read only/None mode failed
 
 <br><br>
