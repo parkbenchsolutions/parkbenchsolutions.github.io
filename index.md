@@ -1,11 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.9.35 (2020-7-22)
+## 5.9.36 (2020-7-23)
 ### Patches 
 
-- Add Endpoints for Call Center Supervisor Agents
-- Removed debug message from the log files.
-- Added Audit and imports to Call Center Supervisor Agents
+- Added optional fields for user password modify bulk task
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
