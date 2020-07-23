@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.9.36 (2020-7-23)
+### Patches 
+
+- Added optional fields for user password modify bulk task
+
+<br><br>
 ## 5.9.35 (2020-7-22)
 ### Patches 
 
@@ -713,12 +719,5 @@ sync with web
 <br><br>
 ## 5.0.13 (2019-12-31)
 Initial release
-
-<br><br>
-## 5.0.12 (2019-12-26)
-### Patches 
-
-- Groups/viewable-packs
-- Added group department permissions
 
 <br><br>
