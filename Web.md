@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.9.36 (2020-7-23)
+sync with api code release
+
+<br><br>
 ## 5.9.35 (2020-7-22)
 ### Patches 
 
@@ -699,9 +703,5 @@ sync with api
 - Group Administrator Policy huntGroup ,AA
 - Merge pull request #3 from parkbenchsolutions/master
 - Group admins should be able to modify hunt group settings
-
-<br><br>
-## 5.0.11 (2019-12-19)
-sync with api
 
 <br><br>
