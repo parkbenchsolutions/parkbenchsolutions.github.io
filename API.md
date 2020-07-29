@@ -1,4 +1,21 @@
 # API Latest Releases
+## 5.10.0 (2020-7-29)
+### Minor Changes 
+
+- Initial blade files commit for User Pre Alerting Announcement
+- Finished endpoints for User Pre Alerting Announcement
+- Added Audit and Import for Pre Alerting
+- Added pre-alerting announcement to AIM
+- Merge pull request #61 from parkbenchsolutions/feature/418-call-center-renaming
+- Fix to allow no criteria for a user
+
+### Patches 
+
+- Update pre-alerting
+- Retry login token for failed ocs_connections
+- Fixing naming problem with user call centers supervisor agents functions
+
+<br><br>
 ## 5.9.36 (2020-7-23)
 ### Patches 
 
@@ -715,9 +732,5 @@ sync with web
 ### Patches 
 
 - Fixed department create
-
-<br><br>
-## 5.0.13 (2019-12-31)
-Initial release
 
 <br><br>
