@@ -1,4 +1,17 @@
 # API Latest Releases
+## 5.10.1 (2020-7-29)
+### Patches 
+- Retry login token for failed ocs_connections
+- Added Audit and Import for Pre Alerting
+- Initial blade files commit for User Pre Alerting Announcement
+- Update pre-alerting
+- Added pre-alerting announcement to AIM
+- Fix to allow no criteria for a user
+- Added push to talk callback
+- Added group voice messaging portal callback
+- Fixed duplicate criteria on POST call
+
+<br><br>
 ## 5.10.0 (2020-7-29)
 ### Minor Changes 
 
@@ -726,11 +739,5 @@ Sync with web
 <br><br>
 ## 5.1.0 (2020-1-2)
 sync with web
-
-<br><br>
-## 5.0.14 (2020-1-1)
-### Patches 
-
-- Fixed department create
 
 <br><br>
