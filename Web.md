@@ -1,4 +1,35 @@
 # Web Latest Releases
+## 5.10.0 (2020-7-29)
+### Minor Changes 
+
+- User service phase 3 setup
+- Info details user-service-setting-phase-3
+- Busy lamp fields service added
+- Collaborate audio
+- React porting : Priority Alert, with call to number implementation
+- Set Permission to Priority Alert
+- Push to talk service
+- User privacy service
+- Speed dial 100
+- Ui New Tabs component
+- Add permission push to talk
+- Moved password below calling features
+- Added group dashboard page
+- Enterprise dashboard home page is back
+- System dashboard has been re-added
+- Added module and acl support to system dashboard
+
+### Patches 
+
+- Fixes for callsToNumber property in API
+- Switch button fixes using bulma css
+- Blf fixes
+- Blf user service changes permission
+- Arrow function in user services all
+- Reseller Breadcrumb link needs corrected #422
+- Speed Dial 100 Help text correction
+
+<br><br>
 ## 5.9.36 (2020-7-23)
 sync with api code release
 
@@ -692,16 +723,5 @@ sync with api
 - Group department : users
 - Group Department Breadcrumb issue fixes.
 - Group Department admin, music on hold service
-
-<br><br>
-## 5.0.12 (2019-12-26)
-### Patches 
-
-- Fixes Access Device
-- Group Administrator Policy and Number extension permission
-- Group Admin Policy : Policy set to None
-- Group Administrator Policy huntGroup ,AA
-- Merge pull request #3 from parkbenchsolutions/master
-- Group admins should be able to modify hunt group settings
 
 <br><br>
