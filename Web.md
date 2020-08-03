@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.10.2 (2020-8-3)
+sync with api
+
+<br><br>
 ## 5.10.1 (2020-7-29)
 sync with api
 
@@ -707,9 +711,5 @@ sync with api
 ### Minor Changes 
 
 - Group Department : Department select box issue fixes on Flexible Seating Host, trunk group settings. Removed unwanted code.
-
-<br><br>
-## 5.0.14 (2020-1-1)
-sync with api
 
 <br><br>
