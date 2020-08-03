@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.2 (2020-8-3)
+### Patches 
+
+- Changed the alternateUserId login pattern
+
+<br><br>
 ## 5.10.1 (2020-7-29)
 ### Patches 
 - Retry login token for failed ocs_connections
@@ -735,9 +741,5 @@ Sync with web
 ### Patches 
 
 - Added service provider password rules
-
-<br><br>
-## 5.1.0 (2020-1-2)
-sync with web
 
 <br><br>
