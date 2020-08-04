@@ -1,4 +1,13 @@
 # API Latest Releases
+## 5.10.3 (2020-8-4)
+### Patches 
+
+- Added Group Account Authorization Codes OCI calls
+- Fix formatting and removed debug code
+- Group Account Authorization Codes
+- Added Group Account/Authorization Codes to AIM
+
+<br><br>
 ## 5.10.2 (2020-8-3)
 ### Patches 
 
@@ -735,11 +744,5 @@ Sync with web
 ### Patches 
 
 - Fixed password rules bug
-
-<br><br>
-## 5.1.1 (2020-1-2)
-### Patches 
-
-- Added service provider password rules
 
 <br><br>
