@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.10.3 (2020-8-4)
+### Patches 
+
+- Add Page to show User registration #432
+- Add Page to show User registration #432
+- Authentication Service - Password Complexity #436
+- Changed to user-call-recording to &#39;user-authentication-service&#39; + userId
+
+<br><br>
 ## 5.10.2 (2020-8-3)
 sync with api
 
@@ -705,11 +714,5 @@ sync with api
 <br><br>
 ## 5.1.1 (2020-1-2)
 sync with api
-
-<br><br>
-## 5.1.0 (2020-1-2)
-### Minor Changes 
-
-- Group Department : Department select box issue fixes on Flexible Seating Host, trunk group settings. Removed unwanted code.
 
 <br><br>
