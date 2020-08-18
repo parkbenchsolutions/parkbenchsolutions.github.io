@@ -16,12 +16,32 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.10.3 (2020-8-4)
+## 5.10.4 (2020-8-18)
 ### Patches 
 
-- Add Page to show User registration #432
-- Add Page to show User registration #432
-- Authentication Service - Password Complexity #436
-- Changed to user-call-recording to &#39;user-authentication-service&#39; + userId
+- Porting Selective Call Rejection to React
+- Fixes for: always getting error on key duplicate, on console..... added some unique keys
+- Simultaneous ring personal service
+- Code indentation and formatting
+- Simultaneous ring personal service changes
+- Sequential ring service
+- User guest service tab
+- Porting : Call Notify
+- Removed odin support from service provider dashboard menu
+- Fixed alert danger messages for CFA
+- Added lastName firstName user agent to user registration
+- Group dashboard, alias fixes
+- Changed menu
+- Added group dashboard panel logos
+- New menu development
+- Network Class of service
+- Network Class of Service
+- Branding fixes
+- Added user panel logos and group provisioning and user bulk services
+- Added branding template for user dashboard quick links panel
+- Header logo fixes
+- Adding policy check on Group Dashboard
+- Group dashboard license split into two
+- Changed password to newPassword in sip auth password change
 
   
