@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.10.8 (2020-8-20)
+### Patches 
+
+- Group Series completion loading fixes
+
+<br><br>
 ## 5.10.7 (2020-8-20)
 ### Patches 
 
@@ -731,9 +737,5 @@ sync with api
 - Fixes for Issue : End User Profile Forces Logout #126 Fixes Done for : 1. Reseller Admin type 2. Service Provider Admin type 3. Group Admin type 4. Group Department Admin type 5. End User Type
 - Pull Request for End User Profile Forces Logout #126: #129
 - Change audit_limit view to 5000
-
-<br><br>
-## 5.1.5 (2020-1-7)
-sync with API
 
 <br><br>
