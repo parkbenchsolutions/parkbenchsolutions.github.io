@@ -1,10 +1,22 @@
 # Web Latest Releases
 ## 5.10.7 (2020-8-20)
 ### Patches 
-- Service Provider Admin Policies Error #453 (patch)
-- user authentication auto generate not working #451 (patch)
-- Authentication for user logged in (patch)
 
+- Service Provider Admin Policies Error #453
+- User authentication auto generate not working #451
+- Authentication for user logged in
+
+<br><br>
+## 5.10.6 (2020-8-20)
+Initial release
+
+<br><br>
+## 5.10.5 (2020-8-20)
+### Patches 
+
+- Fixed group dashboard services
+
+<br><br>
 ## 5.10.4 (2020-8-18)
 ### Patches 
 
@@ -723,27 +735,5 @@ sync with api
 <br><br>
 ## 5.1.5 (2020-1-7)
 sync with API
-
-<br><br>
-## 5.1.4 (2020-1-3)
-### Patches 
-
-- Hunt Group / Unreachable (Display only department related data on Reroute To) fixes
-- Trunk group can not route to itself , fixes done
-- Group Admin - Department Read only/None mode failed #64
-- Fixes for Enterprise Administrator : Bulk Provisioning : Delete User we can add New Group #76
-- Fixes for Enterprise Admin : Can not Modify Default Domain for Enterprise #101
-
-<br><br>
-## 5.1.3 (2020-1-3)
-### Patches 
-
-- Fixes : Auto Password Generation
-- Password Rules apply
-- Password rules fixes
-
-<br><br>
-## 5.1.2 (2020-1-2)
-sync with api
 
 <br><br>
