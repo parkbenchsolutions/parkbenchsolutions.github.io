@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.10.8 (2020-8-20)
+sync with web
+
+<br><br>
 ## 5.10.7 (2020-8-20)
 sync
 
@@ -746,13 +750,5 @@ sync with web
 <br><br>
 ## 5.1.7 (2020-1-10)
 sync with web
-
-<br><br>
-## 5.1.6 (2020-1-10)
-### Patches 
-
-- Added User Enable Voice Mail Recording
-- Fixed permissions on group password rules
-- Added reseller access to System Service Controller
 
 <br><br>
