@@ -1,8 +1,22 @@
 # API Latest Releases
-## 5.10.11 (2020-8-20)
-sync with web
-<br><br>
+## 5.10.7 (2020-8-20)
+sync
 
+<br><br>
+## 5.10.6 (2020-8-20)
+sync
+
+<br><br>
+## 5.10.5 (2020-8-20)
+### Patches 
+
+- Added system feature access code and user modify group id
+- Added system feature access code to aim
+- Removed foreign key restraint from branding emails
+- Added foreign key index names to delete list
+- Added user authentication change password to event
+
+<br><br>
 ## 5.10.4 (2020-8-18)
 ### Patches 
 
@@ -740,22 +754,5 @@ sync with web
 - Added User Enable Voice Mail Recording
 - Fixed permissions on group password rules
 - Added reseller access to System Service Controller
-
-<br><br>
-## 5.1.5 (2020-1-7)
-### Patches 
-
-- Added group series completion
-- Added user level event search
-- Fixed OdinEvent Voice Messaging Greeting
-- Added group call center enhanced reporting api for groups in a SP
-
-<br><br>
-## 5.1.4 (2020-1-3)
-sync with api
-
-<br><br>
-## 5.1.3 (2020-1-3)
-Sync with web
 
 <br><br>
