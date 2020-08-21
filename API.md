@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.9 (2020-8-21)
+### Patches 
+
+- Added detailed product descriptions to branding
+
+<br><br>
 ## 5.10.8 (2020-8-20)
 sync with web
 
@@ -746,9 +752,5 @@ sync with web
 - Added after column to imports
 - Added password change api
 - Call center agent and call center events added
-
-<br><br>
-## 5.1.7 (2020-1-10)
-sync with web
 
 <br><br>
