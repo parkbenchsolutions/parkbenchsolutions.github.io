@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.10.10 (2020-8-26)
+### Patches 
+
+- Add service packs and users services to user create wizard #450
+
+<br><br>
 ## 5.10.9 (2020-8-21)
 ### Patches 
 
@@ -727,11 +733,5 @@ sync with api
 - Added enable voice mail recording for users
 - Added import and audit message to pages
 - Change audit_limit view to 5000
-
-<br><br>
-## 5.1.7 (2020-1-10)
-### Patches 
-
-- Fix for phone numbers
 
 <br><br>
