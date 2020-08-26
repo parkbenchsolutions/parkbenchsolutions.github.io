@@ -7,9 +7,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.10.9 (2020-8-21)
+## 5.10.10 (2020-8-26)
 ### Patches 
 
-- Fixes for : When turning off read access at the group level for &#39;User Bulk Features&#39; - the panel still shows up on the Group Dashboard.
+- Add service packs and users services to user create wizard #450
 
   
