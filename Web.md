@@ -1,4 +1,22 @@
 # Web Latest Releases
+## 5.10.11 (2020-8-27)
+### Patches 
+
+- Branding permission implementation
+- Group admin branding
+- Fixes for viewable service pack
+- Group devices branding permissions
+- Device configuration
+- Group access code
+- Changes feature access code
+- Group-dashboard-permission
+- Group schedules hover service changes
+- Schedule event fixes
+- Fixed the multiple odin support forms
+- Fixed appendChild to append
+- Fixed password expired days ago
+
+<br><br>
 ## 5.10.10 (2020-8-26)
 ### Patches 
 
@@ -697,41 +715,5 @@ sync with api
 
 - Do not show resellers panel if the are a reseller provisioner
 - Added reseller service utilization report
-
-<br><br>
-## 5.2.0 (2020-1-14)
-### Minor Changes 
-
-- Group Department admin implementation
-- Group department administrator dashboard implementation
-- Group department administrator dashboard implementation
-- Department admin service file structure
-- Department admin dashboard menu
-- Fixes Bulk SIP Auth Password (43)
-- Sip password auth code system
-- Group Admin - Department Read only/None mode failed
-- Import
-- Group Department implementation: Group Web Policies
-- Group Department implementation: trunk group
-- Group department : users
-- Group Administrator Policy and Number extension permission
-- Group Admin Policy : Policy set to None
-- Group Administrator Policy huntGroup ,AA
-- Group admins should be able to modify hunt group settings
-- Group department module.permissions issue fixes, and Breadcrumb issue fixes
-- Group Department Breadcrumb issue fixes.
-- Fixes : Auto Password Generation
-- Group Department admin, music on hold service
-- Group Web policy fixes
-- Group Admin Department fixes
-- Department trunk group, trunking users fixes
-- Group Department admin breadcrumb issue fixes
-- Hunt Group / Unreachable (Display only department related data on Reroute To) fixes
-- Trunk group can not route to itself , fixes done
-- Password Rules apply
-- Fixes for Enterprise Admin : Can not Modify Default Domain for Enterprise #101
-- Added enable voice mail recording for users
-- Added import and audit message to pages
-- Change audit_limit view to 5000
 
 <br><br>
