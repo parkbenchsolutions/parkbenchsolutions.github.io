@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.10.12 (2020-8-27)
+sync with api
+
+<br><br>
 ## 5.10.11 (2020-8-27)
 ### Patches 
 
@@ -708,12 +712,5 @@ sync with api
 - Fixes : Group Paging Creation Issue #135
 - Fixes for : Cannot change or assign TNs on Users and Hunt Groups #131
 - Fixes for #131 (Create user icon is not visible)
-
-<br><br>
-## 5.2.1 (2020-1-14)
-### Patches 
-
-- Do not show resellers panel if the are a reseller provisioner
-- Added reseller service utilization report
 
 <br><br>
