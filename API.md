@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.12 (2020-8-27)
+### Patches 
+
+- Fixed cloudbuild-tag with ending quote
+
+<br><br>
 ## 5.10.11 (2020-8-27)
 ### Patches 
 
@@ -720,9 +726,5 @@ sync with web
 ### Patches 
 
 - Added alias to service provider service pack
-
-<br><br>
-## 5.2.2 (2020-1-15)
-sync with web
 
 <br><br>
