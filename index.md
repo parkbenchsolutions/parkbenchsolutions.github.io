@@ -1,7 +1,12 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.10.10 (2020-8-26)
-sync with api
+## 5.10.11 (2020-8-27)
+### Patches 
+
+- Added AIM to Emergency Zones for System, Reseller, and Group.
+- Cleaned up emergency response to simplify payload
+- Fixed controller security.
+- Blade file needed to be updated to fix the saving of the blacklisted field
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
