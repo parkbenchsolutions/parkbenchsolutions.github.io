@@ -7,7 +7,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.10.12 (2020-8-27)
-sync with api
+## 5.10.13 (2020-9-1)
+### Patches 
+
+- Fixes for: Event History #462
+- Event history search
+- Basic call logs fixes
 
   
