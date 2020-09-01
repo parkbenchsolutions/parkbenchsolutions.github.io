@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.13 (2020-9-1)
+### Patches 
+
+- Added user id to event history endpoint
+
+<br><br>
 ## 5.10.12 (2020-8-27)
 ### Patches 
 
@@ -720,11 +726,5 @@ sync with web
 <br><br>
 ## 5.2.4 (2020-1-17)
 sync with web
-
-<br><br>
-## 5.2.3 (2020-1-15)
-### Patches 
-
-- Added alias to service provider service pack
 
 <br><br>
