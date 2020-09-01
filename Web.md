@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.10.13 (2020-9-1)
+### Patches 
+
+- Fixes for: Event History #462
+- Event history search
+- Basic call logs fixes
+
+<br><br>
 ## 5.10.12 (2020-8-27)
 sync with api
 
@@ -703,14 +711,5 @@ fixed user password modify bug
 <br><br>
 ## 5.2.3 (2020-1-15)
 sync with api
-
-<br><br>
-## 5.2.2 (2020-1-15)
-### Patches 
-
-- Added branding column for group department
-- Fixes : Group Paging Creation Issue #135
-- Fixes for : Cannot change or assign TNs on Users and Hunt Groups #131
-- Fixes for #131 (Create user icon is not visible)
 
 <br><br>
