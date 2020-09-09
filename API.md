@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.15 (2020-9-9)
+### Patches 
+
+- Fixed event logging permissions for service provider id login
+
+<br><br>
 ## 5.10.14 (2020-9-9)
 ### Patches 
 
@@ -728,11 +734,5 @@ sync with web
 <br><br>
 ## 5.3.1 (2020-1-23)
 sync with web
-
-<br><br>
-## 5.3.0 (2020-1-23)
-### Minor Changes 
-
-- Added bulk bulk grp and sp clone
 
 <br><br>
