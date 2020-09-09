@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.10.14 (2020-9-9)
+### Patches 
+
+- Added endpoints, AIM and added missing fields from blade file.
+- Added vvm stream
+- Added event restictions based on login type
+- Added user_login_type restriction for events view
+- Added visual voicemail xsi-actions and api endpoints
+- Removed debug messages from vvm
+- Set verify cert for xsi
+
+<br><br>
 ## 5.10.13 (2020-9-1)
 ### Patches 
 
@@ -722,9 +734,5 @@ sync with web
 ### Minor Changes 
 
 - Added bulk bulk grp and sp clone
-
-<br><br>
-## 5.2.4 (2020-1-17)
-sync with web
 
 <br><br>
