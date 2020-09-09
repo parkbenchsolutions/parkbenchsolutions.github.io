@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.10.15 (2020-9-9)
+sync with api
+
+<br><br>
 ## 5.10.14 (2020-9-9)
 ### Patches 
 
@@ -750,9 +754,5 @@ sync with api
 
 - Issue fixes call center changePassword #117
 - Fixed spelling Deparment to Department
-
-<br><br>
-## 5.2.4 (2020-1-17)
-fixed user password modify bug
 
 <br><br>
