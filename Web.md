@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.10.16 (2020-9-11)
+### Patches 
+
+- Call forwarding selective service
+- Switch button fixes
+- Call to number add in call forwading salective
+- Add group policy permission on group level devices feature
+
+
+<br><br>
 ## 5.10.15 (2020-9-9)
 sync with api
 
@@ -743,16 +753,5 @@ sync with api
 ### Patches 
 
 - Fixed Department Name
-
-<br><br>
-## 5.3.0 (2020-1-23)
-### Minor Changes 
-
-- Fixes Odin stacked : Group Search for creating an Audit(If enter two or less char in search bar) #146
-
-### Patches 
-
-- Issue fixes call center changePassword #117
-- Fixed spelling Deparment to Department
 
 <br><br>
