@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.10.15 (2020-9-9)
+## 5.10.16 (2020-9-11)
 ### Patches 
 
-- Fixed event logging permissions for service provider id login
+- Updated Get User to work with Forgot Password
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
