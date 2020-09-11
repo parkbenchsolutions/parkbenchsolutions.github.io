@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.16 (2020-9-11)
+### Patches 
+
+- Updated Get User to work with Forgot Password
+
+<br><br>
 ## 5.10.15 (2020-9-9)
 ### Patches 
 
@@ -730,9 +736,5 @@ sync with web
 - Added alternate user id token
 - Added bulk clone sp and group
 - Added group device tag task bulk
-
-<br><br>
-## 5.3.1 (2020-1-23)
-sync with web
 
 <br><br>
