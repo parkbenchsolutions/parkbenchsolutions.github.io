@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.10.16 (2020-9-11)
+## 5.10.17 (2020-9-16)
 ### Patches 
 
-- Updated Get User to work with Forgot Password
+- Added voice message media content raw, AIM checking if userCustomUserNamePassword === true
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
