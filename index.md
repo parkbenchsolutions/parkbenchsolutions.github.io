@@ -7,13 +7,13 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.10.16 (2020-9-11)
+## 5.10.17 (2020-9-16)
 ### Patches 
 
-- Call forwarding selective service
-- Switch button fixes
-- Call to number add in call forwading salective
-- Add group policy permission on group level devices feature
-
+- Sca changes System level device can not be modify by Ent/Group Admin
+- Permission for device sca module
+- Phone number fixes for users
+- CSV Download has JSON Object instead of json String #485
+- Branding issue Group Calling Plans #529
 
   
