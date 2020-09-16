@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.10.17 (2020-9-16)
+### Patches 
+
+- Added voice message media content raw, AIM checking if userCustomUserNamePassword === true
+
+<br><br>
 ## 5.10.16 (2020-9-11)
 ### Patches 
 
@@ -727,14 +733,5 @@ sync with web
 ### Patches 
 
 - Added r22 login info for alternate user id
-
-<br><br>
-## 5.3.2 (2020-1-23)
-### Minor Changes 
-
-- Testing alternate user id
-- Added alternate user id token
-- Added bulk clone sp and group
-- Added group device tag task bulk
 
 <br><br>
