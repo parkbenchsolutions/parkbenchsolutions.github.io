@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.10.17 (2020-9-16)
+### Patches 
+
+- Sca changes System level device can not be modify by Ent/Group Admin
+- Permission for device sca module
+- Phone number fixes for users
+- CSV Download has JSON Object instead of json String #485
+- Branding issue Group Calling Plans #529
+
+<br><br>
 ## 5.10.16 (2020-9-11)
 ### Patches 
 
@@ -747,11 +757,5 @@ sync with api
 ### Patches 
 
 - Fixes : Clicking on Sorting icon-Audit Table, redirect admin to Enterprise Dashboard. #147
-
-<br><br>
-## 5.3.1 (2020-1-23)
-### Patches 
-
-- Fixed Department Name
 
 <br><br>
