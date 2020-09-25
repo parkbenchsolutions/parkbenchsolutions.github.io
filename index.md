@@ -1,18 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.11.0 (2020-9-25)
-### Minor Changes 
-
-- Fixed message list for read and unread
-- Added service provider delete to product master
-- Added visual voicemail to branding
-- Added branding modules for enterprise trunk, trunk call capacity, groups, branding, event history, settings, event history, settings
-
-### Patches 
-
-- Fix Pre Alerting IsActive Bug
-- Merge pull request #76 from parkbenchsolutions/bug/445-isActive-bug
-- Removed mediaContent from json message visual voice mail
+## 5.11.1 (2020-9-25)
+sync with api
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
