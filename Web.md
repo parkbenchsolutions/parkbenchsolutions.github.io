@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.11.1 (2020-9-25)
+### Patches 
+
+- System reset profile password service
+- Change password system admin rule
+- Adding loader in voice mail
+
+<br><br>
 ## 5.11.0 (2020-9-25)
 ### Minor Changes 
 
@@ -772,11 +780,5 @@ sync with api
 <br><br>
 ## 5.3.4 (2020-1-24)
 sync with api
-
-<br><br>
-## 5.3.3 (2020-1-23)
-### Patches 
-
-- ServiceName for service packs is now alias
 
 <br><br>
