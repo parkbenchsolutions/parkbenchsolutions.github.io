@@ -1,4 +1,31 @@
 # Web Latest Releases
+## 5.11.0 (2020-9-25)
+### Minor Changes 
+
+- Sp branding menu
+- Service provider level branding changes
+- Service provider add branding permissions
+- Service provider branding apply
+- Change acl for provisioning audit, migrate,imports
+- Service provider branding apply menu items with policy
+- Rename name sp level directory to business directory
+- Visual voice mail #496
+- Sp level delete branding permissions
+- Changes for system level branding permissions
+- Changes for delete sp
+- User id. or delete option is missing and enabled in branding module #545
+- Delete service provider hide if no permission for barnding read
+- Visual-voice-mail
+
+### Patches 
+
+- Call pickup
+- Group call pickup
+- Delete sp level branding checkbox disabed
+- Fixes for disabled branding in a method
+- Removing lint issue
+
+<br><br>
 ## 5.10.17 (2020-9-16)
 ### Patches 
 
@@ -751,11 +778,5 @@ sync with api
 ### Patches 
 
 - ServiceName for service packs is now alias
-
-<br><br>
-## 5.3.2 (2020-1-23)
-### Patches 
-
-- Fixes : Clicking on Sorting icon-Audit Table, redirect admin to Enterprise Dashboard. #147
 
 <br><br>
