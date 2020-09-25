@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.11.2 (2020-9-25)
+### Patches 
+
+- Fixed the download issue where file has no extension
+
+<br><br>
 ## 5.11.1 (2020-9-25)
 ### Patches 
 
@@ -775,10 +781,6 @@ sync with api
 
 <br><br>
 ## 5.3.5 (2020-1-28)
-sync with api
-
-<br><br>
-## 5.3.4 (2020-1-24)
 sync with api
 
 <br><br>
