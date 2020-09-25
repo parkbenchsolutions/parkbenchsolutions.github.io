@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.11.1 (2020-9-25)
+sync with api
+
+<br><br>
 ## 5.11.0 (2020-9-25)
 ### Minor Changes 
 
@@ -731,16 +735,5 @@ sync with web
 - Fixed series completion
 - Fixed count error in tasks
 - Added fix for call center agent skill
-
-<br><br>
-## 5.3.4 (2020-1-24)
-### Patches 
-
-- Group service update started
-- Added r22 login info for alternate user id
-- Added group service bulk task
-- Task group dn bulk assignment
-- Added trunk group call capacity task
-- MaxActiveCall check Trunk Group Call Capacity
 
 <br><br>
