@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.11.2 (2020-9-25)
+sync with api
+
+<br><br>
 ## 5.11.1 (2020-9-25)
 sync with api
 
@@ -724,16 +728,5 @@ sync with web
 ### Patches 
 
 - Added group detail dn search report
-
-<br><br>
-## 5.3.5 (2020-1-28)
-### Patches 
-
-- Trunk Group Trunk Group Task Bulk
-- Added system level default domain for logins
-- Added announcementUrl
-- Fixed series completion
-- Fixed count error in tasks
-- Added fix for call center agent skill
 
 <br><br>
