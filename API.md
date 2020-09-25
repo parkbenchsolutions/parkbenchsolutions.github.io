@@ -1,4 +1,19 @@
 # API Latest Releases
+## 5.11.0 (2020-9-25)
+### Minor Changes 
+
+- Fixed message list for read and unread
+- Added service provider delete to product master
+- Added visual voicemail to branding
+- Added branding modules for enterprise trunk, trunk call capacity, groups, branding, event history, settings, event history, settings
+
+### Patches 
+
+- Fix Pre Alerting IsActive Bug
+- Merge pull request #76 from parkbenchsolutions/bug/445-isActive-bug
+- Removed mediaContent from json message visual voice mail
+
+<br><br>
 ## 5.10.17 (2020-9-16)
 ### Patches 
 
@@ -727,11 +742,5 @@ sync with web
 - Task group dn bulk assignment
 - Added trunk group call capacity task
 - MaxActiveCall check Trunk Group Call Capacity
-
-<br><br>
-## 5.3.3 (2020-1-23)
-### Patches 
-
-- Added r22 login info for alternate user id
 
 <br><br>
