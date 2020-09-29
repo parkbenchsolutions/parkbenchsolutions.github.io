@@ -1,7 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.11.2 (2020-9-25)
-sync with api
+## 5.11.3 (2020-9-29)
+### Patches 
+
+- Ordered options for group bulk clone
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
