@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.11.4 (2020-9-30)
+syny with api
+
+<br><br>
 ## 5.11.3 (2020-9-29)
 ### Patches 
 
@@ -787,9 +791,5 @@ sync with api
 - Bulk CSV upload for, Clone Service Provider, Clone Group, Clone Device Tags.
 - Added exports
 - Removed client side import call
-
-<br><br>
-## 5.3.6 (2020-1-29)
-sync with api
 
 <br><br>
