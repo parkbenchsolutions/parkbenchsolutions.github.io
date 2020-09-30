@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.11.4 (2020-9-30)
+### Patches 
+
+- Fixed blacklisted
+- Added check for product masters values
+
+<br><br>
 ## 5.11.3 (2020-9-29)
 ### Patches 
 
@@ -717,16 +724,5 @@ patched export cluster db
 <br><br>
 ## 5.4.1 (2020-1-31)
 sync with web
-
-<br><br>
-## 5.4.0 (2020-1-31)
-### Minor Changes 
-
-- Added export task
-- Added create exports table migration
-
-### Patches 
-
-- Fixed completed status for export and query
 
 <br><br>
