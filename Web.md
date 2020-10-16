@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.12.0 (2020-10-16)
+sync with api
+
+<br><br>
 ## 5.11.5 (2020-10-16)
 ### Patches 
 
@@ -870,11 +874,5 @@ sync with api
 <br><br>
 ## 5.4.2 (2020-1-31)
 sync with api
-
-<br><br>
-## 5.4.1 (2020-1-31)
-### Patches 
-
-- Fixed hasLevel for import audits exports
 
 <br><br>
