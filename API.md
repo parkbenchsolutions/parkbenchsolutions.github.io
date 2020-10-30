@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.13.2 (2020-10-30)
+### Patches 
+
+- Voice messaging response undefined response bug fixed
+
+<br><br>
 ## 5.13.1 (2020-10-30)
 ### Patches 
 
@@ -754,11 +760,5 @@ sync with web
 ### Patches 
 
 - Export database cluster fix
-
-<br><br>
-## 5.4.4 (2020-1-31)
-### Patches 
-
-- Database export cluster debugging
 
 <br><br>
