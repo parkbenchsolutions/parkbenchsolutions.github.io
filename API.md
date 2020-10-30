@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.13.1 (2020-10-30)
+### Patches 
+
+- Added branding application type
+- Added nav bar category
+- Added branding modules for group and user calling plans
+
+<br><br>
 ## 5.13.0 (2020-10-23)
 ### Minor Changes 
 
@@ -752,9 +760,5 @@ sync with web
 ### Patches 
 
 - Database export cluster debugging
-
-<br><br>
-## 5.4.3 (2020-1-31)
-patched export cluster db
 
 <br><br>
