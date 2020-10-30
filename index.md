@@ -1,11 +1,11 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.13.0 (2020-10-23)
-### Minor Changes 
+## 5.13.1 (2020-10-30)
+### Patches 
 
-- Fixed media set names
-- Added database migration for menu bar
-- Added api return for top menu style large and page top menu title
+- Added branding application type
+- Added nav bar category
+- Added branding modules for group and user calling plans
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
