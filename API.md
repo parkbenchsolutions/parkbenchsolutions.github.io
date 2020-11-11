@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.13.3 (2020-11-11)
+### Patches 
+
+- Added password generator class code
+- Added passcode rules password rules generate
+- Added sip password generate
+- Fixed passcode rules generator for login type
+- Fixed user password login for comm pilot
+
+<br><br>
 ## 5.13.2 (2020-10-30)
 ### Patches 
 
@@ -754,11 +764,5 @@ sync with web
 ### Patches 
 
 - Patch for cluster event database
-
-<br><br>
-## 5.4.5 (2020-1-31)
-### Patches 
-
-- Export database cluster fix
 
 <br><br>
