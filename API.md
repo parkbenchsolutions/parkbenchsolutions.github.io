@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.13.4 (2020-11-11)
+### Patches 
+
+- Patched password rules ending comma
+
+<br><br>
 ## 5.13.3 (2020-11-11)
 ### Patches 
 
@@ -758,11 +764,5 @@ sync with web
 ### Patches 
 
 - Export listener cluster db
-
-<br><br>
-## 5.4.6 (2020-1-31)
-### Patches 
-
-- Patch for cluster event database
 
 <br><br>
