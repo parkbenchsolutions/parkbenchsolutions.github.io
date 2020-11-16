@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.13.5 (2020-11-13)
+Sync with API
+
+<br><br>
 ## 5.13.4 (2020-11-11)
 sync with api
 
@@ -944,10 +948,6 @@ Removed debug statements and return export id
 
 <br><br>
 ## 5.4.8 (2020-1-31)
-sync with api
-
-<br><br>
-## 5.4.7 (2020-1-31)
 sync with api
 
 <br><br>
