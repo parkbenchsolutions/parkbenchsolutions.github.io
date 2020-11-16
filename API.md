@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.13.5 (2020-11-16)
+Fix Group Extension Audit
+
+<br><br>
 ## 5.13.4 (2020-11-11)
 ### Patches 
 
@@ -758,11 +762,5 @@ sync with web
 ### Patches 
 
 - Added export database cluster support
-
-<br><br>
-## 5.4.7 (2020-1-31)
-### Patches 
-
-- Export listener cluster db
 
 <br><br>
