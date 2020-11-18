@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.13.6 (2020-11-18)
+### Patches 
+
+- Added group calling plan digit pattern to AIM
+- Added 2nd group modify
+- Added aim password passcode rules group and service provider
+
+<br><br>
 ## 5.13.5 (2020-11-16)
 Fix Group Extension Audit
 
@@ -756,11 +764,5 @@ sync with web
 ### Patches 
 
 - Removed debug statments and return export id
-
-<br><br>
-## 5.4.8 (2020-1-31)
-### Patches 
-
-- Added export database cluster support
 
 <br><br>
