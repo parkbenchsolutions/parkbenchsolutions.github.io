@@ -1,7 +1,11 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.13.5 (2020-11-16)
-Fix Group Extension Audit
+## 5.13.6 (2020-11-18)
+### Patches 
+
+- Added group calling plan digit pattern to AIM
+- Added 2nd group modify
+- Added aim password passcode rules group and service provider
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
