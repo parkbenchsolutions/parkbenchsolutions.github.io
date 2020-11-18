@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.13.6 (2020-11-18)
+### Patches 
+
+- Call-center-supervisor fixes#418
+- Query cache problem fixes
+- Bulk User Wizard Service Pack Limit Bug #665
+- Added fix for service instance profile update call center
+
+<br><br>
 ## 5.13.5 (2020-11-13)
 Sync with API
 
@@ -945,9 +954,5 @@ Initial release
 <br><br>
 ## 5.4.9 (2020-1-31)
 Removed debug statements and return export id
-
-<br><br>
-## 5.4.8 (2020-1-31)
-sync with api
 
 <br><br>
