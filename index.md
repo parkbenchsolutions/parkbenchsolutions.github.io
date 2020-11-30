@@ -1,11 +1,17 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.13.6 (2020-11-18)
-### Patches 
+## 5.14.0 (2020-11-30)
+### Minor Changes 
 
-- Added group calling plan digit pattern to AIM
-- Added 2nd group modify
-- Added aim password passcode rules group and service provider
+- Added timeZone conversion to fix utc client side issue
+- AIM fixed speed dial 100 bug when speedCodes is empty
+- Checking for criteria selective call acceptance and communictor service on import
+- Added update to import of group dn
+- Activate dn after assignment
+- Added changed for group dn create and group dn update and group create for aim
+- Fixed selective call acceptance bug
+- Added aim group call center enhanced reporting check
+- Added announcement capture for auto attendant
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
