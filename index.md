@@ -9,12 +9,26 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.13.6 (2020-11-18)
+## 5.14.0 (2020-11-30)
+### Minor Changes 
+
+- Bulk password rules bug #642
+- Bulk password generation
+- Call park group and pickup issue fixes #668
+- Space issue fixes call-park and call-pickup
+- Space fixes in group and users level
+- Call-center line spacing
+- Broadwork anywhere fixes
+- Call center thresholds
+- Hunt group pre-alerting service
+- Remove unwanted comment and query chache key purals
+- Hunt-group querychache key changes
+- Group Call Processing Policies SLOW and ERROR #672
+- Fixed spelling in agents and thresholds
+
 ### Patches 
 
-- Call-center-supervisor fixes#418
-- Query cache problem fixes
-- Bulk User Wizard Service Pack Limit Bug #665
-- Added fix for service instance profile update call center
+- Merge branch &#39;bug-fixes-pankaj&#39; of https://github.com/pankajs1306/odinweb into bug-fixes-pankaj
+- Thresholds
 
   
