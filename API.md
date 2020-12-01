@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.14.1 (2020-12-1)
+### Patches 
+
+- Fixed bug with close
+
+<br><br>
 ## 5.14.0 (2020-11-30)
 ### Minor Changes 
 
@@ -762,15 +768,5 @@ sync with web
 <br><br>
 ## 5.4.11 (2020-2-6)
 sync with web
-
-<br><br>
-## 5.4.10 (2020-2-4)
-### Patches 
-
-- SeriesCompletion fix
-- Series completion audit/import fix
-- Fixed group services update is Valid
-- Added group call processing module
-- Fixed trunk group call capacity task json
 
 <br><br>
