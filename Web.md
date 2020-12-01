@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.14.1 (2020-12-1)
+### Patches 
+
+- Group Emergency Zones #477
+
+<br><br>
 ## 5.14.0 (2020-11-30)
 ### Minor Changes 
 
@@ -965,13 +971,5 @@ Initial release
 - Moved user-intercept to react-query
 - User service setting Directed Call Pickup with Barge-in #128
 - Put bulk task template in order
-
-<br><br>
-## 5.4.10 (2020-2-4)
-### Patches 
-
-- Fixes for : (SIPT) Group Trunk Group Task Bulk #160  Using CSV Upload
-- Fixes for Issue : #152. False value is not showing in the table after upload CSV file: fixed by removing boolean to string value code and applied the same code on submit import.
-- Added group call processing policy  as a module permission
 
 <br><br>
