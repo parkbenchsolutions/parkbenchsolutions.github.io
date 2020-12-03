@@ -11,9 +11,13 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.14.1 (2020-12-1)
+## 5.14.2 (2020-12-3)
 ### Patches 
 
-- Group Emergency Zones #477
+- Call center call dnis
+- Call center dnis announcement
+- Calling plan branding
+- Group paging pre-alerting service fixes
+- Group paging changes
 
   
