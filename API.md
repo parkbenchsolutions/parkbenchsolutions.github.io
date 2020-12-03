@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.14.2 (2020-12-3)
+### Patches 
+
+- Submenu aa aim
+- Added branding module service provider call processing policies
+- Added Conference URI field
+- Added import for submenu code
+- Added code to check to see if the dn is assigned during a bulk user create if so ignore the number process
+
+<br><br>
 ## 5.14.1 (2020-12-1)
 ### Patches 
 
@@ -764,9 +774,5 @@ sync with web
 
 - Aa audio file fix import
 - Fixed call center premium import
-
-<br><br>
-## 5.4.11 (2020-2-6)
-sync with web
 
 <br><br>
