@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.15.1 (2020-12-21)
+### Patches 
+
+- Fixed EOD
+
+<br><br>
 ## 5.15.0 (2020-12-21)
 ### Minor Changes 
 
@@ -785,12 +791,5 @@ sync with web
 - Fixed user voice messaging password
 - Added group emergency zones to audit and import
 - Added group emergency zones to audit and import
-
-<br><br>
-## 5.4.13 (2020-2-10)
-### Patches 
-
-- Fixed device type get
-- Added comm pilot login for audio files if needed
 
 <br><br>
