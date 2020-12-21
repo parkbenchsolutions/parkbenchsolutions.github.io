@@ -1,4 +1,29 @@
 # API Latest Releases
+## 5.15.0 (2020-12-21)
+### Minor Changes 
+
+- Added cache to the system domains and the software version
+- Fixed call forwarding selective import
+- Fixed call forwarding selective AIM import
+- Fixed service provider dn AIM import
+- Fixed call capacity issues AIM import for new group id
+- Service Provider Schedules and Event APIs
+- Fixed bug with group incoming calling plans import
+- Added clone-aim-api for service provider schedules
+- Fixed max failed login attempts and password expires days when updating a zero value
+- Fixed cfa for users
+- Added error checking for user voice messaging AIM
+- Added code for submenu to not abort of fail aim
+- Fixed dnis issue for aim
+- Added controller and routes
+- Added api cor call center agent unavailable
+- Remove event comments and added xsd document to Enterprise Call Center Request
+- Added api route for enterprise call center enhanced reporting
+- Fix service provider schedule aim import
+- Fixed enterprise schedules AIM and update function
+- Fixed voice messaging portal AIM
+
+<br><br>
 ## 5.14.2 (2020-12-3)
 ### Patches 
 
@@ -767,12 +792,5 @@ sync with web
 
 - Fixed device type get
 - Added comm pilot login for audio files if needed
-
-<br><br>
-## 5.4.12 (2020-2-10)
-### Patches 
-
-- Aa audio file fix import
-- Fixed call center premium import
 
 <br><br>
