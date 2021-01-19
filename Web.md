@@ -1,4 +1,36 @@
 # Web Latest Releases
+## 5.16.0 (2021-1-19)
+### Minor Changes 
+
+- Call centers link
+- Call center routing
+- Call center announcements list
+- Sp enterprise tabs
+- Call center announcements list
+- Filter enterprise panel
+- Enterprise link dashboard
+- Dashboard left menu items
+- Message for clone
+- Service-provider-schedules
+- Group Schedule porting on react and Separate Schedules(Enterprise Schedules - Group Schedules) on Group Level Schedules #718
+- Separate Schedules(Enterprise Schedules - Group Schedules) on Group Level Schedules #718
+- Group level schedules
+- Service provider schedule UI Enhancement
+- Schedules enhancement
+- Bump axios from 0.19.2 to 0.21.1
+- Routing call center
+- Added voice messaging bulk task
+- Fixed verbage on tasks
+- Agent unavailable codes #686
+- Intercept group active/deactive fixes #749
+- Issue when using Service Provider Schedules on Group/User Level #730
+- Utilization Report Numbers #750
+- Fixes for enhance reporting settings
+- Utilization Report Numbers #750
+- Not able to change Active Status of Criteria(Sequential Ring &amp; Simultaneous Ring Personal) #764
+- Emergency Call Notification #754
+
+<br><br>
 ## 5.15.1 (2020-12-21)
 sync with api
 
@@ -987,9 +1019,5 @@ Fixed access level for system domains
 ### Patches 
 
 - Fixed export reseller option dashboard
-
-<br><br>
-## 5.4.14 (2020-2-11)
-sync with api
 
 <br><br>
