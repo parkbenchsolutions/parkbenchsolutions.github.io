@@ -1,4 +1,26 @@
 # API Latest Releases
+## 5.16.0 (2021-1-19)
+### Minor Changes 
+
+- Added user-music-onhold-user
+- Added unavailable code settings
+- Update UserMusicOnHoldController.php
+- Update EnterpriseCallCenterAgentUnavailableCodeModifyRequest.blade.php
+- Added group service instance privacy
+- Added Service Provider Emergency Call Notification
+- Added service provider integrated IMP settings
+- Added integrated imp service provider
+- Added task for user voice messaging
+- Added bulk group trunk group create task
+- Added call center types to product master table
+- Added bulk group trunk group
+- Fixed ent call center unavailable agent code settings
+- Added isPilotUser to user create
+- Added task as setupNumber
+- Added premium indicator to product master services
+- Added premium enterprse services as indicator intable
+
+<br><br>
 ## 5.15.1 (2020-12-21)
 ### Patches 
 
@@ -782,14 +804,5 @@ sync with web
 <br><br>
 ## 5.4.15 (2020-2-11)
 sync with web
-
-<br><br>
-## 5.4.14 (2020-2-11)
-### Patches 
-
-- SipAliasList fix for  groupVoiceMessagingPortal import
-- Fixed user voice messaging password
-- Added group emergency zones to audit and import
-- Added group emergency zones to audit and import
 
 <br><br>
