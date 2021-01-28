@@ -25,35 +25,32 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.16.0 (2021-1-19)
+## 5.17.0 (2021-1-28)
 ### Minor Changes 
 
-- Call centers link
-- Call center routing
-- Call center announcements list
-- Sp enterprise tabs
-- Call center announcements list
-- Filter enterprise panel
-- Enterprise link dashboard
-- Dashboard left menu items
-- Message for clone
-- Service-provider-schedules
-- Group Schedule porting on react and Separate Schedules(Enterprise Schedules - Group Schedules) on Group Level Schedules #718
-- Separate Schedules(Enterprise Schedules - Group Schedules) on Group Level Schedules #718
-- Group level schedules
-- Service provider schedule UI Enhancement
-- Schedules enhancement
-- Bump axios from 0.19.2 to 0.21.1
-- Routing call center
-- Added voice messaging bulk task
-- Fixed verbage on tasks
-- Agent unavailable codes #686
-- Intercept group active/deactive fixes #749
-- Issue when using Service Provider Schedules on Group/User Level #730
-- Utilization Report Numbers #750
-- Fixes for enhance reporting settings
-- Utilization Report Numbers #750
-- Not able to change Active Status of Criteria(Sequential Ring &amp; Simultaneous Ring Personal) #764
-- Emergency Call Notification #754
+- Statitics
+- Fixes for: Password in Group Paging Profile : Do we need this?? #636
+- Fixes for : UI: Service Provider Call Processing Policies #478
+- Group paging issue fixes #779
+- Hunt group issue fixes
+- Hunt group breadcrumb and service assignment issue fixes
+- Searching issue fixed for hunt-group
+- Call park fixes creating
+- Fixes hunt group agent different page breadcrumb
+- Branding delete hunt- group
+- Fix for: BreadCrumb Auto Attendant meet me bridge
+- Hunt group and other services feature access code
+- Call park users load fixes
+- Added user.update task
+- Changes done call disposition code fixes
+- Added password rules to clone
+- Call processing policy
+- Call processing policy ent
+- Meet me conferencing service fixes
+- Group meet services
+- Group meetme confrencing service
+- Group meet me conferencing service
+- Changes are done for replace userId to serviceUserId
+- Changes for user incomming calling plans
 
   
