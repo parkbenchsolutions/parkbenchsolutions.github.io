@@ -1,25 +1,27 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.16.0 (2021-1-19)
+## 5.17.0 (2021-1-28)
 ### Minor Changes 
 
-- Added user-music-onhold-user
-- Added unavailable code settings
-- Update UserMusicOnHoldController.php
-- Update EnterpriseCallCenterAgentUnavailableCodeModifyRequest.blade.php
-- Added group service instance privacy
-- Added Service Provider Emergency Call Notification
-- Added service provider integrated IMP settings
-- Added integrated imp service provider
-- Added task for user voice messaging
-- Added bulk group trunk group create task
-- Added call center types to product master table
-- Added bulk group trunk group
-- Fixed ent call center unavailable agent code settings
-- Added isPilotUser to user create
-- Added task as setupNumber
-- Added premium indicator to product master services
-- Added premium enterprse services as indicator intable
+- Fixed internal source and source moh
+- Fixed logic for auto generate password
+- Added user update task
+- Moved AIM service packs
+- Added password rules to clone
+- Merge pull request #159 from parkbenchsolutions/clone/password-rules
+- Fixed useServiceProviderDCLIDSetting
+- Testing r24 import exclude deprecated services
+- 3G/4G Continuity has been removed in r24 aim
+- Fixed group services AIM import
+- Added deprecated r24 group services
+- Removed allowMobileDNForRedirectingIdentity
+- Added executive assistant
+- Added executive assistants
+- Added executive filtering
+- Added exective criteria filtering
+- Added available users to executive assistant
+- Added executive screening and alerting
+- Fixed user communication barring delete
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
