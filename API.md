@@ -1,4 +1,28 @@
 # API Latest Releases
+## 5.17.0 (2021-1-28)
+### Minor Changes 
+
+- Fixed internal source and source moh
+- Fixed logic for auto generate password
+- Added user update task
+- Moved AIM service packs
+- Added password rules to clone
+- Merge pull request #159 from parkbenchsolutions/clone/password-rules
+- Fixed useServiceProviderDCLIDSetting
+- Testing r24 import exclude deprecated services
+- 3G/4G Continuity has been removed in r24 aim
+- Fixed group services AIM import
+- Added deprecated r24 group services
+- Removed allowMobileDNForRedirectingIdentity
+- Added executive assistant
+- Added executive assistants
+- Added executive filtering
+- Added exective criteria filtering
+- Added available users to executive assistant
+- Added executive screening and alerting
+- Fixed user communication barring delete
+
+<br><br>
 ## 5.16.0 (2021-1-19)
 ### Minor Changes 
 
@@ -800,9 +824,5 @@ sync with web
 - Changed retries from 12 to 9 for audit import export
 - Added domain support
 - Added service provider domain clone
-
-<br><br>
-## 5.4.15 (2020-2-11)
-sync with web
 
 <br><br>
