@@ -1,4 +1,33 @@
 # Web Latest Releases
+## 5.17.0 (2021-1-28)
+### Minor Changes 
+
+- Statitics
+- Fixes for: Password in Group Paging Profile : Do we need this?? #636
+- Fixes for : UI: Service Provider Call Processing Policies #478
+- Group paging issue fixes #779
+- Hunt group issue fixes
+- Hunt group breadcrumb and service assignment issue fixes
+- Searching issue fixed for hunt-group
+- Call park fixes creating
+- Fixes hunt group agent different page breadcrumb
+- Branding delete hunt- group
+- Fix for: BreadCrumb Auto Attendant meet me bridge
+- Hunt group and other services feature access code
+- Call park users load fixes
+- Added user.update task
+- Changes done call disposition code fixes
+- Added password rules to clone
+- Call processing policy
+- Call processing policy ent
+- Meet me conferencing service fixes
+- Group meet services
+- Group meetme confrencing service
+- Group meet me conferencing service
+- Changes are done for replace userId to serviceUserId
+- Changes for user incomming calling plans
+
+<br><br>
 ## 5.16.0 (2021-1-19)
 ### Minor Changes 
 
@@ -1013,11 +1042,5 @@ Fixed access level for system domains
 
 - Added domain cloning for group
 - Added service-provider domain clone
-
-<br><br>
-## 5.4.15 (2020-2-11)
-### Patches 
-
-- Fixed export reseller option dashboard
 
 <br><br>
