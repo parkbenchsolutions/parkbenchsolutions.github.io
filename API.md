@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.17.1 (2021-1-29)
+### Patches 
+
+- Added AIM for executive assistant
+- Added call center monitoring AIM agent request
+
+<br><br>
 ## 5.17.0 (2021-1-28)
 ### Minor Changes 
 
@@ -815,14 +822,5 @@ sync with web
 ### Patches 
 
 - Fixed access level for system domains
-
-<br><br>
-## 5.5.0 (2020-2-14)
-### Minor Changes 
-
-- Series completion audit fix multiple instances
-- Changed retries from 12 to 9 for audit import export
-- Added domain support
-- Added service provider domain clone
 
 <br><br>
