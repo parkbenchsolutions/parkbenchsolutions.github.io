@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.19.0 (2021-2-23)
+5.19.0
+
+<br><br>
 ## 5.18.0 (2021-2-23)
 ### Minor Changes 
 
@@ -824,11 +828,5 @@ sync with web
 <br><br>
 ## 5.5.3 (2020-2-18)
 sync with web
-
-<br><br>
-## 5.5.2 (2020-2-18)
-### Patches 
-
-- Stream export data
 
 <br><br>
