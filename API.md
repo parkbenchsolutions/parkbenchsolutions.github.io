@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.19.1 (2021-2-23)
+### Patches 
+
+- Fixed build error with reseller emergency notification
+
+<br><br>
 ## 5.19.0 (2021-2-23)
 5.19.0
 
@@ -823,10 +829,6 @@ sync with web
 
 <br><br>
 ## 5.5.4 (2020-2-24)
-sync with web
-
-<br><br>
-## 5.5.3 (2020-2-18)
 sync with web
 
 <br><br>
