@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.19.0 (2021-2-23)
+sync with api
+
+<br><br>
 ## 5.18.0 (2021-2-23)
 ### Minor Changes 
 
@@ -1073,9 +1077,5 @@ sync with api
 - Merge pull request #190 from anshuporwal01/Anshu-Bug-Fixes-Feb
 - Modified password generator for special chars
 - Merge Merge branch &#39;master&#39; of github.com:parkbenchsolutions/odinweb
-
-<br><br>
-## 5.5.3 (2020-2-18)
-sync with api
 
 <br><br>
