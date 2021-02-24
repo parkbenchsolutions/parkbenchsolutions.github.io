@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.19.3 (2021-2-24)
+### Patches 
+
+> fixed the json post to phonism where the options are being sent down as a json array of options to phonism client
+
+```php
+$res = $this->client->request($method, self::$URL . $url, ['json' => $options]);
+```
+
+
+
+<br><br>
 ## 5.19.2 (2021-2-24)
 # odin-api release notes
 
@@ -860,9 +872,5 @@ sync with api
 ### Patches 
 
 - Socket stream byte increase
-
-<br><br>
-## 5.5.5 (2020-2-24)
-sync with web
 
 <br><br>
