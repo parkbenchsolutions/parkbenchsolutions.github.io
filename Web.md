@@ -1,4 +1,16 @@
 # Web Latest Releases
+## 5.19.3 (2021-2-24)
+### Patches (API SYNC)
+
+> fixed the json post to phonism where the options are being sent down as a json array of options to phonism client
+
+```php
+$res = $this->client->request($method, self::$URL . $url, ['json' => $options]);
+```
+
+
+
+<br><br>
 ## 5.19.2 (2021-2-24)
 # odin-api release notes
 
@@ -1086,19 +1098,5 @@ sync with api
 - Changed verbage for Transfer to Operator Timeout Seconds auto attendant
 - Added all dns from group for dept clid
 - Fixes Number activation #195
-
-<br><br>
-## 5.6.0 (2020-3-4)
-### Minor Changes 
-
-- Group series completion changes
-- Code sort changes #114
-- React-query
-
-### Patches 
-
-- Fixes change button name edit to save #114
-- Added &lt;br&gt; between series completion
-- Removed never used vars
 
 <br><br>
