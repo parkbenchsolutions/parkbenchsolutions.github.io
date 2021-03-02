@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.19.4 (2021-3-2)
+### Patches 
+
+-sync with API server
+
+<br><br>
 ## 5.19.3 (2021-2-24)
 ### Patches 
 
@@ -866,11 +872,5 @@ sync with api
 - Fixed bug with firstname add profile to last name
 - Fixed collaborate bridge profile modify
 - Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
-
-<br><br>
-## 5.6.0 (2020-3-4)
-### Patches 
-
-- Socket stream byte increase
 
 <br><br>
