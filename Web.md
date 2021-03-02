@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.19.6 (2021-3-2)
+### Patches 
+
+- Moh
+- Music on hold for group ported from angular to react
+
+<br><br>
 ## 5.19.5 (2021-3-2)
 ### Patches 
 
@@ -1080,12 +1087,5 @@ sync with api
 <br><br>
 ## 5.7.2 (2020-3-27)
 sync with api
-
-<br><br>
-## 5.7.1 (2020-3-26)
-### Patches 
-
-- Cancel button fixes
-- Series completion changes
 
 <br><br>
