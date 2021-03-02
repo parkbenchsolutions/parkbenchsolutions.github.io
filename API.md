@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.19.6 (2021-3-2)
+sync with odinweb
+
+<br><br>
 ## 5.19.5 (2021-3-2)
 sync with odin web
 
@@ -852,21 +856,5 @@ sync with api
 
 - Removed debug statement
 - Added voice password to event
-
-<br><br>
-## 5.7.0 (2020-3-23)
-### Minor Changes 
-
-- Steam tests for exports
-- Export
-- Export and import listener upgraded
-- Export controller details json added
-- Export logs
-- Socket stream byte increase
-- Added exports migration table
-- Fixed bug with firstname add profile to last name
-- Fixed collaborate bridge profile modify
-- Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
-- Fixed inboundSeconds outboundSeconds user call report
 
 <br><br>
