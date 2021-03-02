@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.19.5 (2021-3-2)
+### Patches 
+
+- User music on hold
+- User music on hold: added announcements to music on hold user
+
+<br><br>
 ## 5.19.4 (2021-3-2)
 ### Patches 
 
@@ -1080,22 +1087,5 @@ sync with api
 
 - Cancel button fixes
 - Series completion changes
-
-<br><br>
-## 5.7.0 (2020-3-23)
-### Minor Changes 
-
-- Fixes change button name edit to save #114
-- Code sort changes #114
-- React-query
-- Added exports details
-- Export labels
-- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
-- Added all dns from group for dept clid
-
-### Patches 
-
-- Added &lt;br&gt; between series completion
-- Removed never used vars
 
 <br><br>
