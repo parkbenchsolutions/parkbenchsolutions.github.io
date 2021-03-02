@@ -1,15 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.19.3 (2021-2-24)
+## 5.19.4 (2021-3-2)
 ### Patches 
 
-> fixed the json post to phonism where the options are being sent down as a json array of options to phonism client
-
-```php
-$res = $this->client->request($method, self::$URL . $url, ['json' => $options]);
-```
-
-
+-sync with API server
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
