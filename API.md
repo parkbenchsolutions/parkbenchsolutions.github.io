@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.19.5 (2021-3-2)
+sync with odin web
+
+<br><br>
 ## 5.19.4 (2021-3-2)
 ### Patches 
 
@@ -864,13 +868,5 @@ sync with api
 - Fixed collaborate bridge profile modify
 - Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
 - Fixed inboundSeconds outboundSeconds user call report
-
-<br><br>
-## 5.6.1 (2020-3-6)
-### Patches 
-
-- Fixed bug with firstname add profile to last name
-- Fixed collaborate bridge profile modify
-- Fixed group trunk group pilotUserCallingLineIdentityForEmergencyCallsPolicy
 
 <br><br>
