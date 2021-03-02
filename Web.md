@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.19.4 (2021-3-2)
+### Patches 
+
+- Breadcrumb issue fixes #783
+- Change path name
+- Group Call Park Breadcrumb fixed to insert correct serviceProviderId and groupId
+
+<br><br>
 ## 5.19.3 (2021-2-24)
 ### Patches (API SYNC)
 
@@ -1089,14 +1097,5 @@ sync with api
 
 - Added &lt;br&gt; between series completion
 - Removed never used vars
-
-<br><br>
-## 5.6.1 (2020-3-6)
-### Patches 
-
-- Fixes Disable Group Admin Policies Dropdowns #195 Remove duplicate Trunck Group name from bulk creation
-- Changed verbage for Transfer to Operator Timeout Seconds auto attendant
-- Added all dns from group for dept clid
-- Fixes Number activation #195
 
 <br><br>
