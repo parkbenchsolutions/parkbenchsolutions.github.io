@@ -1,4 +1,9 @@
 # API Latest Releases
+## 5.19.8 (2021-3-3)
+- sync with odinweb
+- Alternate Numbers TN field caused logout on User login
+
+<br><br>
 ## 5.19.7 (2021-3-3)
 ### Patches 
 
@@ -848,12 +853,6 @@ sync with api
 
 - Fixed inboundSeconds outboundSeconds user call report
 - Tls changes
-- Added new trunk and group limit to bulk
-
-<br><br>
-## 5.7.2 (2020-3-27)
-### Patches 
-
 - Added new trunk and group limit to bulk
 
 <br><br>
