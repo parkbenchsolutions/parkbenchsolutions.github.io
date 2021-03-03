@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.19.9 (2021-3-3)
+### Patches 
+
+- #867 service calling plans changes
+- Group Calling Plans Menu Fix
+
+<br><br>
 ## 5.19.8 (2021-3-3)
 ### Patches 
 
@@ -1091,9 +1098,5 @@ sync with api
 <br><br>
 ## 5.7.5 (2020-4-3)
 sync with api
-
-<br><br>
-## 5.7.4 (2020-4-3)
-sync with web
 
 <br><br>
