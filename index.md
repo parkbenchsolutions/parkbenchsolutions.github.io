@@ -1,10 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.19.9 (2021-3-3)
-### sync with odin web 
+## 5.20.0 (2021-3-3)
+### Minor Changes 
 
-- #867 service calling plans changes
-- Group Calling Plans Menu Fix
+- Added branding module phonism disabled by default
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
