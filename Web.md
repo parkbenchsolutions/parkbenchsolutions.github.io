@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.19.7 (2021-3-3)
+### Patches 
+
+- User profile branding
+- User can no longer edit profile if user profile is only set to read in branding
+
+<br><br>
 ## 5.19.6 (2021-3-2)
 ### Patches 
 
@@ -1082,10 +1089,6 @@ sync with web
 
 <br><br>
 ## 5.7.3 (2020-4-1)
-sync with api
-
-<br><br>
-## 5.7.2 (2020-3-27)
 sync with api
 
 <br><br>
