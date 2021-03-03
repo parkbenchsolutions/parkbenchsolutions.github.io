@@ -1,4 +1,19 @@
 # Web Latest Releases
+## 5.20.0 (2021-3-3)
+### Minor Changes 
+
+- Virtual on net group service add and listing screens
+- Virtual on net service
+- On net service delete
+- Added * to Type required field
+- Frontend form validation
+
+### Patches 
+
+- Blank screen issue fixes validation
+- Changed &quot;None&quot; to &quot;Select&quot;
+
+<br><br>
 ## 5.19.9 (2021-3-3)
 ### Patches 
 
@@ -1094,9 +1109,5 @@ sync with api
 <br><br>
 ## 5.7.6 (2020-4-3)
 5.7.6
-
-<br><br>
-## 5.7.5 (2020-4-3)
-sync with api
 
 <br><br>
