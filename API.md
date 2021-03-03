@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.19.9 (2021-3-3)
+### sync with odin web 
+
+- #867 service calling plans changes
+- Group Calling Plans Menu Fix
+
+<br><br>
 ## 5.19.8 (2021-3-3)
 - sync with odinweb
 - Alternate Numbers TN field caused logout on User login
@@ -842,17 +849,5 @@ sync with api
 ### Patches 
 
 - Lowered number of retries to 5
-
-<br><br>
-## 5.7.3 (2020-4-1)
-### Minor Changes 
-
-- Voice Messaging and Tls
-
-### Patches 
-
-- Fixed inboundSeconds outboundSeconds user call report
-- Tls changes
-- Added new trunk and group limit to bulk
 
 <br><br>
