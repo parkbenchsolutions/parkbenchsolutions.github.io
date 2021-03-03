@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.20.1 (2021-3-3)
+### Patches 
+
+- Fixed is-active for connector
+
+<br><br>
 ## 5.20.0 (2021-3-3)
 ### Minor Changes 
 
@@ -843,11 +849,5 @@ sync
 <br><br>
 ## 5.7.6 (2020-4-3)
 sync with api
-
-<br><br>
-## 5.7.5 (2020-4-3)
-### Patches 
-
-- Fixed reattempts on AIM
 
 <br><br>
