@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.19.7 (2021-3-3)
+### Patches 
+
+- Added base classes for webex
+
+<br><br>
 ## 5.19.6 (2021-3-2)
 sync with odinweb
 
@@ -849,12 +855,5 @@ sync with api
 ### Patches 
 
 - Added new trunk and group limit to bulk
-
-<br><br>
-## 5.7.1 (2020-3-26)
-### Patches 
-
-- Removed debug statement
-- Added voice password to event
 
 <br><br>
