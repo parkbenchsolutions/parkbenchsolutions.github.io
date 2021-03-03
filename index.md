@@ -5,10 +5,10 @@ sync with odinweb
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.19.6 (2021-3-2)
+## 5.19.7 (2021-3-3)
 ### Patches 
 
-- Moh
-- Music on hold for group ported from angular to react
+- User profile branding
+- User can no longer edit profile if user profile is only set to read in branding
 
   
