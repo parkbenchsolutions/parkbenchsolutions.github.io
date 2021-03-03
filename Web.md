@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.19.8 (2021-3-3)
+### Patches 
+
+- Alternate numbers
+- Alternate numbers fixes
+- Fixes for user login type phone numbers
+- Alternate Numbers TN field caused logout on User login
+
+<br><br>
 ## 5.19.7 (2021-3-3)
 ### Patches 
 
@@ -1086,9 +1095,5 @@ sync with api
 <br><br>
 ## 5.7.4 (2020-4-3)
 sync with web
-
-<br><br>
-## 5.7.3 (2020-4-1)
-sync with api
 
 <br><br>
