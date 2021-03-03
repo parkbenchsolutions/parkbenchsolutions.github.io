@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.20.0 (2021-3-3)
+### Minor Changes 
+
+- Added branding module phonism disabled by default
+
+<br><br>
 ## 5.19.9 (2021-3-3)
 ### sync with odin web 
 
@@ -843,11 +849,5 @@ sync with api
 ### Patches 
 
 - Fixed reattempts on AIM
-
-<br><br>
-## 5.7.4 (2020-4-3)
-### Patches 
-
-- Lowered number of retries to 5
 
 <br><br>
