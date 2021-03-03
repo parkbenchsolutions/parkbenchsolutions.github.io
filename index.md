@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.20.0 (2021-3-3)
-### Minor Changes 
+## 5.20.1 (2021-3-3)
+### Patches 
 
-- Added branding module phonism disabled by default
+- Fixed is-active for connector
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
