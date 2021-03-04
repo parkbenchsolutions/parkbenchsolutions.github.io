@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.20.1 (2021-3-3)
+## 5.20.2 (2021-3-4)
 ### Patches 
 
-- Fixed is-active for connector
+- Fixed url https for phonism device management
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
