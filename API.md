@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.20.2 (2021-3-4)
+### Patches 
+
+- Fixed url https for phonism device management
+
+<br><br>
 ## 5.20.1 (2021-3-3)
 ### Patches 
 
@@ -845,9 +851,5 @@ sync
 ### Patches 
 
 - Added rollback of a minute
-
-<br><br>
-## 5.7.6 (2020-4-3)
-sync with api
 
 <br><br>
