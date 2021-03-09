@@ -1,9 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.20.3 (2021-3-9)
-### Patches 
-
-- Added trunk group call capacity to clone
+## 5.21.0 (2021-3-9)
+sync with odinweb
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
