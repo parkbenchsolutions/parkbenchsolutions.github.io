@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.21.0 (2021-3-9)
+sync with odinweb
+
+<br><br>
 ## 5.20.3 (2021-3-9)
 ### Patches 
 
@@ -845,11 +849,5 @@ sync
 ### Patches 
 
 - Unset alias
-
-<br><br>
-## 5.7.8 (2020-4-3)
-### Patches 
-
-- Changed delay for imports to 90 seconds
 
 <br><br>
