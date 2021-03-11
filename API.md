@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.22.1 (2021-3-11)
+### Patches 
+
+- Added min updated as delete for inventory
+
+<br><br>
 ## 5.22.0 (2021-3-11)
 ### Minor Changes 
 
@@ -843,11 +849,5 @@ sync
 ### Patches 
 
 - Moved hunt group to import priority 4
-
-<br><br>
-## 5.7.10 (2020-4-4)
-### Patches 
-
-- Moved hunt group to a higher priority
 
 <br><br>
