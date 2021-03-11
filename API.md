@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.22.0 (2021-3-11)
+### Minor Changes 
+
+- Reporting/Inventory queue added to api tools
+
+<br><br>
 ## 5.21.0 (2021-3-9)
 sync with odinweb
 
@@ -843,11 +849,5 @@ sync
 ### Patches 
 
 - Moved hunt group to a higher priority
-
-<br><br>
-## 5.7.9 (2020-4-3)
-### Patches 
-
-- Unset alias
 
 <br><br>
