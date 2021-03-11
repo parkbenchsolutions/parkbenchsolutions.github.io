@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.22.2 (2021-3-11)
+sync with web
+
+<br><br>
 ## 5.22.1 (2021-3-11)
 sync with api
 
@@ -1146,10 +1150,6 @@ sync with api for options sync for audit, import and migrate
 
 <br><br>
 ## 5.7.14 (2020-4-10)
-sync with api
-
-<br><br>
-## 5.7.13 (2020-4-9)
 sync with api
 
 <br><br>
