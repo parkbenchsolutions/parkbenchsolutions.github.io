@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.22.5 (2021-3-11)
+sync with api
+
+<br><br>
 ## 5.22.4 (2021-3-11)
 sync with api
 
@@ -1111,9 +1115,5 @@ sync with api
 - Fix: group admin schedules #373
 - Fixes: Department detail has no left menu #374
 - User-Personal-Phone-List : accept string also
-
-<br><br>
-## 5.8.1 (2020-4-21)
-sync with api for options sync for audit, import and migrate
 
 <br><br>
