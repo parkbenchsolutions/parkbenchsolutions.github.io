@@ -1,4 +1,15 @@
 # API Latest Releases
+## 5.22.4 (2021-3-11)
+### Patches 
+
+- Fixed the groupTable delete
+- Fixed minUpdate function in models
+- Fixed integer returns on serviceProviderId and groupId
+- Added string conversion to broadworks ids that are coming back is integer
+- Added locationDialingCode and zipOrPostalCode to string conversion
+- Fixed key lookup special columns
+
+<br><br>
 ## 5.22.3 (2021-3-11)
 ### Patches 
 
@@ -839,13 +850,5 @@ sync
 ### Patches 
 
 - Added new group device upsert bulk task
-
-<br><br>
-## 5.7.13 (2020-4-9)
-### Patches 
-
-- Added user and group device use class
-- Added Group Device rebuild and reset to &#39;&#39;user.authentication.update&quot; task
-- Added events for device reset and device rebuild
 
 <br><br>
