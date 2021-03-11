@@ -1,13 +1,13 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.22.0 (2021-3-11)
-### Minor Changes 
+## 5.22.1 (2021-3-11)
+### Patches 
 
-- Reporting/Inventory queue added to api tools
+- Added min updated as delete for inventory
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.22.0 (2021-3-11)
+## 5.22.1 (2021-3-11)
 sync with api
 
   
