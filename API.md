@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.22.2 (2021-3-11)
+### Patches 
+
+- Delete by now date group and user inventory
+
+<br><br>
 ## 5.22.1 (2021-3-11)
 ### Patches 
 
@@ -843,11 +849,5 @@ sync
 - Added bulk integrated IMP
 - Removed integrated imp requirement for isActive
 - Removed debug integrated IMP
-
-<br><br>
-## 5.7.11 (2020-4-4)
-### Patches 
-
-- Moved hunt group to import priority 4
 
 <br><br>
