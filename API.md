@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.22.5 (2021-3-11)
+### Patches 
+
+- Strpos for faster processing
+
+<br><br>
 ## 5.22.4 (2021-3-11)
 ### Patches 
 
@@ -844,11 +850,5 @@ sync
 - Updated fieldname for maxConcurrentTerminatingAlertingRequests
 - Cleaned up template
 - Fix some data bug going into Export and Import tables
-
-<br><br>
-## 5.7.14 (2020-4-10)
-### Patches 
-
-- Added new group device upsert bulk task
 
 <br><br>
