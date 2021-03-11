@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.22.3 (2021-3-11)
+### Patches 
+
+- Fixed tblUsers minUpdated delete
+
+<br><br>
 ## 5.22.2 (2021-3-11)
 ### Patches 
 
@@ -841,13 +847,5 @@ sync
 - Added user and group device use class
 - Added Group Device rebuild and reset to &#39;&#39;user.authentication.update&quot; task
 - Added events for device reset and device rebuild
-
-<br><br>
-## 5.7.12 (2020-4-7)
-### Patches 
-
-- Added bulk integrated IMP
-- Removed integrated imp requirement for isActive
-- Removed debug integrated IMP
 
 <br><br>
