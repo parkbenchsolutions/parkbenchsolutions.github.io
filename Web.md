@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.22.8 (2021-3-16)
+### Patches 
+
+- Changed the typo sentence from *Nothing Foundfor* to *No Results Found For: ...*
+
+<br><br>
 ## 5.22.7 (2021-3-16)
 ### Patches 
 
@@ -1041,9 +1047,5 @@ sync version with api
 
 - Fixes for : reseller add from provisioning and system level #385
 - Adding version on Reseller
-
-<br><br>
-## 5.9.2 (2020-6-22)
-sync
 
 <br><br>
