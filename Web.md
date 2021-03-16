@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.22.7 (2021-3-16)
+### Patches 
+
+- Fixed Reseller Dashboard menu, it now contains Ent route
+
+<br><br>
 ## 5.22.6 (2021-3-16)
 ### Patches 
 
@@ -1039,9 +1045,5 @@ sync version with api
 <br><br>
 ## 5.9.2 (2020-6-22)
 sync
-
-<br><br>
-## 5.9.1 (2020-6-22)
-sync with api
 
 <br><br>
