@@ -5,9 +5,9 @@ sync with web
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.22.6 (2021-3-16)
+## 5.22.7 (2021-3-16)
 ### Patches 
 
-- Fixes for #906 Previous angular logic was &quot; if module is not exist in the modules array then default permissions are { create: true, read: true, update: true, delete: true } &quot; Changed this logic to &quot;default permissions to { create: false, read: false, update: false, delete: false }&quot;
+- Fixed Reseller Dashboard menu, it now contains Ent route
 
   
