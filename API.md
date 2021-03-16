@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.22.7 (2021-3-16)
+sync with odinweb
+
+<br><br>
 ## 5.22.6 (2021-3-16)
 sync with web
 
@@ -817,11 +821,5 @@ sync
 - Fixed branding email save
 - Fixed service provider routing profile update
 - Fixed audit and import for departments
-
-<br><br>
-## 5.8.1 (2020-4-21)
-### Patches 
-
-- Added options merge into the import of each service
 
 <br><br>
