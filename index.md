@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.22.6 (2021-3-16)
-sync with web
+## 5.22.7 (2021-3-16)
+sync with odinweb
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
