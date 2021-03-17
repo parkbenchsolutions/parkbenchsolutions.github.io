@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.23.0 (2021-3-17)
+### Minor Changes 
+
+- User fax messaging service
+- Disabled condition applied even if no phone number - fax-messaging service
+
+<br><br>
 ## 5.22.8 (2021-3-16)
 ### Patches 
 
@@ -1040,12 +1047,5 @@ sync with api for the department bulk create task
 <br><br>
 ## 5.9.4 (2020-6-23)
 sync version with api
-
-<br><br>
-## 5.9.3 (2020-6-23)
-### Patches 
-
-- Fixes for : reseller add from provisioning and system level #385
-- Adding version on Reseller
 
 <br><br>
