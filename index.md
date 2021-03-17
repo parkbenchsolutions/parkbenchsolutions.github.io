@@ -1,9 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.23.0 (2021-3-17)
-### Minor Changes 
-
-- Return if service provider id is already the same from profile do not try to create
+## 5.24.0 (2021-3-17)
+sync with api
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
