@@ -7,10 +7,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.23.0 (2021-3-17)
+## 5.24.0 (2021-3-17)
 ### Minor Changes 
 
-- User fax messaging service
-- Disabled condition applied even if no phone number - fax-messaging service
+- User/group meet me conferencing service enhancement with information
+- User meet me conferencing updated and save records with fixes - #872
+- Fixes for user meet me conferencing - #872
 
   
