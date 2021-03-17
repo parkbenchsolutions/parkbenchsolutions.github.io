@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.23.0 (2021-3-17)
+### Minor Changes 
+
+- Return if service provider id is already the same from profile do not try to create
+
+<br><br>
 ## 5.22.8 (2021-3-16)
 sync with web
 
@@ -787,11 +793,5 @@ sync with web patches for firefox and device edit enhancements
 <br><br>
 ## 5.9.2 (2020-6-22)
 sync
-
-<br><br>
-## 5.9.1 (2020-6-22)
-### Patches 
-
-- Fixed debug statement
 
 <br><br>
