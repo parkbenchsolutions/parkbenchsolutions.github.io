@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.25.0 (2021-3-17)
+sync with web
+
+<br><br>
 ## 5.24.0 (2021-3-17)
 sync with api
 
@@ -787,11 +791,5 @@ sync with web patches for firefox and device edit enhancements
 
 - Fixed modify for department user during import
 - Added device level group import for user
-
-<br><br>
-## 5.9.3 (2020-6-23)
-### Patches 
-
-- Fixed moving users on import of audit to a new group
 
 <br><br>
