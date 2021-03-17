@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.25.0 (2021-3-17)
+### Minor Changes 
+
+- Flexible seating host
+- Flexible seating host guest association tab porting into react
+- Flexible seating host user tab porting into react
+- Flexible seating host guest association tab porting into react
+- Looks like groupServiceData is an object rather than an array.
+
+<br><br>
 ## 5.24.0 (2021-3-17)
 ### Minor Changes 
 
@@ -1045,11 +1055,5 @@ sync with api
 <br><br>
 ## 5.9.6 (2020-6-25)
 sync with api for the department bulk create task
-
-<br><br>
-## 5.9.5 (2020-6-25)
-### Patches 
-
-- Added changed to portal passcode and password
 
 <br><br>
