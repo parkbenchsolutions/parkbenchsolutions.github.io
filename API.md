@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.24.0 (2021-3-17)
+sync with api
+
+<br><br>
 ## 5.23.0 (2021-3-17)
 ### Minor Changes 
 
@@ -789,9 +793,5 @@ sync with web patches for firefox and device edit enhancements
 ### Patches 
 
 - Fixed moving users on import of audit to a new group
-
-<br><br>
-## 5.9.2 (2020-6-22)
-sync
 
 <br><br>
