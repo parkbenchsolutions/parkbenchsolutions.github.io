@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.24.0 (2021-3-17)
+### Minor Changes 
+
+- User/group meet me conferencing service enhancement with information
+- User meet me conferencing updated and save records with fixes - #872
+- Fixes for user meet me conferencing - #872
+
+<br><br>
 ## 5.23.0 (2021-3-17)
 ### Minor Changes 
 
@@ -1043,9 +1051,5 @@ sync with api for the department bulk create task
 ### Patches 
 
 - Added changed to portal passcode and password
-
-<br><br>
-## 5.9.4 (2020-6-23)
-sync version with api
 
 <br><br>
