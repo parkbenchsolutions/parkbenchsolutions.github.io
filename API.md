@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.26.1 (2021-3-24)
+### Patches 
+
+- Added service provider trunk group call capacity to inventory
+- Added group trunk group capacity to inventory
+
+<br><br>
 ## 5.26.0 (2021-3-23)
 ### Minor Changes 
 
@@ -812,15 +819,5 @@ sync with web patches for firefox and device edit enhancements
 ### Patches 
 
 - Fixed department create helper bulk task
-
-<br><br>
-## 5.9.5 (2020-6-25)
-### Patches 
-
-- Call to numbers endpoint added
-- Changed callToNumbers to array of objects
-- Added user portal passcode update api bulk task
-- Changed GroupDeviceLine back to GroupAccessDeviceGetUserListRequest GroupAccessDeviceGetUserListRequest21sp1 is not working
-- Added user password update bulk
 
 <br><br>
