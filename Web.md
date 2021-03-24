@@ -1,4 +1,9 @@
 # Web Latest Releases
+## 5.26.1 (2021-3-24)
+Added service provider trunk group call capacity to inventory api: 5ed4b60
+Added group trunk group capacity to inventory api: 89a778a
+
+<br><br>
 ## 5.26.0 (2021-3-23)
 ### Minor Changes 
 
@@ -1117,10 +1122,6 @@ Initial release
 
 <br><br>
 ## 5.9.8 (2020-6-26)
-sync with api
-
-<br><br>
-## 5.9.7 (2020-6-25)
 sync with api
 
 <br><br>
