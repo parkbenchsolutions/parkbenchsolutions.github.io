@@ -1,4 +1,12 @@
 # API Latest Releases
+## 5.26.2 (2021-3-31)
+### Patches 
+
+- Added agent unavailable code for user access
+- Added integrated IMP callback migration
+- Refresh session token before token check
+
+<br><br>
 ## 5.26.1 (2021-3-24)
 ### Patches 
 
@@ -813,11 +821,5 @@ sync with web patches for firefox and device edit enhancements
 ### Patches 
 
 - Fixed user push to talk empty list
-
-<br><br>
-## 5.9.6 (2020-6-25)
-### Patches 
-
-- Fixed department create helper bulk task
 
 <br><br>
