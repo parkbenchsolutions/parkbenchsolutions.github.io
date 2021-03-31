@@ -1,6 +1,10 @@
 # Web Latest Releases
 ## 5.26.2 (2021-3-31)
-Initial release
+### Patches 
+
+- Added agent unavailable code for user access
+- Added integrated IMP callback migration
+- Refresh session token before token check
 
 <br><br>
 ## 5.26.1 (2021-3-24)
