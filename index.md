@@ -1,19 +1,15 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.26.2 (2021-3-31)
+## 5.26.3 (2021-4-1)
 ### Patches 
 
-- Added agent unavailable code for user access
-- Added integrated IMP callback migration
-- Refresh session token before token check
+- Added retry queue
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.26.2 (2021-3-31)
+## 5.26.3 (2021-4-1)
 ### Patches 
 
-- Added agent unavailable code for user access
-- Added integrated IMP callback migration
-- Refresh session token before token check
+- Added retry queue
 
   
