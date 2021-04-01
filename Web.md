@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.26.3 (2021-4-1)
+### Patches 
+
+- Added retry queue
+
+<br><br>
 ## 5.26.2 (2021-3-31)
 ### Patches 
 
@@ -1123,9 +1129,5 @@ sync with api third party voicemail
 <br><br>
 ## 5.9.10 (2020-6-26)
 sync with api
-
-<br><br>
-## 5.9.9 (2020-6-26)
-Initial release
 
 <br><br>
