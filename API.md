@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.26.3 (2021-4-1)
+### Patches 
+
+- Added retry queue
+
+<br><br>
 ## 5.26.2 (2021-3-31)
 ### Patches 
 
@@ -815,11 +821,5 @@ sync with web patches for firefox and device edit enhancements
 - Added Call To Number support for Selective Call Acceptance add and modify actions
 - Added common blade file for call to numbers modify
 - Fixed group admin import and audit
-
-<br><br>
-## 5.9.7 (2020-6-25)
-### Patches 
-
-- Fixed user push to talk empty list
 
 <br><br>
