@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.26.4 (2021-4-2)
+### Patches 
+
+- Moved to jobs from events to process data
+- Added jobs for inventory
+
+<br><br>
 ## 5.26.3 (2021-4-1)
 ### Patches 
 
@@ -1125,9 +1132,5 @@ sync with api
 <br><br>
 ## 5.9.11 (2020-6-26)
 sync with api third party voicemail
-
-<br><br>
-## 5.9.10 (2020-6-26)
-sync with api
 
 <br><br>
