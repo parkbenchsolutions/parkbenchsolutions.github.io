@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.26.4 (2021-4-2)
+### Patches 
+
+- Moved to jobs from events to process data
+- Added jobs for inventory
+
+<br><br>
 ## 5.26.3 (2021-4-1)
 ### Patches 
 
@@ -812,14 +819,5 @@ sync with web patches for firefox and device edit enhancements
 
 - Added group admin policy to aim
 - Added group admin policy to audit
-
-<br><br>
-## 5.9.8 (2020-6-26)
-### Patches 
-
-- Initial commit for selective call acceptance
-- Added Call To Number support for Selective Call Acceptance add and modify actions
-- Added common blade file for call to numbers modify
-- Fixed group admin import and audit
 
 <br><br>
