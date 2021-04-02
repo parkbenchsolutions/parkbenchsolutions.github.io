@@ -1,9 +1,10 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.26.3 (2021-4-1)
+## 5.26.4 (2021-4-2)
 ### Patches 
 
-- Added retry queue
+- Moved to jobs from events to process data
+- Added jobs for inventory
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
