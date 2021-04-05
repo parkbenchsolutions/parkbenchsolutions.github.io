@@ -7,10 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.26.4 (2021-4-2)
-### Patches 
-
-- Moved to jobs from events to process data
-- Added jobs for inventory
+## 5.26.5 (2021-4-5)
+Added details to users and groups inventory: 095a72b
 
   
