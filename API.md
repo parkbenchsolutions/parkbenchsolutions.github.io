@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.26.5 (2021-4-5)
+### Patches 
+
+- Added details to users and groups inventory
+
+<br><br>
 ## 5.26.4 (2021-4-2)
 ### Patches 
 
@@ -812,12 +818,5 @@ sync with web patches for firefox and device edit enhancements
 ### Patches 
 
 - Group policy aim added
-
-<br><br>
-## 5.9.9 (2020-6-26)
-### Patches 
-
-- Added group admin policy to aim
-- Added group admin policy to audit
 
 <br><br>
