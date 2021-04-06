@@ -7,7 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.26.5 (2021-4-5)
-Added details to users and groups inventory: 095a72b
+## 5.26.6 (2021-4-6)
+sync with api
 
   
