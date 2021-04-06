@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.26.6 (2021-4-6)
+sync with api
+
+<br><br>
 ## 5.26.5 (2021-4-5)
 Added details to users and groups inventory: 095a72b
 
@@ -1123,14 +1127,5 @@ sync with api
 <br><br>
 ## 5.9.13 (2020-6-26)
 sync with api
-
-<br><br>
-## 5.9.12 (2020-6-26)
-### Patches 
-
-- Fixes for : Update Device profile from dialog/Flyout #244
-- Merge branch &#39;Edit-Device-Basic-Info&#39; of https://github.com/pankajs1306/odinweb into Edit-Device-Basic-Info
-- Update Device profile from dialog/Flyout #244
-- Fixes for task review firefox issue #398
 
 <br><br>
