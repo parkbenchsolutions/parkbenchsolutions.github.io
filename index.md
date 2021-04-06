@@ -1,9 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.26.6 (2021-4-6)
+## 5.26.7 (2021-4-6)
 ### Patches 
 
-- Changed retries from 4 to 6 for inventory
+- Fixed user inventory query to account for inTrunkGroup and department
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
