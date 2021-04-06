@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.26.7 (2021-4-6)
+### Patches 
+
+- Fixed user inventory query to account for inTrunkGroup and department
+
+<br><br>
 ## 5.26.6 (2021-4-6)
 ### Patches 
 
@@ -811,12 +817,5 @@ sync with api
 <br><br>
 ## 5.9.12 (2020-6-26)
 sync with web patches for firefox and device edit enhancements
-
-<br><br>
-## 5.9.11 (2020-6-26)
-### Patches 
-
-- Added mailbox url to user third party voice mail support
-- Fixed blade file for mailbox url
 
 <br><br>
