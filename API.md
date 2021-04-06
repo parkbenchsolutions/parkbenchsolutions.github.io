@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.26.6 (2021-4-6)
+### Patches 
+
+- Changed retries from 4 to 6 for inventory
+
+<br><br>
 ## 5.26.5 (2021-4-5)
 ### Patches 
 
@@ -812,11 +818,5 @@ sync with web patches for firefox and device edit enhancements
 
 - Added mailbox url to user third party voice mail support
 - Fixed blade file for mailbox url
-
-<br><br>
-## 5.9.10 (2020-6-26)
-### Patches 
-
-- Group policy aim added
 
 <br><br>
