@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.26.8 (2021-4-8)
+### Patches 
+
+- Fixed user department inventory
+- Added check for allow password reset username
+
+<br><br>
 ## 5.26.7 (2021-4-6)
 ### Patches 
 
@@ -813,9 +820,5 @@ sync with api
 ### Patches 
 
 - Added credentials to the device import if accessDeviceCredentials is populated
-
-<br><br>
-## 5.9.12 (2020-6-26)
-sync with web patches for firefox and device edit enhancements
 
 <br><br>
