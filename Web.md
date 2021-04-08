@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.26.8 (2021-4-8)
+### Patches 
+
+- Fixed user department inventory
+- Added check for allow password reset username
+
+<br><br>
 ## 5.26.7 (2021-4-6)
 sync with api
 
@@ -1123,9 +1130,5 @@ sync with api
 - File name fixes
 - Service provider report csv export #393
 - Hunt Group Settings #392
-
-<br><br>
-## 5.9.14 (2020-6-26)
-sync with api
 
 <br><br>
