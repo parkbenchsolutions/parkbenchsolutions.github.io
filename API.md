@@ -1,4 +1,21 @@
 # API Latest Releases
+## 5.27.0 (2021-4-12)
+### Minor Changes 
+
+- Added task reporting engine
+
+### Patches 
+
+- Added service provider exists so it doesn&#39;t ovewrite the profile on the serice provider
+- Group call center removed depracated code
+- Moved construct to top of class
+- Switched Arr::get to data_get
+- Fixed data_get
+- Added Report Interface
+- Removed unused use statement
+- Removed users concat doesn&#39;t apply in description
+
+<br><br>
 ## 5.26.8 (2021-4-8)
 ### Patches 
 
@@ -814,11 +831,5 @@ sync with api
 
 - Added Call To Numbers to Priority Alert
 - Add Call To Numbers to following Actions
-
-<br><br>
-## 5.9.13 (2020-6-26)
-### Patches 
-
-- Added credentials to the device import if accessDeviceCredentials is populated
 
 <br><br>
