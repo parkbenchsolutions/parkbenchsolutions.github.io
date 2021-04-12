@@ -1,4 +1,31 @@
 # Web Latest Releases
+## 5.27.0 (2021-4-12)
+## **March 23rd 2021**
+
+**Enhancements**
+
+1.  Form validation added to Sip Trunking features
+2.  Added user names to call center agent queue
+
+**Bug Fixes**
+1.  Pagination causing a log out to occur
+2.  Issue with editing Basic Call Center as admin levels
+
+**Upgrades to React**
+1.  User Call Center
+2.  User Devices
+3.  User Password
+    *   Passcode rules to change (text/password) click on eye icon.
+    *   On user level fixed generate passcode rules six digits.
+4.  User Viewable Service Packs
+5.  Voice Messaging User
+6.  User Hoteling Host
+7.  User Hoteling Guest
+8.  User Basic Call Logs
+9.  User Phone Numbers
+10.  User Announcements
+
+<br><br>
 ## 5.26.8 (2021-4-8)
 ### Patches 
 
@@ -1120,15 +1147,5 @@ sync with api
 <br><br>
 ## 5.9.16 (2020-6-29)
 sync with api
-
-<br><br>
-## 5.9.15 (2020-6-29)
-### Patches 
-
-- Device export #390
-- Group phone directory export #391
-- File name fixes
-- Service provider report csv export #393
-- Hunt Group Settings #392
 
 <br><br>
