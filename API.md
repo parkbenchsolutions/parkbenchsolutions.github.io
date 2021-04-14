@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.28.1 (2021-4-14)
+### Patches 
+
+- Fixed broken comman parenthesis
+
+<br><br>
 ## 5.28.0 (2021-4-14)
 ### Minor Changes 
 
@@ -851,9 +857,5 @@ sync with web
 ### Patches 
 
 - Added table branding fixes
-
-<br><br>
-## 5.9.15 (2020-6-29)
-sync with api
 
 <br><br>
