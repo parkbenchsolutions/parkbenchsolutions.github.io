@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.28.0 (2021-4-14)
+### Minor Changes 
+
+- Update UI for webex integration
+- Webex OAuth2 integration
+- Add color to Webex success icons.
+
+<br><br>
 ## 5.27.0 (2021-4-12)
 ## **March 23rd 2021**
 
@@ -1142,10 +1150,6 @@ sync with api
 
 <br><br>
 ## 5.9.17 (2020-6-29)
-sync with api
-
-<br><br>
-## 5.9.16 (2020-6-29)
 sync with api
 
 <br><br>
