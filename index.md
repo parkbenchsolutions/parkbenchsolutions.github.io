@@ -18,30 +18,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.27.0 (2021-4-12)
-## **March 23rd 2021**
+## 5.28.0 (2021-4-14)
+### Minor Changes 
 
-**Enhancements**
-
-1.  Form validation added to Sip Trunking features
-2.  Added user names to call center agent queue
-
-**Bug Fixes**
-1.  Pagination causing a log out to occur
-2.  Issue with editing Basic Call Center as admin levels
-
-**Upgrades to React**
-1.  User Call Center
-2.  User Devices
-3.  User Password
-    *   Passcode rules to change (text/password) click on eye icon.
-    *   On user level fixed generate passcode rules six digits.
-4.  User Viewable Service Packs
-5.  Voice Messaging User
-6.  User Hoteling Host
-7.  User Hoteling Guest
-8.  User Basic Call Logs
-9.  User Phone Numbers
-10.  User Announcements
+- Update UI for webex integration
+- Webex OAuth2 integration
+- Add color to Webex success icons.
 
   
