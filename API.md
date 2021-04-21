@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.28.2 (2021-4-21)
+### Patches 
+
+- Created flexibility and efficiency for odin system settings.
+
+<br><br>
 ## 5.28.1 (2021-4-14)
 ### Patches 
 
@@ -851,11 +857,5 @@ sync with web
 ### Patches 
 
 - Added service provider admin to AIM
-
-<br><br>
-## 5.9.16 (2020-6-29)
-### Patches 
-
-- Added table branding fixes
 
 <br><br>
