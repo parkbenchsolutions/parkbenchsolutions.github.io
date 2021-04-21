@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.28.2 (2021-4-21)
+### Patches 
+
+- Created flexibility and efficiency for odin system settings.
+
+<br><br>
 ## 5.28.1 (2021-4-14)
 5.28.1
 
@@ -1146,10 +1152,6 @@ release with api
 
 <br><br>
 ## 5.9.19 (2020-6-30)
-sync with api
-
-<br><br>
-## 5.9.18 (2020-6-30)
 sync with api
 
 <br><br>
