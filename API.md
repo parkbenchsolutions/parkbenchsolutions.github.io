@@ -1,4 +1,24 @@
 # API Latest Releases
+## 5.29.0 (2021-5-7)
+### Minor Changes 
+
+- Password reset userId password expire days bypass
+- Token Bypass for password reset
+- Added assigned list api endpoint for group dashboard
+- Added user modify group id bulk
+- Changed blacklist from version 24 to 22 for aim import of group/user level services
+- Added blacklist for group service import
+- Fix OCI call for Voice Messaging Greetings.
+- Added requirement newGroupId for userModifyGroupId Task
+- Surgemail base
+- Added Start Time and Answer Time UTC to response. Browser will display local time.
+- Cleaned up Webex Integration endpoints
+
+### Patches 
+
+- Fixed settings api
+
+<br><br>
 ## 5.28.2 (2021-4-21)
 ### Patches 
 
@@ -851,11 +871,5 @@ sync with web
 ### Patches 
 
 - Added exception handling AIM for devices
-
-<br><br>
-## 5.9.17 (2020-6-29)
-### Patches 
-
-- Added service provider admin to AIM
 
 <br><br>
