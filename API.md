@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.29.1 (2021-5-11)
+### Patches 
+
+- Hot fix alternateTrunkIdentity
+
+<br><br>
 ## 5.29.0 (2021-5-7)
 ### Minor Changes 
 
@@ -865,11 +871,5 @@ sync with web
 ### Patches 
 
 - Fixed custom contact directories AIM
-
-<br><br>
-## 5.9.18 (2020-6-30)
-### Patches 
-
-- Added exception handling AIM for devices
 
 <br><br>
