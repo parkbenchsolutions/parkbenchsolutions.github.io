@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.29.1 (2021-5-11)
+syn with api hot fix alternateTrunkAddress
+
+<br><br>
 ## 5.29.0 (2021-5-7)
 ### Minor Changes 
 
@@ -1186,13 +1190,5 @@ release with api
 - Task User Portal Passcode Modify #395
 - Fixes for ES lint issue
 - Moved auth username to new section
-
-<br><br>
-## 5.9.20 (2020-7-1)
-### Patches 
-
-- Issue with a BW User # #387
-- Add user export to users list #409
-- Login issue with user with #
 
 <br><br>
