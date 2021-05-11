@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.29.2 (2021-5-11)
+sync with web patch for is pilot user id true or false
+
+<br><br>
 ## 5.29.1 (2021-5-11)
 ### Patches 
 
@@ -865,11 +869,5 @@ sync with web
 ### Patches 
 
 - Added api files for voice messagaging aliases
-
-<br><br>
-## 5.9.19 (2020-6-30)
-### Patches 
-
-- Fixed custom contact directories AIM
 
 <br><br>
