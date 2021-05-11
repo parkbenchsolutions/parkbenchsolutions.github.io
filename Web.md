@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.29.2 (2021-5-11)
+### Patches 
+
+- Patched is pilot User Id true or false
+
+<br><br>
 ## 5.29.1 (2021-5-11)
 syn with api hot fix alternateTrunkAddress
 
@@ -1181,14 +1187,5 @@ sync with api
 <br><br>
 ## 5.9.22 (2020-7-7)
 release with api
-
-<br><br>
-## 5.9.21 (2020-7-6)
-### Patches 
-
-- Bulk Task User Password #396
-- Task User Portal Passcode Modify #395
-- Fixes for ES lint issue
-- Moved auth username to new section
 
 <br><br>
