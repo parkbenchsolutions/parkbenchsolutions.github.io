@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.30.1 (2021-5-21)
+Added throwable for user settings
+
+<br><br>
 ## 5.30.0 (2021-5-21)
 **May 21, 2021**
 
@@ -1260,9 +1264,5 @@ sync with api
 <br><br>
 ## 5.9.24 (2020-7-8)
 Initial release
-
-<br><br>
-## 5.9.23 (2020-7-8)
-sync with api
 
 <br><br>
