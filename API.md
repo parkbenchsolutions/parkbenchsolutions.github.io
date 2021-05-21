@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.30.1 (2021-5-21)
+### Patches 
+
+- Added throwable for user settings
+
+<br><br>
 ## 5.30.0 (2021-5-21)
 ### Minor Changes 
 
@@ -910,11 +916,5 @@ sync with web
 ### Patches 
 
 - Added shared call endpoint import support
-
-<br><br>
-## 5.9.21 (2020-7-6)
-### Patches 
-
-- Added comments to template admin request
 
 <br><br>
