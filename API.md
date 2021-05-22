@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.30.2 (2021-5-22)
+### Patches 
+
+- Allow device update for SCA bulk actions
+
+<br><br>
 ## 5.30.1 (2021-5-21)
 ### Patches 
 
@@ -910,11 +916,5 @@ sync with web
 - Added alternateUserId check to login info request
 - Renamed isAlternateUserId
 - Setup database for sending email notification token
-
-<br><br>
-## 5.9.22 (2020-7-7)
-### Patches 
-
-- Added shared call endpoint import support
 
 <br><br>
