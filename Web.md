@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.30.2 (2021-5-22)
+Allow device update for SCA bulk actions:
+
+<br><br>
 ## 5.30.1 (2021-5-21)
 Added throwable for user settings
 
@@ -1260,9 +1264,5 @@ sync with api
 <br><br>
 ## 5.9.25 (2020-7-8)
 5.9.25
-
-<br><br>
-## 5.9.24 (2020-7-8)
-Initial release
 
 <br><br>
