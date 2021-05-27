@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.30.3 (2021-5-27)
+**May 27, 2021**
+**Enhancements**
+*   Added better descriptions to "Add Auto Attendant" form for drop downs
+**Bug Fixes**
+*   Auto attendant white screen 
+*   Auto attendant console error when deleting an announcement
+*   Feature access codes updated with better code to prevent react warnings
+**Upgraded to React**
+*   Group auto attendant menu
+
+<br><br>
 ## 5.30.2 (2021-5-22)
 ### Patches 
 
@@ -908,13 +920,5 @@ sync with web
 ### Patches 
 
 - Fixed cloud build
-
-<br><br>
-## 5.9.23 (2020-7-8)
-### Patches 
-
-- Added alternateUserId check to login info request
-- Renamed isAlternateUserId
-- Setup database for sending email notification token
 
 <br><br>
