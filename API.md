@@ -1,4 +1,38 @@
 # API Latest Releases
+## 5.31.0 (2021-6-21)
+**June 21 2021**
+
+**Enhancements**
+
+*   Adjusted UI for adding a new device to user
+
+**Bug fixes**
+
+*   Department admins were not able to access users
+*   Feature access codes - Alternate Code column added 
+*   Corrected UI for No Answer and Busy settings on user announcements
+*   Registration report displays duplicates
+*   User device tags only loading on a window refocus
+
+**Upgrades**
+
+*   Group Configuration Service After Hour Menu 
+*   Group Configuration Service Business Hour Menu 
+*   Group Configuration Service Holiday Menu
+*   Department Enterprise Directory
+*   Department trunk group settings
+*   Group Configuration Services - After Hours menu, Business Hours menu, Holiday menu
+*   Trunk Group Hosted User
+
+### Minor Changes 
+
+- Fixed phonism cache
+
+### Patches 
+
+- Created alpha build script
+
+<br><br>
 ## 5.30.3 (2021-5-27)
 **May 27, 2021**
 **Enhancements**
@@ -914,11 +948,5 @@ sync with web
 <br><br>
 ## 5.9.25 (2020-7-8)
 5.9.25
-
-<br><br>
-## 5.9.24 (2020-7-8)
-### Patches 
-
-- Fixed cloud build
 
 <br><br>
