@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.31.1 (2021-7-1)
+### Patches 
+
+- Hotfix access device endpoint sip contact
+- fixed api call for access device endpoint contact list
+
+<br><br>
 ## 5.31.0 (2021-6-21)
 **June 21 2021**
 
@@ -944,9 +951,5 @@ sync with web
 ### Patches 
 
 - Added db controller for self service controller
-
-<br><br>
-## 5.9.25 (2020-7-8)
-5.9.25
 
 <br><br>
