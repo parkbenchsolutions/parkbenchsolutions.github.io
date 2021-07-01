@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.31.1 (2021-7-1)
+- fixed api call for access device endpoint contact list
+
+<br><br>
 ## 5.31.0 (2021-6-21)
 **June 21 2021**
 
@@ -1351,10 +1355,6 @@ sync with api
 
 <br><br>
 ## 5.9.28 (2020-7-8)
-sync with api
-
-<br><br>
-## 5.9.27 (2020-7-8)
 sync with api
 
 <br><br>
