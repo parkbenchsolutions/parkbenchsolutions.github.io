@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.32.1 (2021-7-21)
+### Patches 
+
+- Fixed semi-colon
+
+<br><br>
 ## 5.32.0 (2021-7-21)
 **July 21, 2021**
 
@@ -1095,11 +1101,5 @@ sync with web
 ### Patches 
 
 - Added database api user to Send Email
-
-<br><br>
-## 5.9.27 (2020-7-8)
-### Patches 
-
-- Email event trigger from database
 
 <br><br>
