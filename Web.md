@@ -1,6 +1,6 @@
 # Web Latest Releases
 ## 5.32.2 (2021-7-31)
-
+Patch release
 
 <br><br>
 ## 5.32.1 (2021-7-21)
