@@ -5,7 +5,7 @@ Patch release
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.32.2 (2021-7-31)
-Patch release
+## 5.32.3 (2021-7-31)
+Sync with Api
 
   
