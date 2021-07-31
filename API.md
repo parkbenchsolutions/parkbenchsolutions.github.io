@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.32.2 (2021-7-31)
+
+
+<br><br>
 ## 5.32.1 (2021-7-21)
 ### Patches 
 
@@ -1095,11 +1099,5 @@ sync with web
 ### Patches 
 
 - Debug statements
-
-<br><br>
-## 5.9.28 (2020-7-8)
-### Patches 
-
-- Added database api user to Send Email
 
 <br><br>
