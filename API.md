@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.32.3 (2021-7-31)
+Fix compiler error
+
+<br><br>
 ## 5.32.2 (2021-7-31)
 Patch release
 
@@ -1093,11 +1097,5 @@ sync with web
 ### Patches 
 
 - Added Helpers
-
-<br><br>
-## 5.9.29 (2020-7-8)
-### Patches 
-
-- Debug statements
 
 <br><br>
