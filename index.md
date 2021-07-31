@@ -8,6 +8,6 @@
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
 ## 5.32.2 (2021-7-31)
-
+Patch release
 
   
