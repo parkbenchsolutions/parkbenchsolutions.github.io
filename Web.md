@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.32.3 (2021-7-31)
+Sync with Api
+
+<br><br>
 ## 5.32.2 (2021-7-31)
 Patch release
 
@@ -1652,10 +1656,6 @@ sync with api
 
 <br><br>
 ## 5.9.32 (2020-7-8)
-sync with api
-
-<br><br>
-## 5.9.31 (2020-7-8)
 sync with api
 
 <br><br>
