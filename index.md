@@ -1,7 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.32.3 (2021-7-31)
-Fix compiler error
+## 5.32.4 (2021-8-5)
+Sync with Front End
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
