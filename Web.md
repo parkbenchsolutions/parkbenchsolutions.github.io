@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.32.4 (2021-8-5)
+**August 5th 2021**
+
+**Bug Fixes**
+
+*   User Device Tags empty value allowed
+*   Displays only unassigned numbers for CLID number through department
+
+<br><br>
 ## 5.32.3 (2021-7-31)
 Sync with Api
 
@@ -1653,9 +1662,5 @@ sync with api
 ### Patches 
 
 - Call Center Configuration Issue - Stranded Calls #414
-
-<br><br>
-## 5.9.32 (2020-7-8)
-sync with api
 
 <br><br>
