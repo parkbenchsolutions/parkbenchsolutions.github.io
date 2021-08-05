@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.32.4 (2021-8-5)
+Sync with Front End
+
+<br><br>
 ## 5.32.3 (2021-7-31)
 Fix compiler error
 
@@ -1091,11 +1095,5 @@ sync with web
 ### Patches 
 
 - Passing db to password reset
-
-<br><br>
-## 5.9.30 (2020-7-8)
-### Patches 
-
-- Added Helpers
 
 <br><br>
