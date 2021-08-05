@@ -9,7 +9,28 @@
 
 <br><br>
 ## 5.32.3 (2021-7-31)
-Sync with Api
+**August 2nd 2021**
+
+**Bug Fixes**
+
+*   Service pack assignment visible to group admins
+*   Unable to assign DID
+*   Missing column on group users
+*   User password change
+*   Group Admin Policy
+    *   trunk group
+    *   user profile
+    *   group profile
+*   User Password Update
+*   Meet Me Conferencing permissions
+*   Emergency Call Notification v22
+
+**Upgrades**
+
+*   Group Assign Number
+*   Group Config Call Center Service Assignment
+*   Enterprise Dashboard
+*   Enterprise Meet Me Conferencing
 
 <br><br>
 ## 5.32.2 (2021-7-31)
