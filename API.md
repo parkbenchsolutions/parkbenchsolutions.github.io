@@ -29,7 +29,7 @@ Sync with Front End
 
 <br><br>
 ## 5.32.2 (2021-7-31)
-Patch release
+Fix comma error for IonCube
 
 <br><br>
 ## 5.32.1 (2021-7-21)
