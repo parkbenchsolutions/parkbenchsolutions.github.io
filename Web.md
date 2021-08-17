@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.32.5 (2021-8-17)
+### Patches 
+
+- Removed hard value size for nav bar images
+
+<br><br>
 ## 5.32.4 (2021-8-5)
 **August 5th 2021**
 
@@ -1678,11 +1684,5 @@ sync with api code release
 <br><br>
 ## 5.9.34 (2020-7-20)
 sync with api
-
-<br><br>
-## 5.9.33 (2020-7-9)
-### Patches 
-
-- Call Center Configuration Issue - Stranded Calls #414
 
 <br><br>
