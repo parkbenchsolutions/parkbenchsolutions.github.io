@@ -5,12 +5,9 @@ Sync with Front End
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.32.4 (2021-8-5)
-**August 5th 2021**
+## 5.32.5 (2021-8-17)
+### Patches 
 
-**Bug Fixes**
-
-*   User Device Tags empty value allowed
-*   Displays only unassigned numbers for CLID number through department
+- Removed hard value size for nav bar images
 
   
