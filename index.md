@@ -1,7 +1,10 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.32.4 (2021-8-5)
-Sync with Front End
+## 5.32.5 (2021-8-17)
+### Patches 
+
+- Created 2 Webex product master records and removed debug code out fo a migration
+- IonCube fix
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
