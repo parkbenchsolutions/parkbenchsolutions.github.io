@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.32.5 (2021-8-17)
+### Patches 
+
+- Created 2 Webex product master records and removed debug code out fo a migration
+- IonCube fix
+
+<br><br>
 ## 5.32.4 (2021-8-5)
 Sync with Front End
 
@@ -1110,11 +1117,5 @@ sync with web
 ### Patches 
 
 - SendResetLink
-
-<br><br>
-## 5.9.31 (2020-7-8)
-### Patches 
-
-- Passing db to password reset
 
 <br><br>
