@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.32.6 (2021-8-18)
+### Patches 
+
+- User voice messaging update
+- Added support for updating voice-portal to task engine
+
+<br><br>
 ## 5.32.5 (2021-8-17)
 ### Patches 
 
@@ -1111,11 +1118,5 @@ sync
 <br><br>
 ## 5.9.33 (2020-7-9)
 sync with web
-
-<br><br>
-## 5.9.32 (2020-7-8)
-### Patches 
-
-- SendResetLink
 
 <br><br>
