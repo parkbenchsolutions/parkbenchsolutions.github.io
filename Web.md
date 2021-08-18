@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.32.6 (2021-8-18)
+### Patches 
+
+- User voice messaging update
+- Added support for updating voice-portal to task engine
+
+<br><br>
 ## 5.32.5 (2021-8-17)
 ### Patches 
 
@@ -1680,9 +1687,5 @@ sync with api code release
 ### Patches 
 
 - Add user portal passcode and password reset to home page #424
-
-<br><br>
-## 5.9.34 (2020-7-20)
-sync with api
 
 <br><br>
