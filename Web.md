@@ -1,4 +1,21 @@
 # Web Latest Releases
+## 5.32.7 (2021-8-19)
+### Bug Fixes
+- Visual voice mail data table unresponsive 
+- User device tags not loading on render
+- User export giving minimal details
+
+### Patches 
+
+- Removed hard value size for nav bar images
+- User report
+- Visual voice mail
+- UI Table Issue Fixed
+- Group user report
+- Added voice messaging voice portal to task
+- Fixed device tag bug
+
+<br><br>
 ## 5.32.6 (2021-8-18)
 ### Patches 
 
@@ -1681,11 +1698,5 @@ sync with api
 <br><br>
 ## 5.9.36 (2020-7-23)
 sync with api code release
-
-<br><br>
-## 5.9.35 (2020-7-22)
-### Patches 
-
-- Add user portal passcode and password reset to home page #424
 
 <br><br>
