@@ -1,4 +1,21 @@
 # API Latest Releases
+## 5.32.7 (2021-8-19)
+### Bug Fixes
+- Visual voice mail data table unresponsive 
+- User device tags not loading on render
+- User export giving minimal details
+
+### Patches 
+
+- Removed hard value size for nav bar images
+- User report
+- Visual voice mail
+- UI Table Issue Fixed
+- Group user report
+- Added voice messaging voice portal to task
+- Fixed device tag bug
+
+<br><br>
 ## 5.32.6 (2021-8-18)
 ### Patches 
 
@@ -1114,9 +1131,5 @@ sync
 - Fixed bug with changing criteria name
 - Update Call To Numbers response to alway be an array
 - Fixed the response error when changing name
-
-<br><br>
-## 5.9.33 (2020-7-9)
-sync with web
 
 <br><br>
