@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.32.8 (2021-8-24)
+### Patches 
+
+**Bug Fixes**
+
+- Extended user data only pulls when downloading
+- Group and enterprise dashboard panels will dynamically render
+
+<br><br>
 ## 5.32.7 (2021-8-19)
 ### Bug Fixes
 - Visual voice mail data table unresponsive 
@@ -1694,9 +1703,5 @@ sync with api
 - Arrow function in user services all
 - Reseller Breadcrumb link needs corrected #422
 - Speed Dial 100 Help text correction
-
-<br><br>
-## 5.9.36 (2020-7-23)
-sync with api code release
 
 <br><br>
