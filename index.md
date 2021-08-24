@@ -1,37 +1,21 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.32.7 (2021-8-19)
-### Bug Fixes
-- Visual voice mail data table unresponsive 
-- User device tags not loading on render
-- User export giving minimal details
-
+## 5.32.8 (2021-8-24)
 ### Patches 
 
-- Removed hard value size for nav bar images
-- User report
-- Visual voice mail
-- UI Table Issue Fixed
-- Group user report
-- Added voice messaging voice portal to task
-- Fixed device tag bug
+**Bug Fixes**
+
+- Extended user data only pulls when downloading
+- Group and enterprise dashboard panels will dynamically render
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.32.7 (2021-8-19)
-### Bug Fixes
-- Visual voice mail data table unresponsive 
-- User device tags not loading on render
-- User export giving minimal details
-
+## 5.32.8 (2021-8-24)
 ### Patches 
 
-- Removed hard value size for nav bar images
-- User report
-- Visual voice mail
-- UI Table Issue Fixed
-- Group user report
-- Added voice messaging voice portal to task
-- Fixed device tag bug
+**Bug Fixes**
+
+- Extended user data only pulls when downloading
+- Group and enterprise dashboard panels will dynamically render
 
   
