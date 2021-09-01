@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.32.10 (2021-9-1)
+Initial release
+
+<br><br>
 ## 5.32.9 (2021-9-1)
 ### Patches 
 
@@ -1707,10 +1711,6 @@ Initial release
 
 <br><br>
 ## 5.10.2 (2020-8-3)
-sync with api
-
-<br><br>
-## 5.10.1 (2020-7-29)
 sync with api
 
 <br><br>
