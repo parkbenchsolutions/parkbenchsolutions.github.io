@@ -60,9 +60,6 @@
 - Added loader when fetching - no empty table
 - Changed service instance plurarity
 - Fixed module name for service instance report
-- Merge pull request #1585 from parkbenchsolutions/feature/814-ent-levelgroup-service-report
-- Merge pull request #1607 from parkbenchsolutions/bug/1548-service-pack-link-broken-group-dashboard
-- Merge pull request #1606 from parkbenchsolutions/bug/762-remove-hirigana-firstlastname
 - 1605 quick links resources
 - Fixed group audio download
 - Fixed resource image size
