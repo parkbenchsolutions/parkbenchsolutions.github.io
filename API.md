@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.32.10 (2021-9-1)
+### Patches 
+
+- Deactivate webex endpoint by default
+
+<br><br>
 ## 5.32.9 (2021-9-1)
 ### Patches 
 
@@ -1133,11 +1139,5 @@ sync
 - Update pre-alerting
 - Retry login token for failed ocs_connections
 - Fixing naming problem with user call centers supervisor agents functions
-
-<br><br>
-## 5.9.36 (2020-7-23)
-### Patches 
-
-- Added optional fields for user password modify bulk task
 
 <br><br>
