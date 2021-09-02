@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.32.11 (2021-9-2)
+Initial release
+
+<br><br>
 ## 5.32.10 (2021-9-1)
 ### Patches 
 
@@ -1122,22 +1126,5 @@ sync
 - Added push to talk callback
 - Added group voice messaging portal callback
 - Fixed duplicate criteria on POST call
-
-<br><br>
-## 5.10.0 (2020-7-29)
-### Minor Changes 
-
-- Initial blade files commit for User Pre Alerting Announcement
-- Finished endpoints for User Pre Alerting Announcement
-- Added Audit and Import for Pre Alerting
-- Added pre-alerting announcement to AIM
-- Merge pull request #61 from parkbenchsolutions/feature/418-call-center-renaming
-- Fix to allow no criteria for a user
-
-### Patches 
-
-- Update pre-alerting
-- Retry login token for failed ocs_connections
-- Fixing naming problem with user call centers supervisor agents functions
 
 <br><br>
