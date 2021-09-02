@@ -1,6 +1,9 @@
 # API Latest Releases
 ## 5.32.11 (2021-9-2)
-Initial release
+### Patches 
+
+- 860 Assign Number Module Issue . notation changes
+- Fixed the default extension for announcements
 
 <br><br>
 ## 5.32.10 (2021-9-1)
