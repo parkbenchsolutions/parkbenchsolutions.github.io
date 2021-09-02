@@ -1,9 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.32.10 (2021-9-1)
-### Patches 
-
-- Deactivate webex endpoint by default
+## 5.32.11 (2021-9-2)
+Initial release
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
