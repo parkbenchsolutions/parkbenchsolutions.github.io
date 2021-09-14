@@ -1,4 +1,35 @@
 # Web Latest Releases
+## 5.32.12 (2021-9-14)
+# Web Latest Releases
+## 5.32.12 (2021-9-14)
+### Patches 
+
+- Added task for creating group communication barring authorization codes
+- Set dispatch to send to listeners queue
+- Report status=running when running
+- Additional params in task calls are added to event &#39;after&#39; array
+- Add attributes to events for device CRUD
+- No need to pass attributes on delete
+- Fixed virtualOnNetCallTypeName
+- Hostname for primary
+- HostnameForPrimary migration + added to event
+- Added hostnameForPrimary to Tasks and Reports
+- Cleanup
+- Audit fix for ServiceProviderDeviceType
+- Merge from develop
+- Removed wrapping task run with exception handling
+- Use config param for queue dispatch delay value
+- Return empty devices
+- GroupDeviceCreate passes along attributes through DeviceHelper
+- Set queue delay to 3s
+- Flow attributes into new event.incoming column
+- Added attributes to other calls
+- Switched from incoming to options - complete
+- Disable fkconstraints during events column update
+
+
+
+<br><br>
 ## 5.32.11 (2021-9-2)
 ### Patches 
 
@@ -1706,14 +1737,5 @@ Initial release
 - Adding policy check on Group Dashboard
 - Group dashboard license split into two
 - Changed password to newPassword in sip auth password change
-
-<br><br>
-## 5.10.3 (2020-8-4)
-### Patches 
-
-- Add Page to show User registration #432
-- Add Page to show User registration #432
-- Authentication Service - Password Complexity #436
-- Changed to user-call-recording to &#39;user-authentication-service&#39; + userId
 
 <br><br>
