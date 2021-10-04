@@ -1,6 +1,33 @@
 
 # API Current Release <small>([View All](/API.md))</small>
 ## 5.33.0 (2021-10-4)
+## Bug Fixes
+
+*   Recent Task loads properly now
+*   Webex settings re render
+*   Group Assign Number firefox loading issue
+*   Flexible seating host permissions updated
+*   CLID update fixed for business profile
+*   Add trunk group fixed
+*   Can unassign numbers for auto attendant
+*   Allow null values for group and user device tags
+*	Edit trunk group name
+*	Group services active column moved to left hand side
+*	Conferencing domain existing error fixed
+*	Loading spinner added to group services
+*	Call center statistics save button fixed
+*	Bulk wizard unauthorized request fixed
+*	Audit not able to add
+*	Quick links icons improperly set
+*	Device not found error
+*	Clone hostname cancel button fixed
+*	
+
+## Feature
+
+*	Charge number - user
+*	Group comm barr auth code bulk templates + download
+
 ### Minor Changes 
 
 - Upgrade from Laravel 5.7 to 5.8
