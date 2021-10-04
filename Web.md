@@ -1,4 +1,318 @@
 # Web Latest Releases
+## 5.33.0 (2021-10-4)
+### Minor Changes 
+
+- Branding-Update Permission for NCOS is not working for Enterprise &amp; Group Level Admin #153
+- Branding-Update Permission for NCOS is not working for Enterprise &amp; Group Level Admin #153
+- Branding(Update) Issue on Enterprise Dashboard - Flexible Seating Guest #1531
+- Group network class of services
+- Updated policy checking in user service assignment
+- AA Enhanced Service
+- Hunt Group Enhanced Service Policy Fix
+- MeetMeConf Bridges grp adm policy enhanced service
+- Call Centers enhanced sevice grp admin policy
+- Initial Commit
+- Sectioned out the data
+- Merge pull request #419 from parkbenchsolutions/develop
+- Group feature access code setting Fixes
+- Enterprise Trunk should not show for Service Providers
+- Fixes Group Feature Access Code
+- Added dynamic data, it will not render if it is not there
+- Rearranged sections
+- Fix enterprise trunk only visible to Ent Admin
+- Fixed flexible seating host branding issue
+- Merge pull request #423 from parkbenchsolutions/develop
+- 820 VVM only rendering on refetch #1556
+- Merge pull request #1570 from pankajs1306/issue/network-class-of-services
+- 820 VVM only rendering on refetch #1556
+- Fixed isEnterprise access to system and reslerr
+- Merge pull request #305 from pankajs1306/master
+- Merge pull request #425 from parkbenchsolutions/develop
+- Merge pull request #1583 from pankajs1306/820-VVM-only-rendering-on-refetch
+- Initial ent group service report
+- Fix alpha deployment quay
+- Set permissions for other logins
+- Merge pull request #1587 from parkbenchsolutions/bug/840-group-admin-users-branding-issue
+- 839 device not found
+- Branding model header fix
+- Code review changes
+- Initial WIP Commit
+- Merge pull request #1552 from parkbenchsolutions/enhancement/803-business-profile-ui-improvements
+- Merge pull request #1546 from parkbenchsolutions/bug/739-group-admin-policy-services
+- Merge pull request #1571 from parkbenchsolutions/bug/807-NetworkClassOfServices
+- Merge pull request #1547 from parkbenchsolutions/bug/741-group-admin-policy-enhanced-service
+- Merge pull request #1596 from pankajs1306/issue/flexible-seating-guest
+- Merge branch &#39;develop&#39; into feature/814-ent-levelgroup-service-report
+- Renamed the report to service instance
+- Changed menu name to Service Instance Report
+- Renamed files
+- Added service instace report ent
+- Added download to services instance report
+- Added group service instance report
+- 846 branding Music on Hold and series completion
+- 860 Assign Number Module Issue . notation changes
+- Merge pull request #1602 from anshuporwal01/1601-assign-number-module-tabbing-issue
+- Code review change
+- Ready for QA
+- Remove un related changes
+- 1589-create-audits-perticular-sp
+- Change hirganafirstlast to firstlast
+- Crud is working for webex tab
+- Removed console log
+- Removed console.log
+- Fixed group dashboard service packs link
+- Branding close and cancel dialog issue fix
+- Branding application delete button fix
+- Same issue fix in email template
+- Update acl.js remove &#39;,&#39;
+- Added loader when fetching - no empty table
+- Changed service instance plurarity
+- Fixed module name for service instance report
+- Device fix
+- Merge pull request #1585 from parkbenchsolutions/feature/814-ent-levelgroup-service-report
+- Merge pull request #1607 from parkbenchsolutions/bug/1548-service-pack-link-broken-group-dashboard
+- Merge pull request #1606 from parkbenchsolutions/bug/762-remove-hirigana-firstlastname
+- Updated Webex Integration with odinWeb
+- Fix hook problem
+- Code review
+- 1605 quick links resources
+- Merge pull request #1614 from anshuporwal01/1592-bug-branding-module-header
+- Merge pull request #1616 from anshuporwal01/1591-branding-music-on-hold
+- Merge pull request #1618 from anshuporwal01/web00000765-branding-clone-hostname-close-cancel-dialog-issue
+- Code review changes
+- Merge pull request #1620 from anshuporwal01/1605-quick-links-icon
+- Code review changes in utils
+- Initial WIP Commit
+- Merge pull request #1615 from parkbenchsolutions/bug/847-branding-modules-modal-header
+- Merge pull request #1617 from parkbenchsolutions/bug/846-branding-create-permission
+- Merge pull request #1619 from parkbenchsolutions/bug/765-branding-clone-hostname
+- Fixed group audio download
+- Merge pull request #1621 from parkbenchsolutions/bug/1605-quick-links-icons-improperly-set
+- Fixed resource image size
+- Device setting button and group device fix
+- 5.32.9
+- 1593 Domain does not exist error
+- Merge pull request #1624 from pankajs1306/839-Device-Not-Found-error
+- Fixed the default extension for announcements
+- Merge pull request #1603 from parkbenchsolutions/bug/860-assign-number-module-issue
+- Merge pull request #1626 from parkbenchsolutions/bug/announcement-extension-default
+- Remove comment
+- Code review changes
+- Merge pull request #1631 from anshuporwal01/1453-branding-application-delete-button
+- Merge pull request #1633 from anshuporwal01/web00000695-flexible-seating-host-settings
+- 756 Comm Barring Under wrong
+- Merge pull request #1637 from anshuporwal01/1549-feature-access-code-fixes
+- Merge pull request #1639 from anshuporwal01/1589-audits-fixes
+- Added user charge number user service
+- Added group comm barr auth code delete task
+- Added isUser button
+- Bulk templates + download button
+- Changes for has check
+- Merge pull request #1645 from pankajs1306/820-VVM-only-rendering-on-refetch
+- 862 saml2-alpha - Bulk Wizard - [Error 4003] Unauthorized request: GroupGetListInServiceProviderRequest #1604
+- Merge pull request #436 from parkbenchsolutions/develop
+- Merge branch &#39;web00000809-ent-trunk-should-not-show-for-sp&#39; into resolve-conflict-009
+- Merge pull request #437 from anshuporwal01/resolve-conflict-009
+- #1635 fixes-enterprise-right-menu-permission
+- Merge pull request #1647 from anshuporwal01/web00000809-ent-trunk-should-not-show-for-sp
+- Merge pull request #1649 from pankajs1306/862-Bulk-Wizard-Unauthorized-request
+- Save button removed
+- Implementing multi input logic
+- Fixed department in users list
+- Merge pull request #1652 from parkbenchsolutions/bug/889-no-info-is-displayed-in-department-field
+- Merge pull request #1641 from parkbenchsolutions/enhancement/887-user-charge-number
+- User white page issue fix
+- 1653-spinner-missing-on-comm-barring-page-fixed  issue fixed:-Code Authentication Codes will show spinner if the data take much time to load
+- Full CRUD for all data except URLs arr in endpoint
+- Merge pull request #1643 from parkbenchsolutions/feature/group-communication-barring-task
+- Merge pull request #1640 from parkbenchsolutions/bug/844-audit-not-able-to-add
+- Merge branch &#39;develop&#39; into feature/854-add-webex-teams-to-odin
+- Merge pull request #1638 from parkbenchsolutions/bug/1549-group-feature-access-code
+- Merge pull request #439 from parkbenchsolutions/develop
+- #1629fixes :  state/province selection with group add users
+- #772 fixes: ann - file extension with mov file
+- Fixes : #772 ann message showing
+- Merge pull request #1625 from parkbenchsolutions/bug/839-Device-Not-Found-error
+- Temp component set up
+- Filename is spelled fix
+- Merge branch &#39;develop&#39; into bug/1531-Flexible-Seating-Guest
+- Remove console
+- Merge pull request #308 from parkbenchsolutions/bug/1531-Flexible-Seating-Guest
+- Merge pull request #1655 from anshuporwal01/web00000809-ent-trunk-should-not-show-for-sp
+- Reverting the changes to the develop code
+- Merge pull request #1656 from pankajs1306/issue/flexible-seating-guest
+- Merge pull request #1632 from parkbenchsolutions/bug/1453-branding-application-resources-delete-button
+- Merge pull request #1584 from parkbenchsolutions/bug/820-VVM-only-rendering-on-refetch
+- Merge pull request #1650 from parkbenchsolutions/bug/862-Bulk-Wizard-Unauthorized-request
+- Merge branch &#39;develop&#39; into bug/809-saml2-alpha-service-provider
+- Merge pull request #1648 from parkbenchsolutions/bug/809-saml2-alpha-service-provider
+- Fixed loader and fixed broken map
+- 1657-cannot-unassign-numbers-from-auto-attendant
+- 1657-cannot-unassign-numbers-from-auto-attendant fixed for auto attendant form..
+- #1612 re-render when refocusing the window and form data submitted fixed
+- Fixed user host association form update
+- #1653 spinner-missing-on-comm-barring-page-fixed for Loading
+- Merge pull request #443 from parkbenchsolutions/develop
+- Merge pull request #1659 from anshuporwal01/1653-spinner-missing-on-comm-barring-page-fixed
+- Merge pull request #445 from parkbenchsolutions/develop
+- Merge pull request #1661 from anshuporwal01/1372-call-center-statistics-agent-remove-save-button
+- Merge pull request #446 from parkbenchsolutions/develop
+- Merge pull request #447 from anshuporwal01/master
+- Merge branch &#39;web00000695-flexible-seating-host-settings&#39; into bug/1612-flexible-seating-host-settings-now-missing
+- Fixes data update like BW
+- Merge branch &#39;bug/756-comm-barring-under-wrong-menu&#39; into 1522-comm-barring-under-wrong-menu
+- Merge pull request #1664 from anshuporwal01/1522-comm-barring-under-wrong-menu
+- #1527 1527-unable-to-change-clid-for-group-business-profile-department-fixes
+- #1668 changing-trunk-group-name-not-require-new-sip-password fixed
+- Merge pull request #1654 from parkbenchsolutions/bug/1531-Flexible-Seating-Guest
+- Merge pull request #1665 from parkbenchsolutions/bug/756-comm-barring-under-wrong-menu
+- Merge pull request #1662 from parkbenchsolutions/1372-call-center-statistics-agents-save-button-fixes
+- Merge pull request #1660 from parkbenchsolutions/891-spinner-missing-on-comm-barring
+- Add comm barring to hidden list for wizard page
+- Merge pull request #1672 from parkbenchsolutions/bug/hide-comm-barring-on-bulk-wizards
+- Added tabs need functionality
+- #1671 1671-add-trunk-group-error fixed
+- #1671 Unscreened Calls showing as ENABLE  1671-add-trunk-group-error fixed
+- Merge pull request #1634 from parkbenchsolutions/bug/1612-flexible-seating-host-settings-now-missing
+- Added an init array to default values to false that will update based on if checkbox is true, not yet linked to the data from the call or form
+- User selectable fix
+- Fixed update device
+- Update Webex to use hostname &amp; simplify the login
+- Add the Webex Modify User Package Bulk Template
+- Merge branch &#39;develop&#39; into feature/786-add-bulk-template-webex-update-package
+- Merge pull request #449 from parkbenchsolutions/develop
+- Merge pull request #451 from parkbenchsolutions/develop
+- Merge pull request #1680 from anshuporwal01/772-ann-add-mov-extension
+- Merge pull request #452 from parkbenchsolutions/develop
+- Merge pull request #1682 from anshuporwal01/886-1629-State-Province-selection
+- Update update-device.js
+- Implementing select table
+- Show/hide Webex Users menu item based on login status
+- #1674 not able to change the trunk group name
+- Merge pull request #1686 from anshuporwal01/1593-issue-in-conferencing-domain-does-not-exist
+- Merge pull request #1677 from parkbenchsolutions/bug/update-device
+- Merge pull request #1676 from parkbenchsolutions/bug/group-device-user-select
+- #1692 service permission issue in flexible seating host for incoming calling plan fixed
+- #1629 fixes- suggested by Mark
+- Merge pull request #1693 from anshuporwal01/886-1629-State-Province-selection
+- Avaialable now moving from left to right
+- #1629 - query-cache-key-changes
+- Merge pull request #1694 from anshuporwal01/886-1629-State-Province-selection
+- Brought in Zak&#39;s user page stub
+- Selecting menu navigates to stub page
+- User page showing not populating
+- #1086 auto attendants active button display fix
+- Trying to get selected hostnames to play nicely
+- Initial commit for Webex Verify User Email
+- Users displaying
+- Linted changes
+- Update optional parameters
+- Merge branch &#39;develop&#39; into feature/786-add-bulk-template-webex-update-package
+- Multiple select and modals working
+- Bulk delete and update modals working
+- #1691 group assign number diff browser fixes
+- Merge pull request #1 from parkbenchsolutions/develop
+- #1691 - feature changes for browser capability loading
+- #1698 active button placed in left fix..
+- Hunt group loader on active/de-active fixed
+- Single user edit + delete + cleanup
+- Webex bulk provisioning menu
+- Cleanup log messages
+- Not able to see any successful  message fixed
+- Merge pull request #1702 from abhijeetjha1995/1698-group-services-active-button-in-right-panel
+- Merge pull request #1704 from abhijeetjha1995/1674-not-able-to-change-the-trunk-group-name
+- Merge pull request #1706 from abhijeetjha1995/1086-auto-attendants-display
+- Need to implement removing items from selected hostname list if exists in api call
+- Allowing null tag values for grp and user devices
+- Simplified Webex Navigation
+- Can now select from avail hostnames to add to the webex endpoint urls
+- Initial Webex Bulk Menus
+- Update Webex settings to show active and matching configurations
+- Merge pull request #1708 from parkbenchsolutions/bug/921-edit-device-tag-empty-value
+- Merge branch &#39;feature/922-port-system-dashboard&#39; into feature/781-add-webex-verify-user-email-task
+- Fix webex services
+- #1668 error fixed
+- Removed the experimental webex bulk provisioning menu
+- Webex users now update and bulk update
+- Merge pull request #5 from parkbenchsolutions/develop
+- Development start
+- Merge pull request #1714 from abhijeetjha1995/1448-ent-dashboard-service-pack-is-still-showing-in-left
+- #1448 administrator policies - service pack issue fixed
+- #1671 1671-add-trunk-group-error
+- Update Webex Bulk Template and wizard
+- Merge branch &#39;develop&#39; into feature/781-add-webex-verify-user-email-task
+- Vvm refetch fixes
+- Merge develop
+- Merge pull request #1717 from parkbenchsolutions/bug/1716-refocus-callback-vvm
+- Merge pull request #1720 from anshuporwal01/1657-cannot-unassign-numbers-from-auto-attendant
+- #1668 error fixed after review
+- Merge pull request #1705 from parkbenchsolutions/901-not-able-to-change-the-trunk-group-name
+- Merge pull request #1707 from parkbenchsolutions/335-auto-attendants-display
+- Merge pull request #1703 from parkbenchsolutions/bug/916-goup-services-active-button-in-right-panel-should-be-placed-in-left
+- Merge pull request #1687 from parkbenchsolutions/bug/1593-issue-in-conferencing-sp-call-processing-policy
+- Merge pull request #1683 from parkbenchsolutions/bug/886-state-province-unselected
+- Merge pull request #1681 from parkbenchsolutions/bug/772-announcement-mov-extension-fixes
+- #1668
+- Merge pull request #1722 from abhijeetjha1995/1448-ent-dashboard-service-pack-is-still-showing-in-left
+- Merge pull request #1715 from parkbenchsolutions/bug/ent-dashboard-service-pack-is-still-showing-in-left
+- #1657 Changes Done after PR review
+- Merge pull request #1724 from anshuporwal01/1657-cannot-unassign-numbers-from-auto-attendant
+- Merge pull request #1721 from parkbenchsolutions/bug/894-cannot-unassign-numbers-from-auto-attendant
+- Cleanup and format date
+- Merge branch &#39;develop&#39; into feature/webex-user-menu-item
+- Switch from sugar to date-fns for date formatting
+- Update format pattern to new library
+- Fix runtime warning messages
+- Removed console logs
+- Removed commented code
+- New tab with copy uri, uuid key when making endpoint, dropdown userlevel select
+- Merge pull request #1685 from parkbenchsolutions/feature/webex-user-menu-item
+- Merge pull request #1726 from anshuporwal01/1671-add-trunk-group-error
+- Merge pull request #1732 from anshuporwal01/1527-unable-to-change-clid-for-group-business-profile-department-fixes
+- Merge pull request #1736 from anshuporwal01/1668-changing-trunk-group-name-not-require-new-sip-password
+- Creating uuid on form submit
+- Dynamically rendering URI tab if no urls available
+- Removed key input
+- Fixed servicePackName from servicePackeName
+- Merge pull request #1595 from parkbenchsolutions/feature/851-settings-webex-tab
+- Merge pull request #1737 from parkbenchsolutions/bug/882-changing-trunk-group-name-must-not-require-new-sip-password
+- Changed enpoint call from connectors to settings
+- Merge pull request #1738 from parkbenchsolutions/update-webex-api
+- Fixed front webex object
+- Switched to enabled
+- Merge pull request #483 from parkbenchsolutions/develop
+- #1691 method name issue spell
+- Merge pull request #1746 from abhijeetjha1995/1692-service-permission-issue-in-flexible-seating-host-Incoming-calling-plan
+- Update pull_request_template.md
+- Merge pull request #485 from parkbenchsolutions/develop
+- Merge pull request #1750 from anshuporwal01/#1691-group-assign-numbers-firefox
+- Update pull_request_template.md
+- #1671 Allow Unscreened Calls as False
+- Merge pull request #1755 from anshuporwal01/1671-add-trunk-group-error
+- Added bulk download options to webex users
+- Update required fields for webex bulk package update
+- Update required fields for webex verify email
+- Remove BulkEmailVerify download option
+- Remove commented code
+- Delete Webex Cookie upon logout
+- Rename bulk tasks
+- Cleaned up log message
+- Cleaned up log messages
+- Enable webex user form fields
+- Fixed a react re render bug caused by useEffect
+- Fix webex enabled check
+- Merge pull request #1767 from parkbenchsolutions/bug/webex-settings-rerender
+- Remove extra comments
+- Merge pull request #1727 from parkbenchsolutions/bug/880-add-trunk-group-error
+- Merge pull request #1734 from parkbenchsolutions/bug/1527-unable-to-change-clid-for-group-business-profile-department-with-none
+- Merge pull request #1747 from parkbenchsolutions/bug/910-service-permission-issue-in-flexible-seating-host
+- Merge pull request #1751 from parkbenchsolutions/bug/904-group-assign-numbers-firefox
+- Merge pull request #1756 from parkbenchsolutions/feature/webex-users-page-bulk
+- Recent task import from more specific file
+- Merge pull request #1775 from parkbenchsolutions/bug/recent-task-white-screen
+- Added retry webex tasks
+
+<br><br>
 ## 5.32.12 (2021-9-14)
 # Web Latest Releases
 ## 5.32.12 (2021-9-14)
@@ -1708,34 +2022,5 @@ Initial release
 ### Patches 
 
 - Fixed group dashboard services
-
-<br><br>
-## 5.10.4 (2020-8-18)
-### Patches 
-
-- Porting Selective Call Rejection to React
-- Fixes for: always getting error on key duplicate, on console..... added some unique keys
-- Simultaneous ring personal service
-- Code indentation and formatting
-- Simultaneous ring personal service changes
-- Sequential ring service
-- User guest service tab
-- Porting : Call Notify
-- Removed odin support from service provider dashboard menu
-- Fixed alert danger messages for CFA
-- Added lastName firstName user agent to user registration
-- Group dashboard, alias fixes
-- Changed menu
-- Added group dashboard panel logos
-- New menu development
-- Network Class of service
-- Network Class of Service
-- Branding fixes
-- Added user panel logos and group provisioning and user bulk services
-- Added branding template for user dashboard quick links panel
-- Header logo fixes
-- Adding policy check on Group Dashboard
-- Group dashboard license split into two
-- Changed password to newPassword in sip auth password change
 
 <br><br>
