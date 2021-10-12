@@ -1,4 +1,32 @@
 # API Latest Releases
+## 5.33.1 (2021-10-12)
+### Patches 
+
+- Support Password Reset for clustered BW instances
+- Put in check for null value
+- Fix for import class
+- Merge pull request #301 from parkbenchsolutions/hotfix/906-another-fix
+- Debug
+- Debug reset password
+- Debug reset password
+- Fix send email forgot password domain
+- Fix domains with forgot password
+- Debug domain
+- More debugging
+- More debug
+- More debug
+- Debugging
+- Fix error
+- More of the same
+- Fix bug
+- Updated clusters for multiple domains
+- Fix looping through domains
+- Another fix for domains
+- Debug
+- Bug with password reset url
+- Clean Up code
+
+<br><br>
 ## 5.33.0 (2021-10-4)
 ## Bug Fixes
 
@@ -1397,14 +1425,5 @@ sync
 - Add user quick links panel logo
 - Fixed inbound and outbound time user call reports
 - Added system password rules and return json object on group password modify
-
-<br><br>
-## 5.10.3 (2020-8-4)
-### Patches 
-
-- Added Group Account Authorization Codes OCI calls
-- Fix formatting and removed debug code
-- Group Account Authorization Codes
-- Added Group Account/Authorization Codes to AIM
 
 <br><br>
