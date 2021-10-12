@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.33.1 (2021-10-12)
+### Patches 
+
+- Sending domain for password reset
+- Add domain for password reset
+
+<br><br>
 ## 5.33.0 (2021-10-4)
 ## Bug Fixes
 
@@ -1921,11 +1928,5 @@ sync with api
 <br><br>
 ## 5.10.6 (2020-8-20)
 Initial release
-
-<br><br>
-## 5.10.5 (2020-8-20)
-### Patches 
-
-- Fixed group dashboard services
 
 <br><br>
