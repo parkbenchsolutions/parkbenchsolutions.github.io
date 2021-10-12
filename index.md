@@ -1,271 +1,31 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.33.0 (2021-10-4)
-## Bug Fixes
+## 5.33.1 (2021-10-12)
+### Patches 
 
-*   Recent Task loads properly now
-*   Webex settings re render
-*   Group Assign Number firefox loading issue
-*   Flexible seating host permissions updated
-*   CLID update fixed for business profile
-*   Add trunk group fixed
-*   Can unassign numbers for auto attendant
-*   Allow null values for group and user device tags
-*	Edit trunk group name
-*	Group services active column moved to left hand side
-*	Conferencing domain existing error fixed
-*	Loading spinner added to group services
-*	Call center statistics save button fixed
-*	Bulk wizard unauthorized request fixed
-*	Audit not able to add
-*	Quick links icons improperly set
-*	Device not found error
-*	Clone hostname cancel button fixed
-*	
-
-## Feature
-
-*	Charge number - user
-*	Group comm barr auth code bulk templates + download
-
-### Minor Changes 
-
-- Upgrade from Laravel 5.7 to 5.8
-- Upgrade Laravel from 5.8 to 6.0. Few changes as we were proactive in following Laravel suggestions.: - Initial commit to upgrade Laravel to 7.0.
-- Upgrade CORS
-- Updated composer.lock file
-- Upgrade to 5.8
-- Fix code to upgrade to 5.8
-- Upgrade to 6.x
-- Fix code to upgrade to 6.x
-- Fix code to upgrade to 7.x
-- Added Mailer Job Mailer and Swift On application load
-- Pull email configuration from database
-- Added testing for email
-- Email template
-- Added email template
-- Keeping Laravel 7,x up to date with changes to the API
-- Updated composer.lock file to work with Laravel 7 and api changes
-- Here&#39;s the update composer files. Compoer 2 is required.
-- Added base class
-- Fixed exception error handling function.
-- Token
-- Hot fix alternateTrunkIdentity
-- Hot fix alternateTrunkIdentity
-- Tablename callback templates fixed
-- Added settings to e911 pull from db
-- Added endpoints for e911
-- Added logic for user settings
-- Removed commented code
-- Removed token generate code
-- Acl::added ACL for user
-- Added new branding module
-- Added departments module
-- Department now can remove a parent department
-- Fixed PR for Department
-- Set pilotUserId to string
-- Allow Group Admins to clone Auto Attendants
-- Added primery info and public cluster login request
-- Allow access device update for SCA
-- Added throwable for setings
-- Allow device update
-- Check this out
-- Authorized function with serviceProviderId
-- Again
-- Update Authorized User and Group Services for Enterprise
-- Removed debug code
-- Fixed endpoint to include services array_filter replaced with array_map
-- Added links for call center to show
-- Removed return statement
-- Added authorized
-- Fixed array_unique for group services
-- Array_unique
-- 5.30.3
-- Added mailer label
-- Created alhpa build script
-- Added email address
-- Welcome message
-- Fixed phonism cache
-- Initial commit
-- Fixed server side task email
-- Initial commit 2
-- Added user call forwarding always bulk task
-- Removed old test blade templates
-- Added group admin users password mail bulk
-- Unset unused task variable for group admin users
-- Task controller was readded
-- Removed unused classes
-- Fixed userId column header template
-- Cleaned up unused code and fixed template
-- Early return statement
-- Removed logging
-- Removed commented code
-- Added optional message if we decide to support template
-- Added message back
-- Removed commen code TestTemplate
-- Added token revoke minutes and password reset url
-- Get api user from config
-- Commented out
-- 5.30.4
-- Changed message to emailMessage api post
-- Branding general settings
-- Added ui settings
-- Working on bug fixes
-- Added password reset url check
-- Something changed
-- Testing token from webex
-- Fixed user access device endpoint sip contact list api
-- Hotfix access device endpoint sip contact
-- Little bit of cleanup
-- A little more cleanup
-- Fixed a bug
-- Cleanup
-- Added subscriber delete
-- Passing cookie to webex method
-- Passing cookies
-- Webext
-- Fixed bug
-- Calling it
-- Make it private
-- Stuff and things
-- Tag value allow null on add
-- Check this in
-- Update Webex integration
-- Updated WebEx integration with odin security
-- Clean up code
-- Created 2 Webex product master records and removed debug code out fo a migration
-- Clean up code
-- Code clean up
-- Wrong name
-- Fixed semi-colon
-- Removed helper logs
-- Here
-- Webex Task init
-- IonCube fix
-- 5.31.3
-- 5.32.3 - 5.23.4
-- Revert &quot;5.32.3 - 5.23.4&quot;
-- Add webex access_token
-- Test
-- Updated routes for voice messaging
-- All routes verified in Postman
-- Fix: ensure valid bw.xsiUrlbefore processing
-- Changed throw message and empty function URL
-- User voice messaging update
-- Removed unnecessary use statement
-- Removed named routes as unnecessary
-- Removed test
-- Restored GroupCloneServicesHelperTest
-- Added support for updating voiceportal to task
-- Created user reports
-- Update label with correct report id
-- Renamed ServiceProviderUserReport + removed string declarations
-- Added data_get to User Service Search
-- SystemServicePack
-- Refactored SystemServicePackController2 to use new OCI class
-- Added SystemServicePackReport report
-- Created new user service reports
-- Cleaned up log message + undefined variable/index notices
-- Removed unnecessary imports
-- Service provider group department
-- Wrapped final json value in array
-- Added ServiceProviderGroupDepartmentReport + controller and route
-- Added migration for webex setting seed
-- Split out the three oci reports
-- Created reportengine reports
-- Updated client id/secret with default params
-- Created migration for renaming webex bulk templates/wizards
-- Add product webex users
-- Finished migration
-- Added service isntance report
-- Add test to skip migration if already exists
-- Test to ensure key does not already exist
-- Added System Licensing if user.login is system
-- Updated Webex Token Process and Endpoints
-- Fix integration in base class
-- Tinkering with queues and minor bug fixes
-- Add webex enterprises to product master migration
-- Added task for creating group communication barring authorization codes
-- Added delete task
-- Deactivate webex endpoint by default
-- Added try/catch for error handling
-- Created SystemLogin queue job to store system licensing report records weekly
-- Removed session reference
-- Set dispatch to send to listeners queue
-- Report status=running when running
-- Additional params in task calls are added to event &#39;after&#39; array
-- Remove log usages
-- Add attributes to events for device CRUD
-- No need to pass attributes on delete
-- Move expansion logic and always add groupId/serviceProviderId if present
-- Pass along attributes for groupcallcenter
-- Fixed virtualOnNetCallTypeName
-- Hostname for primary
-- Add try catch
-- Added use statement
-- Update configurations to send webex
-- HostnameForPrimary migration + added to event
-- Webex Modify User Package
-- Added hostnameForPrimary to Tasks and Reports
-- Cleanup
-- Audit fix for ServiceProviderDeviceType
-- Removed wrapping task run with exception handling
-- Use config param for queue dispatch delay value
-- Return empty devices
-- GroupDeviceCreate passes along attributes through DeviceHelper
-- Set queue delay to 3s
-- Flow attributes into new event.incoming column
-- Added attributes to other calls
-- Switched from incoming to options - complete
-- Disable fkconstraints during events column update
-- Update Webex settings to use hostname
-- Update Webex settings to use hostname
-- Data_get on url pair
-- Fixing group trunk group rename
-- Update UISetting to always send Webex
-- Update Webex Settings
-- Updated webex subscribers index
-- Spelling fix
-- Gitignore
-- Adding alternateUserId emails
-- Added Task error handling
-- Webex users bulk delete and update
-- Deactivate subscription endpoints for testing
-- Fix for zero as a tag value
-- Removed commented code
-- Update endpoints now sending to webex endpoints
-- Debug self service controller
-- More tests
-- Last try
-- Fixed bug
-- Fixed again
-- Fix front end issue for Webex
-- Update Webex Modify User Package
-- Fixed hostname bug
-- Checking back in
-- Check this for recpatcha
-- Update Verify Webex email
-- Fix to for invalid voice message format XSI
-- Finish up Webex Verify BW User Email
-- Added user service r22 blacklist
-- Ignore this
-- Fix aim for services not supported in r24 import from r21
-- Leverage Settings functions for Webex
-- Remove extra comments
-- Refactor Webex to leverage Setting
-- Fix Webex refactoring
+- Support Password Reset for clustered BW instances
+- Put in check for null value
+- Fix for import class
+- Merge pull request #301 from parkbenchsolutions/hotfix/906-another-fix
+- Debug
+- Debug reset password
+- Debug reset password
+- Fix send email forgot password domain
+- Fix domains with forgot password
+- Debug domain
+- More debugging
+- More debug
+- More debug
+- Debugging
+- Fix error
+- More of the same
 - Fix bug
-- Fix empty webex settings
-- Fixed webex pull of data
-- Debugging
-- Debugging
-- Fixed bug
-- Fetch webexapiurl out of endpoint
-- Cleanup spelling consistency
-- Rename webex bulk tasks
-- Updating single webex user now sends all fields
-- Added calling line id group audit and import
-- Changed import priority for group calling line id
+- Updated clusters for multiple domains
+- Fix looping through domains
+- Another fix for domains
+- Debug
+- Bug with password reset url
+- Clean Up code
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
