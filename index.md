@@ -5,27 +5,11 @@
 
 - Support Password Reset for clustered BW instances
 - Put in check for null value
-- Fix for import class
-- Merge pull request #301 from parkbenchsolutions/hotfix/906-another-fix
-- Debug
-- Debug reset password
-- Debug reset password
 - Fix send email forgot password domain
 - Fix domains with forgot password
-- Debug domain
-- More debugging
-- More debug
-- More debug
-- Debugging
-- Fix error
-- More of the same
-- Fix bug
 - Updated clusters for multiple domains
 - Fix looping through domains
-- Another fix for domains
-- Debug
-- Bug with password reset url
-- Clean Up code
+
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
