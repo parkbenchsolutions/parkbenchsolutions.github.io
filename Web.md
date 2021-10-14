@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.33.2 (2021-10-14)
+### Patches 
+
+- Update Webex bulk update subscriber
+
+<br><br>
 ## 5.33.1 (2021-10-12)
 ### Patches 
 
@@ -1924,9 +1930,5 @@ sync with api
 - Service Provider Admin Policies Error #453
 - User authentication auto generate not working #451
 - Authentication for user logged in
-
-<br><br>
-## 5.10.6 (2020-8-20)
-Initial release
 
 <br><br>
