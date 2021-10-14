@@ -1,15 +1,10 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.33.1 (2021-10-12)
+## 5.33.2 (2021-10-14)
 ### Patches 
 
-- Support Password Reset for clustered BW instances
-- Put in check for null value
-- Fix send email forgot password domain
-- Fix domains with forgot password
-- Updated clusters for multiple domains
-- Fix looping through domains
-
+- Group department bug
+- Added all the different shared call appearance audits
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
