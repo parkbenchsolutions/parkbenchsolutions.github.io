@@ -8,10 +8,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.1 (2021-10-12)
+## 5.33.2 (2021-10-14)
 ### Patches 
 
-- Sending domain for password reset
-- Add domain for password reset
+- Update Webex bulk update subscriber
 
   
