@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.4 (2021-11-2)
+Initial release
+
+<br><br>
 ## 5.33.3 (2021-11-2)
 ### Patches 
 
@@ -1993,11 +1997,5 @@ sync with api
 ### Patches 
 
 - Fixes for : When turning off read access at the group level for &#39;User Bulk Features&#39; - the panel still shows up on the Group Dashboard.
-
-<br><br>
-## 5.10.8 (2020-8-20)
-### Patches 
-
-- Group Series completion loading fixes
 
 <br><br>
