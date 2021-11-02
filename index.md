@@ -5,7 +5,6 @@
 
 - Added portal passcode migration to branding modules
 - Subscribers now returns all pages from webex
-- Subscribers now returns all pages from webex
 - Cleanup and done testing
 - Added bulk task for bulk tag modify phonism
 - Moved event to bottom
