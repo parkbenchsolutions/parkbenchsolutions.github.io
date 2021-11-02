@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.33.4 (2021-11-2)
+### Patches 
+
+- Fixed directory path sp feature access code
+- Merge pull request #314 from parkbenchsolutions/hotfix/sp-feature-access-code-dir
+
+<br><br>
 ## 5.33.3 (2021-11-2)
 ### Patches 
 
@@ -1407,10 +1414,6 @@ sync with web
 
 <br><br>
 ## 5.10.7 (2020-8-20)
-sync
-
-<br><br>
-## 5.10.6 (2020-8-20)
 sync
 
 <br><br>
