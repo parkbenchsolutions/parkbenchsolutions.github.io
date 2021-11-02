@@ -4,7 +4,7 @@
 ### Patches 
 
 - Fixed directory path sp feature access code
-- Merge pull request #314 from parkbenchsolutions/hotfix/sp-feature-access-code-dir
+
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
