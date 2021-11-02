@@ -3,7 +3,7 @@
 ### Patches 
 
 - Fixed directory path sp feature access code
-- Merge pull request #314 from parkbenchsolutions/hotfix/sp-feature-access-code-dir
+
 
 <br><br>
 ## 5.33.3 (2021-11-2)
