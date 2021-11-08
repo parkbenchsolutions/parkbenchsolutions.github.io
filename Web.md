@@ -1,4 +1,15 @@
 # Web Latest Releases
+## 5.33.5 (2021-11-8)
+### Patches 
+
+- Add Webex Verify Email Create User Buik Template
+- Merge pull request #1943 from parkbenchsolutions/feature/webex-user-create-verify-email
+- Fixed bulk features
+- Merge pull request #1948 from parkbenchsolutions/bug/bulk-user-features
+- Added phonism device tag modify
+- Merge pull request #1949 from parkbenchsolutions/feature/phonism.device.tag.modify
+
+<br><br>
 ## 5.33.4 (2021-11-2)
 sync with api
 
@@ -1991,11 +2002,5 @@ sync with api
 ### Patches 
 
 - Add service packs and users services to user create wizard #450
-
-<br><br>
-## 5.10.9 (2020-8-21)
-### Patches 
-
-- Fixes for : When turning off read access at the group level for &#39;User Bulk Features&#39; - the panel still shows up on the Group Dashboard.
 
 <br><br>
