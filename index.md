@@ -27,10 +27,8 @@
 ### Patches 
 
 - Add Webex Verify Email Create User Buik Template
-- Merge pull request #1943 from parkbenchsolutions/feature/webex-user-create-verify-email
 - Fixed bulk features
-- Merge pull request #1948 from parkbenchsolutions/bug/bulk-user-features
 - Added phonism device tag modify
-- Merge pull request #1949 from parkbenchsolutions/feature/phonism.device.tag.modify
+
 
   
