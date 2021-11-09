@@ -1,6 +1,6 @@
 # Web Latest Releases
 ## 5.33.7 (2021-11-9)
-Initial release
+sync with api
 
 <br><br>
 ## 5.33.6 (2021-11-9)
