@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.7 (2021-11-9)
+Initial release
+
+<br><br>
 ## 5.33.6 (2021-11-9)
 ### Patches 
 
@@ -1984,23 +1988,5 @@ sync with api
 <br><br>
 ## 5.10.12 (2020-8-27)
 sync with api
-
-<br><br>
-## 5.10.11 (2020-8-27)
-### Patches 
-
-- Branding permission implementation
-- Group admin branding
-- Fixes for viewable service pack
-- Group devices branding permissions
-- Device configuration
-- Group access code
-- Changes feature access code
-- Group-dashboard-permission
-- Group schedules hover service changes
-- Schedule event fixes
-- Fixed the multiple odin support forms
-- Fixed appendChild to append
-- Fixed password expired days ago
 
 <br><br>
