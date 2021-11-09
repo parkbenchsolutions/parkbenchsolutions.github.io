@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.33.6 (2021-11-9)
+### Patches 
+
+- Added multi-line SCAP to AIM
+
+<br><br>
 ## 5.33.5 (2021-11-8)
 ### Patches 
 
@@ -1429,9 +1435,5 @@ sync with api
 ### Patches 
 
 - Added detailed product descriptions to branding
-
-<br><br>
-## 5.10.8 (2020-8-20)
-sync with web
 
 <br><br>
