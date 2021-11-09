@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.33.7 (2021-11-9)
+Initial release
+
+<br><br>
 ## 5.33.6 (2021-11-9)
 ### Patches 
 
@@ -1429,11 +1433,5 @@ sync with api
 <br><br>
 ## 5.10.10 (2020-8-26)
 sync with api
-
-<br><br>
-## 5.10.9 (2020-8-21)
-### Patches 
-
-- Added detailed product descriptions to branding
 
 <br><br>
