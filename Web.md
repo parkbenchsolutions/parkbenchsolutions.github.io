@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.33.6 (2021-11-9)
+### Patches 
+
+- Bump immer from 8.0.4 to 9.0.6
+- Portal passcode canUpdate fixed with
+- Quick set added
+
+<br><br>
 ## 5.33.5 (2021-11-8)
 ### Patches 
 
@@ -1994,11 +2002,5 @@ sync with api
 - Fixed the multiple odin support forms
 - Fixed appendChild to append
 - Fixed password expired days ago
-
-<br><br>
-## 5.10.10 (2020-8-26)
-### Patches 
-
-- Add service packs and users services to user create wizard #450
 
 <br><br>
