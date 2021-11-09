@@ -23,12 +23,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.5 (2021-11-8)
+## 5.33.6 (2021-11-9)
 ### Patches 
 
-- Add Webex Verify Email Create User Buik Template
-- Fixed bulk features
-- Added phonism device tag modify
-
+- Bump immer from 8.0.4 to 9.0.6
+- Portal passcode canUpdate fixed with
+- Quick set added
 
   
