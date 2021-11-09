@@ -23,11 +23,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.6 (2021-11-9)
-### Patches 
-
-- Bump immer from 8.0.4 to 9.0.6
-- Portal passcode canUpdate fixed with
-- Quick set added
+## 5.33.7 (2021-11-9)
+Initial release
 
   
