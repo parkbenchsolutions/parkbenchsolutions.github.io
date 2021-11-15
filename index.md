@@ -19,7 +19,13 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.7 (2021-11-9)
-sync with api
+## 5.33.8 (2021-11-15)
+### Patches 
+
+- Call Disposition Codes(Call Center) fix
+- Code review chnages
+- Fix bug with saving webex settings
+- Remove comments
+- Add Verify Webex People Email Bulk Task
 
   
