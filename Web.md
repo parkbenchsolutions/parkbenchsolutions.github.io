@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.33.8 (2021-11-15)
+### Patches 
+
+- Call Disposition Codes(Call Center) fix
+- Code review chnages
+- Fix bug with saving webex settings
+- Remove comments
+- Add Verify Webex People Email Bulk Task
+
+<br><br>
 ## 5.33.7 (2021-11-9)
 sync with api
 
@@ -1984,9 +1994,5 @@ sync with api
 - Fixes for: Event History #462
 - Event history search
 - Basic call logs fixes
-
-<br><br>
-## 5.10.12 (2020-8-27)
-sync with api
 
 <br><br>
