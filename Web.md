@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.9 (2021-11-16)
+Initial release
+
+<br><br>
 ## 5.33.8 (2021-11-15)
 ### Patches 
 
@@ -1986,13 +1990,5 @@ sync with api
 - Broad works anywhere
 - Group Service Configuration Menu Bug #507
 - Basic call logs
-
-<br><br>
-## 5.10.13 (2020-9-1)
-### Patches 
-
-- Fixes for: Event History #462
-- Event history search
-- Basic call logs fixes
 
 <br><br>
