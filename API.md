@@ -1,6 +1,6 @@
 # API Latest Releases
 ## 5.33.10 (2021-11-16)
-Initial release
+sync
 
 <br><br>
 ## 5.33.9 (2021-11-16)
