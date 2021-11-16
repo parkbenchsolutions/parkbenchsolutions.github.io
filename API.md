@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.33.9 (2021-11-16)
+### Patches 
+
+- Update possible versions for FeatureAccessCode
+- Set to proper function
+
+<br><br>
 ## 5.33.8 (2021-11-15)
 ### Patches 
 
@@ -1438,14 +1445,5 @@ sync with api
 ### Patches 
 
 - Fixed cloudbuild-tag with ending quote
-
-<br><br>
-## 5.10.11 (2020-8-27)
-### Patches 
-
-- Added AIM to Emergency Zones for System, Reseller, and Group.
-- Cleaned up emergency response to simplify payload
-- Fixed controller security.
-- Blade file needed to be updated to fix the saving of the blacklisted field
 
 <br><br>
