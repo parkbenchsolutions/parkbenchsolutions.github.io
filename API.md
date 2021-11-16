@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.33.10 (2021-11-16)
+Initial release
+
+<br><br>
 ## 5.33.9 (2021-11-16)
 ### Patches 
 
@@ -1439,11 +1443,5 @@ sync with api
 ### Patches 
 
 - Added user id to event history endpoint
-
-<br><br>
-## 5.10.12 (2020-8-27)
-### Patches 
-
-- Fixed cloudbuild-tag with ending quote
 
 <br><br>
