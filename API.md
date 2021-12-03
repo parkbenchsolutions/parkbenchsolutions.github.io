@@ -1,4 +1,14 @@
 # API Latest Releases
+## 5.33.14 (2021-12-3)
+### Patches 
+
+- SP trunk group call capacity aim not assigned
+- Added group password rules
+- Audit/import for group device files
+- Added voice messaging greeting to bulk
+- Add support for v22 Service Provider PasswordRules
+
+<br><br>
 ## 5.33.13 (2021-12-2)
 ### Patches 
 
@@ -1452,17 +1462,5 @@ sync with api
 ### Patches 
 
 - Fixed event logging permissions for service provider id login
-
-<br><br>
-## 5.10.14 (2020-9-9)
-### Patches 
-
-- Added endpoints, AIM and added missing fields from blade file.
-- Added vvm stream
-- Added event restictions based on login type
-- Added user_login_type restriction for events view
-- Added visual voicemail xsi-actions and api endpoints
-- Removed debug messages from vvm
-- Set verify cert for xsi
 
 <br><br>
