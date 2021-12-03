@@ -1,4 +1,12 @@
 # Web Latest Releases
+## 5.33.14 (2021-12-3)
+### Patches 
+
+- Add rings before greeting option
+- Fixed breadcrumb logout bug
+- Update Breadcrumb styling
+
+<br><br>
 ## 5.33.13 (2021-12-2)
 ### Patches 
 
@@ -1958,15 +1966,5 @@ syny with api
 - Phone number fixes for users
 - CSV Download has JSON Object instead of json String #485
 - Branding issue Group Calling Plans #529
-
-<br><br>
-## 5.10.16 (2020-9-11)
-### Patches 
-
-- Call forwarding selective service
-- Switch button fixes
-- Call to number add in call forwading salective
-- Add group policy permission on group level devices feature
-
 
 <br><br>
