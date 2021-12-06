@@ -7,7 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.17 (2021-12-6)
-sync with api
+## 5.33.18 (2021-12-6)
+Initial release
 
   
