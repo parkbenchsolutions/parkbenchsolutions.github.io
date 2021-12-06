@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.33.17 (2021-12-6)
+### Patches 
+
+- Fixed aim ServiceProviderTrunkGroupCallCapacity not authorized
+
+<br><br>
 ## 5.33.16 (2021-12-6)
 ### Patches 
 
@@ -1456,11 +1462,5 @@ sync with api
 - Fix Pre Alerting IsActive Bug
 - Merge pull request #76 from parkbenchsolutions/bug/445-isActive-bug
 - Removed mediaContent from json message visual voice mail
-
-<br><br>
-## 5.10.17 (2020-9-16)
-### Patches 
-
-- Added voice message media content raw, AIM checking if userCustomUserNamePassword === true
 
 <br><br>
