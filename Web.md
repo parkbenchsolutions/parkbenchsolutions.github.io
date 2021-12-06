@@ -1,4 +1,59 @@
 # Web Latest Releases
+## 5.33.21 (2021-12-6)
+### Patches 
+
+- 1581- calling plan group auth code
+- 835 Porting Group calling plan - Code management #1578
+- Merge pull request #484 from parkbenchsolutions/develop
+- Merge pull request #1748 from anshuporwal01/1581-group-calling-plan-code-management
+- #1564 service fixes showing for enterprise level / not sp level
+- Merge pull request #1865 from anshuporwal01/1564-sp-call-center-settings
+- Merge pull request #519 from parkbenchsolutions/develop
+- #1905 ui fixes - user dashboard - group
+- CLID for redirected calls section is added
+- Merge pull request #1959 from parkbenchsolutions/develop
+- Fixes and changes for grp calling plan -code management
+- Announcement fixes for group and users level
+- User dashboard ui changes
+- Merge pull request #6 from parkbenchsolutions/develop
+- Merge branch &#39;1905-ui-fixes&#39; into resolve-confict-user-quick-set-ui-fixes-1905
+- Merge pull request #7 from anshuporwal01/resolve-confict-user-quick-set-ui-fixes-1905
+- Merge pull request #1988 from anshuporwal01/1905-ui-fixes
+- Ui dashboard menu service fixes
+- Merge branch &#39;1905-ui-fixes&#39; of https://github.com/anshuporwal01/odinweb into 1905-ui-fixes
+- Merge pull request #1990 from anshuporwal01/1905-ui-fixes
+- Group Services Branding Alias Not Showing On Department Dashboard - Common Phone List And Enterprise Directory
+- Groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2009 from Prithwidipta/1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #10 from parkbenchsolutions/develop
+- Revert code
+- Merge pull request #2016 from anshuporwal01/1928-ann-fixes
+- Merge pull request #2021 from abhijeetjha1995/2018-group-dashboard-group-services-user-feature
+- Fix group dashboard group service user feature need refresh after assignment
+- Remove unnecessary parms
+- Merge pull request #2027 from abhijeetjha1995/2018-group-dashboard-group-services-user-feature
+- 1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2029 from Prithwidipta/1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2041 from abhijeetjha1995/1507-group-admin-policy-number-activation
+- 743 Group Admin Policy Number Activation
+- Merge pull request #2043 from abhijeetjha1995/2032-bulk-wizard-UI-is-missed-import-sheet
+- Bulk wizard  ui is messed of import sheet fix
+- Merge pull request #2051 from abhijeetjha1995/2032-bulk-wizard-UI-is-missed-import-sheet
+- Merge pull request #2052 from abhijeetjha1995/1507-group-admin-policy-number-activation
+- Merge pull request #2069 from abhijeetjha1995/1392-call-policy-issue
+- Can change agent skill level on Odin Portel #2086
+- Adding validation check for Skill Level value
+- Merge pull request #2114 from parkbenchsolutions/issue/2086-skill-level-fix2
+- Merge pull request #2070 from parkbenchsolutions/enhancement/call-policy-issue-clid-for-redirected-calls-section-missing
+- Merge pull request #2044 from parkbenchsolutions/bug/1044-bulk-wizard-UI-is-missed-import-sheet
+- Merge pull request #2042 from parkbenchsolutions/bug/743-group-admin-policy-number-activation
+- Merge pull request #2022 from parkbenchsolutions/bug/1043-group-dashboard-group-services-user-feature
+- Merge pull request #2017 from parkbenchsolutions/bug/1000-rename-announcement-fixes
+- Merge pull request #2010 from parkbenchsolutions/bug/1341-group-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #1989 from parkbenchsolutions/bug/987-ui-issues-for-user-grp-dashboard
+- Merge pull request #1866 from parkbenchsolutions/bug/808-saml2-alpha-call-center-setting-ent-level
+
+<br><br>
 ## 5.33.20 (2021-12-6)
 sync with api
 
@@ -1828,99 +1883,5 @@ sync with api
 <br><br>
 ## 5.12.0 (2020-10-16)
 sync with api
-
-<br><br>
-## 5.11.5 (2020-10-16)
-### Patches 
-
-- Set up empty component for call forwarding history
-- Added some content to the history component, hard coded strings  will be removed and replaced with variables
-- Added an import for the history component to the ucfa component. set up a react-query call to make a call to the events endpoint filtering by the userId -- right now it is commented out to prevent a lot of calls to the API -- soon will add a more dynamic approach to the axios call by creating a history service file
-- Changed the token to be accessing the localstorage token rather, will change this to be more dynamic eventually
-- Added a call forwarding history service, in process of setting up api.show on the history side
-- Changed the limit query
-- Some more updates on history service
-- Created a ui-accordion component that takes data and displays a diff of the changesfrom before and after. as of now it only really is reliable for the call forwarding always component but it gets the job done. still need to add a few things to make it fully functional
-- Pop out menus now working when clicking the ellipsis
-- Full functionality for selecting a previous history with accordion dropdown
-- Took out an unneccesary line
-- Took out unused variables
-- Cleaned up scss file and a bit of the accordion component
-- Added consistensy between the history tabs and the cfa card above
-- Added useMutation hook but it&#39;s still not refetching on the update of CFA working on it still: - Tried to implement the useMutation hook but to no success
-- Took away colons and changed the text of the Forward to Phone Number for better consistensy: - Changed to appropriate proptypes
-- Updated react-query dependency, histories now update as a new PUT goes through to change their status of CFA: - Set a fake delay on the save edit that will help with the refetch of the cache. will try to move it off of a fake timeout eventually.: - Testing the invalidatingQueries method
-- Added note to change title back to date
-- Updated comments
-- Trying to set up a way to update the histories
-- Added a setTimeout to the useMutation hook to allow the user to update their history on edit
-- Changed the title of the accordions to the date stamp, using the full date and time. Made it prettier by spacing it out and making it a bit more readable
-- Cleaned up comments
-- Added username to the title of the accordions
-- Added an informative tooltip to tell the user that their update may not reflect in the history for a few minutes: - Updated spacing: - User-pre-alerting service fixes done expected api issue
-- Took out unused style
-- Putting the conversion to local time on the back burner to work on decoupling some of the code to make it a more reuseable component
-- Moved some of the beefy functions under the component to take up less space
-- Pulled the hardcoded method &#39;invalidateQueries&#39; into it&#39;s own function in the history service which allows any component to call the invalidate queries on the history
-- Pulled out all of the hard coded queries into the history service located in a generate history queries fn startDate and endDate are not yet dynamic but are in the starting phases of being changed
-- Search functionality partially works. I can&#39;t seem to narrow the search down on any other day rather than the current day
-- Implemented a drop down calendar to allow the user to select a range of dates to filter histories
-- Took out some unused variables
-- Removed unused comments and code
-- Branding module permissions
-- Password rules service
-- Group passworld rules services
-- Service provider password rules
-- Password rules
-- Reset password rules
-- Breaking functions into smaller peices to make them more reuseable
-- Removed unnecessary methods inside of the history service file and created a more reuseable index method that takes a url and a set of parameters
-- Created an events api library for the CFA History. Moved all of the API calls out of the history-service.js Now the CFA History component is referencing the api from the events and providing it all of the data that it needs in order to show the correct histories
-- Service provider branding groups
-- Change group services api path and night forwarding
-- Branding data changes
-- Event history permissions
-- Sp barnding settings changes
-- Removed unused comments
-- Formatted the code
-- Git status
-- Moved some of the varibales underneath the state so it has access to it
-- Reverted some changes back
-- Remove unwanted code
-- Group collaborate audio
-- Group collaborate audio
-- Group collaborate audio
-- Pre alerting
-- Password rules changes
-- Removed cfa-history-service and made it more generic with a /api/common/invalidate-queries that takes a user id and a query cache key that invalidates the queries asked for. change the api call on cfaHistory to eventsApi to make it more clear that we are using the api from the events. also changed the name of cfaApi to just api to make it more consistent between cfa and cfaHistory.
-- Reverted the package.json back to its original state - only updated react-query
-- Changed a comment to me a bit more informative
-91ac2e2594353380f47c6f08cda5fed5492bc4ea
-- Collaborate audio
-- Collaborate audio
-82b1b005cc5978f488958c4c496b240616e9fc5f
-- Collaborate audio
-- Visual voice messaging, react query fixes
-- Collaborate audio
-- Removed the configs for useQuery in voice-msg-checks.js so that now Visual Voice Mail is being displayed on the menu
-- Collaborate audio
-- Collaborate audio
-- Revert visual voice messaging
-- Group api path changes
-- !!!visual voice mail not showing up!!! #576
-- Group collaborate
-- Group collaborate
-- Changes for event history
-- Added forgot password and reset password template show/hide
-aa17ff922e370e982451cd10890d439ecb3acedc
-- Forgot and reset password permission
-- Forgot and reset password permission
-- Forget password
-- Remove unwanted code
-- Changes replace permission for ent trunk group
-- Fixes
-d170ea09d6f11f49d364d0a04d5214993d3b59d7
-- Password reset for reseller fixes #551
-
 
 <br><br>
