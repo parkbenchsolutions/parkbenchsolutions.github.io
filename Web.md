@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.19 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.18 (2021-12-6)
 sync with api
 
@@ -1918,18 +1922,5 @@ d170ea09d6f11f49d364d0a04d5214993d3b59d7
 <br><br>
 ## 5.11.4 (2020-9-30)
 syny with api
-
-<br><br>
-## 5.11.3 (2020-9-29)
-### Patches 
-
-- Çall park api axios
-- Call pickup api axios
-- Call park group service
-- Add Event Type selectable filter for search event history #526
-- Night forwarding group api axios
-- Event-type-filter
-- Added domains to bulk template example for enterprise clone
-- Bulk User Service Update from spreadsheet #564
 
 <br><br>
