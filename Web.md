@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.17 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.16 (2021-12-6)
 sync with api
 
@@ -1929,13 +1933,5 @@ syny with api
 ### Patches 
 
 - Fixed the download issue where file has no extension
-
-<br><br>
-## 5.11.1 (2020-9-25)
-### Patches 
-
-- System reset profile password service
-- Change password system admin rule
-- Adding loader in voice mail
 
 <br><br>
