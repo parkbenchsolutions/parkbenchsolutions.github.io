@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.18 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.17 (2021-12-6)
 sync with api
 
@@ -1927,11 +1931,5 @@ syny with api
 - Event-type-filter
 - Added domains to bulk template example for enterprise clone
 - Bulk User Service Update from spreadsheet #564
-
-<br><br>
-## 5.11.2 (2020-9-25)
-### Patches 
-
-- Fixed the download issue where file has no extension
 
 <br><br>
