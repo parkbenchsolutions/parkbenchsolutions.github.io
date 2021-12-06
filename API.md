@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.33.21 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.20 (2021-12-6)
 ### Patches 
 
@@ -1451,11 +1455,5 @@ Fix Group Extension Audit
 
 - Fixed blacklisted
 - Added check for product masters values
-
-<br><br>
-## 5.11.3 (2020-9-29)
-### Patches 
-
-- Ordered options for group bulk clone
 
 <br><br>
