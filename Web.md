@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.15 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.14 (2021-12-3)
 ### Patches 
 
@@ -1956,15 +1960,5 @@ syny with api
 - Delete sp level branding checkbox disabed
 - Fixes for disabled branding in a method
 - Removing lint issue
-
-<br><br>
-## 5.10.17 (2020-9-16)
-### Patches 
-
-- Sca changes System level device can not be modify by Ent/Group Admin
-- Permission for device sca module
-- Phone number fixes for users
-- CSV Download has JSON Object instead of json String #485
-- Branding issue Group Calling Plans #529
 
 <br><br>
