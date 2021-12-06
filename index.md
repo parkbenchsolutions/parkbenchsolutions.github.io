@@ -3,7 +3,7 @@
 ## 5.33.19 (2021-12-6)
 ### Patches 
 
-- Fixed use schedule update return
+- Fixed user schedule update return show
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
