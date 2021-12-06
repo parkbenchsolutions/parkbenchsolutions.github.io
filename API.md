@@ -2,7 +2,7 @@
 ## 5.33.20 (2021-12-6)
 ### Patches 
 
-- Add update alternate entries
+- Add update alternate entries to bulk user.update task
 
 <br><br>
 ## 5.33.19 (2021-12-6)
