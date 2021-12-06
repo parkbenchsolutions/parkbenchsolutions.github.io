@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.33.16 (2021-12-6)
+### Patches 
+
+- Added service is not assigned aim
+
+<br><br>
 ## 5.33.15 (2021-12-6)
 ### Patches 
 
@@ -1456,11 +1462,5 @@ sync with api
 ### Patches 
 
 - Added voice message media content raw, AIM checking if userCustomUserNamePassword === true
-
-<br><br>
-## 5.10.16 (2020-9-11)
-### Patches 
-
-- Updated Get User to work with Forgot Password
 
 <br><br>
