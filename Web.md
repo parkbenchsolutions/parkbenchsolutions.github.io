@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.33.20 (2021-12-6)
+Initial release
+
+<br><br>
 ## 5.33.19 (2021-12-6)
 sync with api
 
@@ -1918,9 +1922,5 @@ aa17ff922e370e982451cd10890d439ecb3acedc
 d170ea09d6f11f49d364d0a04d5214993d3b59d7
 - Password reset for reseller fixes #551
 
-
-<br><br>
-## 5.11.4 (2020-9-30)
-syny with api
 
 <br><br>
