@@ -3,7 +3,7 @@
 ## 5.33.18 (2021-12-6)
 ### Patches 
 
-- Merge options into instance
+- Merge group call park options into instance
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
