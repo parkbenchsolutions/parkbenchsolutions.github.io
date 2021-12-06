@@ -1,13 +1,9 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.33.14 (2021-12-3)
+## 5.33.15 (2021-12-6)
 ### Patches 
 
-- SP trunk group call capacity aim not assigned
-- Added group password rules
-- Audit/import for group device files
-- Added voice messaging greeting to bulk
-- Add support for v22 Service Provider PasswordRules
+- Added group dial plan policy
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
