@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.33.19 (2021-12-6)
+### Patches 
+
+- Fixed use schedule update return
+
+<br><br>
 ## 5.33.18 (2021-12-6)
 ### Patches 
 
@@ -1448,10 +1454,6 @@ Fix Group Extension Audit
 
 <br><br>
 ## 5.11.2 (2020-9-25)
-sync with api
-
-<br><br>
-## 5.11.1 (2020-9-25)
 sync with api
 
 <br><br>
