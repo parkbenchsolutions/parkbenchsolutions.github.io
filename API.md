@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.33.15 (2021-12-6)
+### Patches 
+
+- Added group dial plan policy
+
+<br><br>
 ## 5.33.14 (2021-12-3)
 ### Patches 
 
@@ -1456,11 +1462,5 @@ sync with api
 ### Patches 
 
 - Updated Get User to work with Forgot Password
-
-<br><br>
-## 5.10.15 (2020-9-9)
-### Patches 
-
-- Fixed event logging permissions for service provider id login
 
 <br><br>
