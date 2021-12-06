@@ -7,11 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.14 (2021-12-3)
-### Patches 
-
-- Add rings before greeting option
-- Fixed breadcrumb logout bug
-- Update Breadcrumb styling
+## 5.33.15 (2021-12-6)
+Initial release
 
   
