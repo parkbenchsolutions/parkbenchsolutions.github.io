@@ -113,25 +113,103 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.33.21 (2021-12-6)
-### Patches 
+## 5.34.0 (2021-12-9)
+### Minor Changes 
 
 - 1581- calling plan group auth code
 - 835 Porting Group calling plan - Code management #1578
 - #1564 service fixes showing for enterprise level / not sp level
+- Added templates to audit modal
+- Put shorttags option into options
+- Modify shorttag label
+- Add voice messaging user option
+- Added import newdomain+templates options
+- Don&#39;t show parent audit on audit details
+- Add tabs and tags to migrate modal
+- Fixed tags and form submit
 - #1905 ui fixes - user dashboard - group
+- Cleanup + refresh button for audits page
+- Refresh + bulk delete for audit/export/import
+- Refresh export
+- Update bulk tag service for audit
+- Add fallback template
+- Merge branch &#39;develop&#39; into feature/audit-templates
+- Feature: bulk re-run/delete audits
+- Add auditUserDeviceSettings option
+- Rename voice messaging settings only option
+- Changed default for auditDeviceUserSettings
 - CLID for redirected calls section is added
+- Add max audits + disable migrate until complete
+- Updated max audits message to use param
+- Feature: rerun/delete audit jobs
+- Merge branch &#39;develop&#39; into feature/audit-templates
+- Merge pull request #1959 from parkbenchsolutions/develop
+- Merge branch &#39;develop&#39; into feature/audit-templates
 - Fixes and changes for grp calling plan -code management
 - Announcement fixes for group and users level
 - User dashboard ui changes
+- Merge pull request #6 from parkbenchsolutions/develop
+- Merge branch &#39;1905-ui-fixes&#39; into resolve-confict-user-quick-set-ui-fixes-1905
+- Merge pull request #7 from anshuporwal01/resolve-confict-user-quick-set-ui-fixes-1905
+- Merge pull request #1988 from anshuporwal01/1905-ui-fixes
 - Ui dashboard menu service fixes
+- Merge branch &#39;1905-ui-fixes&#39; of https://github.com/anshuporwal01/odinweb into 1905-ui-fixes
+- Merge pull request #1990 from anshuporwal01/1905-ui-fixes
+- Add options to lookup destination userIds
+- Merge branch &#39;develop&#39; into feature/audit-templates
+- Added rerun feature to exports
 - Group Services Branding Alias Not Showing On Department Dashboard - Common Phone List And Enterprise Directory
+- Groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2009 from Prithwidipta/1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge branch &#39;develop&#39; into feature/audit-templates
+- Merge pull request #10 from parkbenchsolutions/develop
 - Revert code
+- Merge pull request #2016 from anshuporwal01/1928-ann-fixes
+- Merge pull request #2021 from abhijeetjha1995/2018-group-dashboard-group-services-user-feature
 - Fix group dashboard group service user feature need refresh after assignment
 - Remove unnecessary parms
+- Merge pull request #2027 from abhijeetjha1995/2018-group-dashboard-group-services-user-feature
+- 1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2029 from Prithwidipta/1341-groupg-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #2041 from abhijeetjha1995/1507-group-admin-policy-number-activation
 - 743 Group Admin Policy Number Activation
+- Merge pull request #2043 from abhijeetjha1995/2032-bulk-wizard-UI-is-missed-import-sheet
 - Bulk wizard  ui is messed of import sheet fix
+- Merge pull request #2051 from abhijeetjha1995/2032-bulk-wizard-UI-is-missed-import-sheet
+- Merge pull request #2052 from abhijeetjha1995/1507-group-admin-policy-number-activation
+- Merge pull request #2069 from abhijeetjha1995/1392-call-policy-issue
+- Merge branch &#39;develop&#39; into feature/audit-templates
+- Merge pull request #1876 from parkbenchsolutions/feature/audit-templates
+- Add rings before greeting option
+- Merge pull request #2103 from parkbenchsolutions/enhancement/bulk-user-voice-messaging-greeting
+- Added fusion cypress to cloudbuild
+- Fixed breadcrumb logout bug
+- Update Breadcrumb styling
+- Merge pull request #2106 from parkbenchsolutions/bug/1032-breadcrumb-last-segment
+- 5.33.15
+- Merge branch &#39;master&#39; into develop
+- 5.33.17
+- Merge branch &#39;master&#39; into develop
+- 5.33.19
+- Merge branch &#39;master&#39; into develop
 - Can change agent skill level on Odin Portel #2086
 - Adding validation check for Skill Level value
+- Merge pull request #2114 from parkbenchsolutions/issue/2086-skill-level-fix2
+- Merge pull request #2070 from parkbenchsolutions/enhancement/call-policy-issue-clid-for-redirected-calls-section-missing
+- Merge pull request #2044 from parkbenchsolutions/bug/1044-bulk-wizard-UI-is-missed-import-sheet
+- Merge pull request #2042 from parkbenchsolutions/bug/743-group-admin-policy-number-activation
+- Merge pull request #2022 from parkbenchsolutions/bug/1043-group-dashboard-group-services-user-feature
+- Merge pull request #2017 from parkbenchsolutions/bug/1000-rename-announcement-fixes
+- Merge pull request #2010 from parkbenchsolutions/bug/1341-group-services-branding-alias-not-showing-on-department-dashboard-common-phone-list-enterprise-directory
+- Merge pull request #1989 from parkbenchsolutions/bug/987-ui-issues-for-user-grp-dashboard
+- Merge pull request #1866 from parkbenchsolutions/bug/808-saml2-alpha-call-center-setting-ent-level
+- Merge branch &#39;master&#39; into develop
+- Update template options
+- Merge pull request #2134 from parkbenchsolutions/enhancement/aim-template-changes
+- Tweaked checkbox selections + disable max_audits
+- Add groupPagingTargetCapacity to CloneGroup
+- Default to unchecked
+- Merge pull request #2135 from parkbenchsolutions/enhancement/aim-template-changes
+- Merge pull request #2136 from parkbenchsolutions/enhancement/group-clone-grouppagingtargetcapacity
 
   
