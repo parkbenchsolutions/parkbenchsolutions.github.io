@@ -2,7 +2,7 @@
 ## 5.34.0 (2021-12-9)
 ### Minor Changes 
 
-- Scaffolding for applyimportoptions
+- Scaffolding for apply import options
 - Added short tags to audit
 - New audit procedure
 - Apply import options
@@ -14,14 +14,13 @@
 - Refactored BackupRecoveryClasses to use for import/audit mapping
 - Wip update
 - Update items to the array style
-- Templates added + reconfig getitems
+- Templates added + reconfig get items
 - Audit now supports more flexible transformation configuration
 - Tweaked audit+import listeners
 - Audit enrich lists of users
 - A bit more cleanup
 - Enrich audit data update on audit job
 - Updated audit.group.settings.Admins for testing audit run
-- More testing
 - Can now use deeper users nesting
 - Added audit template feature
 - Added audit templates endpoint
@@ -32,12 +31,11 @@
 - Remove advanced template
 - Variety of features
 - Added base to other audit classes
-- Move tests to run as testsuite
+- Move tests to run as test suite
 - Remove audit options from all except parent on completion
 - UserIdPrefix and userIdSuffix now appear in ShortTags
 - Update label in BLF callback template
 - Apply template transformations on export instead of import
-- More configuration for templates
 - Export sets top level params
 - Updates
 - Bulk delete for import/export/audit
@@ -47,11 +45,9 @@
 - Refactoring of transform lists + export options
 - Transform all root userIds
 - Add audit queue delay
-- Cleanup
-- Merge develop release tag
 - Refactored audit job state sequence
-- Export state changes update + additional audit userlistkeys
-- Refactored importuser + import state changes update
+- Export state changes update + additional audit user list keys
+- Refactored import user + import state changes update
 - Improvements to import
 - Refactored status setting + exception handling for aim
 - Add status + remaining for export job
@@ -60,87 +56,57 @@
 - Clear options for child import jobs
 - Updated full template
 - Reworked templates to specify includes for audit
-- Fixed: traitresponse compatible with Base
-- Merge branch &#39;develop&#39; into feature/aim-domain-change
+- Fixed: trait response compatible with Base
 - User call center
 - Fix: audit/import of callcenter agent-like targets
 - Feature: rerun audits
-- Can&#39;t refresh tokens from remote systems
-- Audit deviceusersettings option + switch logic for uservoicemessaging
+- Audit device user settings option + switch logic for user voice messaging
 - Other classes to transform
 - More transforms
 - Add call processing policy transform
 - Feature: rerun/delete audit jobs
 - All core audits skip if not defined in template
-- Mark&#39;s feature access code change added to backuprecovery
+- feature access code change added to backup recovery
 - Add feature access code to basic template
-- Merge develop
 - Two templates
-- Added comments to templates
-- Added
 - Created Classes\AIM folder and moved templates+helpers
-- Merge branch &#39;develop&#39; into feature/aim-domain-change
 - Resolved scott&#39;s comments
 - Templates can be individually run + can specify each type of includes
 - Wip
 - Finish splitting out the audit items
 - Fetches destination userIds for mapping
-- Merge branch &#39;develop&#39; into feature/aim-domain-change
 - Match destination phone number for userId
 - Handle tripartite targets like callParkGroup.instances.users
 - Add rerun endpoint for export
 - Added cluster hostname for OdinTestCase
 - Added items to UserServiceInstances Template
-- Merge branch &#39;develop&#39; into feature/aim-domain-change
 - Add dial plan policy classes to audit
 - Add excludes option to templates
 - Add Clarity Template
-- Merge branch &#39;develop&#39; into feature/aim-domain-change
-- Merge pull request #302 from parkbenchsolutions/feature/aim-domain-change
 - SP trunk group call capacity aim not assigned
 - Rename clarity template
-- Merge pull request #355 from parkbenchsolutions/bug/rename-clarity-template
-- Merge pull request #354 from parkbenchsolutions/bug/aim-service-trunk-group-is-not-authorized
 - Added group password rules
 - Audit/import for group device files
 - Added voice messaging greeting to bulk
-- Merge pull request #360 from parkbenchsolutions/feature/aim-group-device-files2
 - Added fusion-cypress to cloud build
-- Merge pull request #361 from parkbenchsolutions/enhancement/bulk-user-voice-messaging-greeting2
 - Add support for v22 Service Provider PasswordRules
-- Merge pull request #359 from parkbenchsolutions/enhancement/aim-user-schedules-exists
 - Add update alternate entries
 - Added group dial plan policy
-- Merge pull request #364 from parkbenchsolutions/feature/dial-plan-policy-aim
 - Added service is not assigned aim
-- Merge branch &#39;master&#39; into develop
-- Merge pull request #365 from parkbenchsolutions/bug/aim-group-outgoing-calling-plan-transfer-number
-- Merge branch &#39;master&#39; into develop
 - Fixed aim ServiceProviderTrunkGroupCallCapacity not authorized
-- Merge pull request #366 from parkbenchsolutions/bug/aim-service-provider-trunk-group-call-capacity
-- Merge options into instance
-- Merge pull request #367 from parkbenchsolutions/bug/aim-call-pickup-import-options
-- Merge branch &#39;master&#39; into develop
 - Fixed use schedule update return
-- Merge pull request #368 from parkbenchsolutions/bug/aim-group-user-schedules
-- Merge pull request #362 from parkbenchsolutions/enhancement/bulk-task-modify-user-altentries2
-- Merge branch &#39;master&#39; into develop
 - Added GroupPagingGroupTargetCapacity OCI call
 - Add to GroupClone and AIM
 - Update controller class call
-- Merge branch &#39;master&#39; into develop
 - Update templates and options
 - Add group to basic template
-- Merge pull request #372 from parkbenchsolutions/enhancement/aim-template-changes
 - Link audit/import for groupPagingGroupTargetCapacity to the GroupPagingGroup
-- Merge pull request #369 from parkbenchsolutions/enhancement/group-paging-targets-capacity
 - Patch for sca bulk
-- Merge pull request #373 from parkbenchsolutions/bug/setup-device-user-create-trait
 
 ### Patches 
 
 - Interpolate
-- Fiexed name for attributes
+- Fixed name for attributes
 - Fixed the import method
 - Refactored to allow for specifying any userId field to update
 
