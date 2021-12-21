@@ -1,35 +1,24 @@
 # API Latest Releases
 ## 5.34.1 (2021-12-21)
 ### Patches 
-
-- Rename dial plan policy
+- Chatbox Enabled
+- Add chatbotBranding to branding template
+- Update chatbotEnabled + boolean field
+- Aim audit groups bulk task
+- Added AimImportAudits bulk task
 - Added aim audit enterprise+serviceprovider bulk tasks
 - Added Network Class of Service to Comm Barring
-- Fixed feature access code single result set
-- Aim audit groups bulk task
-- Fix error handling in task
-- Fixed feature access code codes array
-- Fixed else statement for feature access codes
-- Set default orderby for audits
-- Add default sorting and provide updated_at to aim list requests
-- Aim set serviceprovider meetmeconferencingport on audit/import
-- Fixed aim import calling plan digit plan
-- Add chatbotBranding to branding template
+- Added default sorting and provide updated_at to aim list requests
 - Add to uiTemplateController
-- Chatbox Enabled
-- Update down function
-- Update chatbotEnabled + boolean field
-- Merge pull request #383 from parkbenchsolutions/bug/aim-outgoing-calling-plan-digit-plan
+- Add group meet me conference port to BRC for audit
+- Set default orderby for audits
+- Rename dial plan policy
+- Fixed feature access code single result set
+- Aim set serviceprovider meet me conferencing port on audit/import
+- Fixed aim import calling plan digit plan
 - Clear the error on re-run of import
-- Add groupmeetmeconferenceport to BRC for audit
-- Added AimImportAudits bulk task
-- Added endpoint to required
-- Merge pull request #385 from parkbenchsolutions/bug/aim-group-meetmeconference
-- Merge pull request #384 from parkbenchsolutions/bug/import-rerun-clearerror
-- Merge pull request #387 from parkbenchsolutions/feature/aim-bulk-import
-- Merge pull request #388 from parkbenchsolutions/feature/chatbot-branding
 - Do not return a warning if service meet-me-conferencing is not authorized
-- Merge pull request #389 from parkbenchsolutions/bug/audit-warning-meet-me-conferencing
+
 
 <br><br>
 ## 5.34.0 (2021-12-9)
