@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.34.3 (2021-12-21)
+Initial release
+
+<br><br>
 ## 5.34.2 (2021-12-21)
 rebase with web
 
@@ -1536,13 +1540,5 @@ Fix Group Extension Audit
 ### Patches 
 
 - Voice messaging response undefined response bug fixed
-
-<br><br>
-## 5.13.1 (2020-10-30)
-### Patches 
-
-- Added branding application type
-- Added nav bar category
-- Added branding modules for group and user calling plans
 
 <br><br>
