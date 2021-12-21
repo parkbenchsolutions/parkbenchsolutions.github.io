@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.34.2 (2021-12-21)
+Initial release
+
+<br><br>
 ## 5.34.1 (2021-12-21)
 ### Patches 
 - Chatbox Enabled
@@ -1540,13 +1544,5 @@ Fix Group Extension Audit
 - Added branding application type
 - Added nav bar category
 - Added branding modules for group and user calling plans
-
-<br><br>
-## 5.13.0 (2020-10-23)
-### Minor Changes 
-
-- Fixed media set names
-- Added database migration for menu bar
-- Added api return for top menu style large and page top menu title
 
 <br><br>
