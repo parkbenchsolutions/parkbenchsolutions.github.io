@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.3 (2021-12-21)
+Initial release
+
+<br><br>
 ## 5.34.2 (2021-12-21)
 rebase
 
@@ -1845,9 +1849,5 @@ sync with api
 - Panel &#39;Migrate&#39; link is now working as intended:
 - Added a new panel that holds all of the AIM links:
 - Fixes for #656 showing vdm provisioning left menu items:
-
-<br><br>
-## 5.13.2 (2020-10-30)
-sync with api
 
 <br><br>
