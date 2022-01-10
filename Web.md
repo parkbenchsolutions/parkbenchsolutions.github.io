@@ -4,9 +4,8 @@
 
 - Added filters and reordered columns to aim pages
 - Tweak filtering data table to match ids
-- Merge pull request #2244 from parkbenchsolutions/enhancement/aim-column-filtering
 - Exclude aim bulk tasks from wizards
-- Merge pull request #2251 from parkbenchsolutions/bug/remove-aim-bulk-wizards
+
 
 <br><br>
 ## 5.34.4 (2021-12-28)
