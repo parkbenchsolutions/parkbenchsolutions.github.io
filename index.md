@@ -39,21 +39,13 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.4 (2021-12-28)
+## 5.34.5 (2022-1-10)
 ### Patches 
 
-- porting system webhook done
-- Branding - alias added
-- Table date format
-- Code review changes
-- UI complete
-- Search  added in webhooks
-- Ui messed issue fixed
-- RowSortBy option added in ui data table
-- Resolve conflict for sorting
-- Removed extra blank line and pagesize
-- Adding page size
-- Changes for save button as generate
-
+- Added filters and reordered columns to aim pages
+- Tweak filtering data table to match ids
+- Merge pull request #2244 from parkbenchsolutions/enhancement/aim-column-filtering
+- Exclude aim bulk tasks from wizards
+- Merge pull request #2251 from parkbenchsolutions/bug/remove-aim-bulk-wizards
 
   
