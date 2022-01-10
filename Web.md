@@ -1,4 +1,14 @@
 # Web Latest Releases
+## 5.34.5 (2022-1-10)
+### Patches 
+
+- Added filters and reordered columns to aim pages
+- Tweak filtering data table to match ids
+- Merge pull request #2244 from parkbenchsolutions/enhancement/aim-column-filtering
+- Exclude aim bulk tasks from wizards
+- Merge pull request #2251 from parkbenchsolutions/bug/remove-aim-bulk-wizards
+
+<br><br>
 ## 5.34.4 (2021-12-28)
 ### Patches 
 
@@ -1837,9 +1847,5 @@ sync with api
 <br><br>
 ## 5.13.5 (2020-11-13)
 Sync with API
-
-<br><br>
-## 5.13.4 (2020-11-11)
-sync with api
 
 <br><br>
