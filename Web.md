@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.6 (2022-1-12)
+Initial release
+
+<br><br>
 ## 5.34.5 (2022-1-10)
 ### Patches 
 
@@ -1842,9 +1846,5 @@ sync with api
 - Query cache problem fixes
 - Bulk User Wizard Service Pack Limit Bug #665
 - Added fix for service instance profile update call center
-
-<br><br>
-## 5.13.5 (2020-11-13)
-Sync with API
 
 <br><br>
