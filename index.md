@@ -9,6 +9,8 @@
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
 ## 5.34.6 (2022-1-12)
-Initial release
+### Patches 
+
+- Added Charge numbers callback
 
   
