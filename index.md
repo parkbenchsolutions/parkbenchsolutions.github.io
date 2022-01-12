@@ -4,7 +4,7 @@
 ### Patches 
 
 - Added Charge numbers callback
-- Fixed the array_keys_exists for phone number chargify
+- Fixed the array_keys_exists for phone number numbers
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
