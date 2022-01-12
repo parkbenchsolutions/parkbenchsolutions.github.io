@@ -1,6 +1,8 @@
 # Web Latest Releases
 ## 5.34.6 (2022-1-12)
-Initial release
+### Patches 
+
+- Added Charge numbers callback
 
 <br><br>
 ## 5.34.5 (2022-1-10)
