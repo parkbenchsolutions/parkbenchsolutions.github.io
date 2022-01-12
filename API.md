@@ -3,7 +3,7 @@
 ### Patches 
 
 - Added Charge numbers callback
-- Fixed the array_keys_exists for phone number chargify
+- Fixed the array_keys_exists for phone number numbers
 
 <br><br>
 ## 5.34.5 (2022-1-10)
