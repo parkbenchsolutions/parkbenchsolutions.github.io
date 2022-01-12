@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.34.6 (2022-1-12)
+### Patches 
+
+- Charge numbers
+- Fixed the array_keys_exists for phone number chargify
+
+<br><br>
 ## 5.34.5 (2022-1-10)
 ### Patches 
 
@@ -1570,11 +1577,5 @@ After
 <br><br>
 ## 5.13.5 (2020-11-16)
 Fix Group Extension Audit
-
-<br><br>
-## 5.13.4 (2020-11-11)
-### Patches 
-
-- Patched password rules ending comma
 
 <br><br>
