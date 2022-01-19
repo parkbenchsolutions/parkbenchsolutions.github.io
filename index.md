@@ -9,7 +9,7 @@
 - Add service instances to full template
 - Reseller added to template
 - Fix route for groups/devices/users
-- Added receptionist
+- Added broadworks receptionist
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
