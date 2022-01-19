@@ -8,7 +8,7 @@
 - Add service instances to full template
 - Reseller added to template
 - Fix route for groups/devices/users
-- Added receptionist
+- Added broadworks receptionist
 
 <br><br>
 ## 5.34.6 (2022-1-12)
