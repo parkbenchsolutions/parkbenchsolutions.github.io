@@ -3,7 +3,17 @@
 ### Patches 
 
 - Control all defaults on audit template selection
-- Merge pull request #2283 from parkbenchsolutions/enhancement/aim-template-defaults
+
+```text
+odinapi
+- Add hostnameForPrimary to system report json
+- Add column via migration
+- Use camelcase attribute
+- Add service instances to full template
+- Reseller added to template
+- Fix route for groups/devices/users
+- Added broadworks receptionist
+```
 
 <br><br>
 ## 5.34.6 (2022-1-12)
