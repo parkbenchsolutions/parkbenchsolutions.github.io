@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.34.7 (2022-1-19)
+### Patches 
+
+- Add hostnameForPrimary to system report json
+- Add column via migration
+- Use camelcase attribute
+- Add service instances to full template
+- Reseller added to template
+- Fix route for groups/devices/users
+- Added receptionist
+
+<br><br>
 ## 5.34.6 (2022-1-12)
 ### Patches 
 
@@ -1573,9 +1585,5 @@ After
 - Added group calling plan digit pattern to AIM
 - Added 2nd group modify
 - Added aim password passcode rules group and service provider
-
-<br><br>
-## 5.13.5 (2020-11-16)
-Fix Group Extension Audit
 
 <br><br>
