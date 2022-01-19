@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.8 (2022-1-19)
+Initial release
+
+<br><br>
 ## 5.34.7 (2022-1-19)
 ### Patches 
 
@@ -1833,28 +1837,5 @@ sync with api
 ### Patches 
 
 - Group Emergency Zones #477
-
-<br><br>
-## 5.14.0 (2020-11-30)
-### Minor Changes 
-
-- Bulk password rules bug #642
-- Bulk password generation
-- Call park group and pickup issue fixes #668
-- Space issue fixes call-park and call-pickup
-- Space fixes in group and users level
-- Call-center line spacing
-- Broadwork anywhere fixes
-- Call center thresholds
-- Hunt group pre-alerting service
-- Remove unwanted comment and query chache key purals
-- Hunt-group querychache key changes
-- Group Call Processing Policies SLOW and ERROR #672
-- Fixed spelling in agents and thresholds
-
-### Patches 
-
-- Merge branch &#39;bug-fixes-pankaj&#39; of https://github.com/pankajs1306/odinweb into bug-fixes-pankaj
-- Thresholds
 
 <br><br>
