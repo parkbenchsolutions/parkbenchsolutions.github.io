@@ -7,20 +7,7 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.7 (2022-1-19)
-### Patches 
-
-- Control all defaults on audit template selection
-
-```text
-odinapi
-- Add hostnameForPrimary to system report json
-- Add column via migration
-- Use camelcase attribute
-- Add service instances to full template
-- Reseller added to template
-- Fix route for groups/devices/users
-- Added broadworks receptionist
-```
+## 5.34.8 (2022-1-19)
+Initial release
 
   
