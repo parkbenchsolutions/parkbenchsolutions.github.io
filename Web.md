@@ -1,4 +1,11 @@
 # Web Latest Releases
+## 5.34.7 (2022-1-19)
+### Patches 
+
+- Control all defaults on audit template selection
+- Merge pull request #2283 from parkbenchsolutions/enhancement/aim-template-defaults
+
+<br><br>
 ## 5.34.6 (2022-1-12)
 ### Patches 
 
@@ -1839,14 +1846,5 @@ sync with api
 
 - Merge branch &#39;bug-fixes-pankaj&#39; of https://github.com/pankajs1306/odinweb into bug-fixes-pankaj
 - Thresholds
-
-<br><br>
-## 5.13.6 (2020-11-18)
-### Patches 
-
-- Call-center-supervisor fixes#418
-- Query cache problem fixes
-- Bulk User Wizard Service Pack Limit Bug #665
-- Added fix for service instance profile update call center
 
 <br><br>
