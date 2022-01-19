@@ -2,7 +2,7 @@
 ## 5.34.8 (2022-1-19)
 ### Patches 
 
-- Fixed hostname for primary
+- Fixed hostname for primary for system licensing reporting
 
 <br><br>
 ## 5.34.7 (2022-1-19)
