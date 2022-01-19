@@ -13,9 +13,10 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.6 (2022-1-12)
+## 5.34.7 (2022-1-19)
 ### Patches 
 
-- Added Charge numbers callback
+- Control all defaults on audit template selection
+- Merge pull request #2283 from parkbenchsolutions/enhancement/aim-template-defaults
 
   
