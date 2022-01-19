@@ -1,4 +1,10 @@
 # API Latest Releases
+## 5.34.8 (2022-1-19)
+### Patches 
+
+- Fixed hostname for primary
+
+<br><br>
 ## 5.34.7 (2022-1-19)
 ### Patches 
 
@@ -1577,13 +1583,5 @@ After
 - Fixed selective call acceptance bug
 - Added aim group call center enhanced reporting check
 - Added announcement capture for auto attendant
-
-<br><br>
-## 5.13.6 (2020-11-18)
-### Patches 
-
-- Added group calling plan digit pattern to AIM
-- Added 2nd group modify
-- Added aim password passcode rules group and service provider
 
 <br><br>
