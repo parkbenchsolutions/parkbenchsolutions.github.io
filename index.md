@@ -1,9 +1,10 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.34.8 (2022-1-19)
+## 5.34.9 (2022-1-21)
 ### Patches 
 
-- Fixed hostname for primary for system licensing reporting
+- Removed snake case
+- Added client license 4 alias update for assigned service user
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
