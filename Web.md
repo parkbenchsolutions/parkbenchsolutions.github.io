@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.9 (2022-1-21)
+Initial release
+
+<br><br>
 ## 5.34.8 (2022-1-19)
 sync with api
 
@@ -1831,11 +1835,5 @@ sync with api
 - Calling plan branding
 - Group paging pre-alerting service fixes
 - Group paging changes
-
-<br><br>
-## 5.14.1 (2020-12-1)
-### Patches 
-
-- Group Emergency Zones #477
 
 <br><br>
