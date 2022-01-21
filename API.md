@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.34.10 (2022-1-21)
+Initial release
+
+<br><br>
 ## 5.34.9 (2022-1-21)
 ### Patches 
 
@@ -1570,11 +1574,5 @@ After
 - Added Conference URI field
 - Added import for submenu code
 - Added code to check to see if the dn is assigned during a bulk user create if so ignore the number process
-
-<br><br>
-## 5.14.1 (2020-12-1)
-### Patches 
-
-- Fixed bug with close
 
 <br><br>
