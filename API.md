@@ -1,4 +1,11 @@
 # API Latest Releases
+## 5.34.9 (2022-1-21)
+### Patches 
+
+- Removed snake case
+- Added client license 4 alias update for assigned service user
+
+<br><br>
 ## 5.34.8 (2022-1-19)
 ### Patches 
 
@@ -1569,19 +1576,5 @@ After
 ### Patches 
 
 - Fixed bug with close
-
-<br><br>
-## 5.14.0 (2020-11-30)
-### Minor Changes 
-
-- Added timeZone conversion to fix utc client side issue
-- AIM fixed speed dial 100 bug when speedCodes is empty
-- Checking for criteria selective call acceptance and communictor service on import
-- Added update to import of group dn
-- Activate dn after assignment
-- Added changed for group dn create and group dn update and group create for aim
-- Fixed selective call acceptance bug
-- Added aim group call center enhanced reporting check
-- Added announcement capture for auto attendant
 
 <br><br>
