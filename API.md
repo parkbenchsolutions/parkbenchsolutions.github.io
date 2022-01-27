@@ -1,4 +1,9 @@
 # API Latest Releases
+## 5.34.11 (2022-1-26)
+added group services only audit
+adde user only audit
+
+<br><br>
 ## 5.34.10 (2022-1-21)
 sync with web
 
@@ -1564,15 +1569,5 @@ After
 - Fix service provider schedule aim import
 - Fixed enterprise schedules AIM and update function
 - Fixed voice messaging portal AIM
-
-<br><br>
-## 5.14.2 (2020-12-3)
-### Patches 
-
-- Submenu aa aim
-- Added branding module service provider call processing policies
-- Added Conference URI field
-- Added import for submenu code
-- Added code to check to see if the dn is assigned during a bulk user create if so ignore the number process
 
 <br><br>
