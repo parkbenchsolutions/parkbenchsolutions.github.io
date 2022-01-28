@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.12 (2022-1-28)
+Initial release
+
+<br><br>
 ## 5.34.11 (2022-1-27)
 sync with api
 
@@ -1839,9 +1843,5 @@ sync with api
 - Utilization Report Numbers #750
 - Not able to change Active Status of Criteria(Sequential Ring &amp; Simultaneous Ring Personal) #764
 - Emergency Call Notification #754
-
-<br><br>
-## 5.15.1 (2020-12-21)
-sync with api
 
 <br><br>
