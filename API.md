@@ -1,4 +1,16 @@
 # API Latest Releases
+## 5.34.13 (2022-2-1)
+### Patches 
+
+- Add clustered database param for audit
+- Add database param to template call
+- Clustered db lookup for imports
+- Bulkable events tweak + group device bulkable
+- Bulkable group device deletes
+- Display any errors in the task
+- Pass along attributes to dispatched events
+
+<br><br>
 ## 5.34.12 (2022-1-28)
 ### Patches 
 
@@ -1544,11 +1556,5 @@ After
 - Added task as setupNumber
 - Added premium indicator to product master services
 - Added premium enterprse services as indicator intable
-
-<br><br>
-## 5.15.1 (2020-12-21)
-### Patches 
-
-- Fixed EOD
 
 <br><br>
