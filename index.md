@@ -13,7 +13,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.12 (2022-1-28)
-sync with API
+## 5.34.13 (2022-2-1)
+### Patches 
+
+- Add bulk task for group device delete
 
   
