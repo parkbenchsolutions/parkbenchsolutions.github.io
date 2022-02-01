@@ -1,9 +1,15 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.34.12 (2022-1-28)
+## 5.34.13 (2022-2-1)
 ### Patches 
 
-- Fix Altnernate User Id issue for Group Admins
+- Add clustered database param for audit
+- Add database param to template call
+- Clustered db lookup for imports
+- Bulkable events tweak + group device bulkable
+- Bulkable group device deletes
+- Display any errors in the task
+- Pass along attributes to dispatched events
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
