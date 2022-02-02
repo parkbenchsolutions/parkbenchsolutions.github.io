@@ -8,6 +8,6 @@
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
 ## 5.34.15 (2022-2-2)
-Initial release
+API server Added check for r24 login
 
   
