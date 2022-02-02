@@ -7,9 +7,9 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.13 (2022-2-1)
+## 5.34.14 (2022-2-2)
 ### Patches 
 
-- Add bulk task for group device delete
+- Fix Webex API URL setting
 
   
