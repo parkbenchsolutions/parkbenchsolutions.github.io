@@ -3,7 +3,7 @@
 ## 5.34.15 (2022-2-2)
 ### Patches 
 
-- Added another check for r24 login
+- Added check for r24 login
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
