@@ -1,4 +1,8 @@
 # Web Latest Releases
+## 5.34.15 (2022-2-2)
+Initial release
+
+<br><br>
 ## 5.34.14 (2022-2-2)
 ### Patches 
 
@@ -1790,9 +1794,5 @@ sync with api
 - Group ECN save button disabled if no email provided
 - Reseller ECN save disabled if email input is empty
 - SP ECN save disabled if email input is empty
-
-<br><br>
-## 5.17.1 (2021-1-29)
-sync with api
 
 <br><br>
