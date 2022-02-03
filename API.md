@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.34.16 (2022-2-3)
+Initial release
+
+<br><br>
 ## 5.34.15 (2022-2-2)
 ### Patches 
 
@@ -1515,12 +1519,5 @@ After
 - Move migration to it&#39;s own PR. We can than get the Resellers and SP/Ent set up before releasing the code.
 - Added alertingCallingLineIdPhoneNumberMode exe
 - Added fields to Executive response. Also, updated Helper::debug function to show method and class automatically.
-
-<br><br>
-## 5.17.1 (2021-1-29)
-### Patches 
-
-- Added AIM for executive assistant
-- Added call center monitoring AIM agent request
 
 <br><br>
