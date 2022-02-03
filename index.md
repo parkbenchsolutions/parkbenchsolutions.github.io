@@ -1,8 +1,7 @@
 
 # API Current Release <small>([View All](/API.md))</small>
-## 5.34.16 (2022-2-3)
-Sync with web
-- fix auto attendant call detail report
+## 5.34.17 (2022-2-3)
+Initial release
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
