@@ -7,6 +7,6 @@ Sync with web
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
 ## 5.34.17 (2022-2-3)
-Initial release
+- aa-user-call-record-data bug fix
 
   
