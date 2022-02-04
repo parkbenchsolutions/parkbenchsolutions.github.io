@@ -10,9 +10,11 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.18 (2022-2-4)
+## 5.34.19 (2022-2-4)
 ### Patches 
 
-- Fixed user call record data aa
+- Remove password fields from list of required fields
+- Sip password freeze fix
+- Sip password failure gives error message
 
   
