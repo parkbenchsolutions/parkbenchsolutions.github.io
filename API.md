@@ -1,6 +1,11 @@
 # API Latest Releases
 ## 5.34.20 (2022-2-4)
-Initial release
+### Patches 
+
+- Allow enforce association limit hours up to 999
+- Fix ui-data-table searching on dot notation colnames
+- Return a more helpful error on bad userid in task
+- Improve error message instruction
 
 <br><br>
 ## 5.34.19 (2022-2-4)
