@@ -1,4 +1,10 @@
 # Web Latest Releases
+## 5.34.18 (2022-2-4)
+### Patches 
+
+- Fixed user call record data aa
+
+<br><br>
 ## 5.34.17 (2022-2-3)
 - aa-user-call-record-data bug fix
 
@@ -1754,9 +1760,5 @@ After
 }
 
 ```
-
-<br><br>
-## 5.19.1 (2021-2-23)
-sync with api
 
 <br><br>
