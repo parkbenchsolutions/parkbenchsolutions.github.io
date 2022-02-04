@@ -1,4 +1,8 @@
 # API Latest Releases
+## 5.34.18 (2022-2-4)
+Initial release
+
+<br><br>
 ## 5.34.17 (2022-2-3)
 sync with api
 
@@ -1506,9 +1510,5 @@ After
 ### Patches 
 
 - Fixed build error with reseller emergency notification
-
-<br><br>
-## 5.19.0 (2021-2-23)
-5.19.0
 
 <br><br>
