@@ -1,4 +1,13 @@
 # Web Latest Releases
+## 5.34.20 (2022-2-4)
+### Patches 
+
+- Allow enforce association limit hours up to 999
+- Fix ui-data-table searching on dot notation colnames
+- Return a more helpful error on bad userid in task
+- Improve error message instruction
+
+<br><br>
 ## 5.34.19 (2022-2-4)
 ### Patches 
 
@@ -1718,17 +1727,5 @@ sync with api
 - Breadcrumb issue fixes #783
 - Change path name
 - Group Call Park Breadcrumb fixed to insert correct serviceProviderId and groupId
-
-<br><br>
-## 5.19.3 (2021-2-24)
-### Patches (API SYNC)
-
-> fixed the json post to phonism where the options are being sent down as a json array of options to phonism client
-
-```php
-$res = $this->client->request($method, self::$URL . $url, ['json' => $options]);
-```
-
-
 
 <br><br>
