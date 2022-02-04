@@ -10,11 +10,12 @@
 
 <br><br>
 # Web Current Release <small>([View All](/Web.md))</small>
-## 5.34.19 (2022-2-4)
+## 5.34.20 (2022-2-4)
 ### Patches 
 
-- Remove password fields from list of required fields
-- Sip password freeze fix
-- Sip password failure gives error message
+- Allow enforce association limit hours up to 999
+- Fix ui-data-table searching on dot notation colnames
+- Return a more helpful error on bad userid in task
+- Improve error message instruction
 
   
