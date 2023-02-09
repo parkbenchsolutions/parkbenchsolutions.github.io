@@ -1,27 +1,9 @@
 # Odin Releases
 
-[Release 6.7.x](/6.7.x.md)
+#### [Release 6.7.x](/6.7.x.md)
 
-<small>([View All](/API.md))</small>
+#### [Release 6.6.x](/6.6.x.md)
 
-## 5.34.20 (2022-2-4)
+#### [Release 6.5.x](/6.5.x.md)
 
-### Patches
-
-- Test Allow enforce association limit hours up to 999
-- Fix ui-data-table searching on dot notation colnames
-- Return a more helpful error on bad userid in task
-- Improve error message instruction
-
-<br><br>
-
-# Web Current Release <small>([View All](/Web.md))</small>
-
-## 5.34.20 (2022-2-4)
-
-### Patches
-
-- Allow enforce association limit hours up to 999
-- Fix ui-data-table searching on dot notation colnames
-- Return a more helpful error on bad userid in task
-- Improve error message instruction
+#### [Release 6.4.x](/6.4.x.md)
