@@ -1,4 +1,4 @@
-# Odin Releases
+# Rev.io Odin Releases
 
 #### [Release 6.7.x](/6.7.x.md)
 
