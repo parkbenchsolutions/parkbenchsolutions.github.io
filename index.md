@@ -1,4 +1,8 @@
-# API Current Release <small>([View All](/API.md))</small>
+# Odin Releases
+
+[Release 6.7.x](/6.7.x.md)
+
+<small>([View All](/API.md))</small>
 
 ## 5.34.20 (2022-2-4)
 
