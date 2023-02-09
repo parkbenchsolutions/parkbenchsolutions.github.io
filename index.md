@@ -11,3 +11,5 @@
 ##### [Release 6.4.x](/6.4.x.md)
 
 ##### [Release 6.3.x](/6.3.x.md)
+
+##### [Release 6.2.x](/6.2.x.md)
