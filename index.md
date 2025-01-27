@@ -1,7 +1,7 @@
 # Rev.io Odin Releases
 
 ##### [Release 7.0.x](/7.0.x.md)
-##### [Test](https://github.com/rev-io/revio-psa-api
+##### [Test](https://github.com/rev-io/revio-psa-api/README.md)
 ##### [Release 6.7.x](/6.7.x.md)
 
 ##### [Release 6.6.x](/6.6.x.md)
